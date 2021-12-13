@@ -1,0 +1,4 @@
+[submodule "basic_site/public"]
+	path = basic_site/public
+	url = https://github.com/ABeardsell/ABeardsell.github.io.git
+	branch = main
