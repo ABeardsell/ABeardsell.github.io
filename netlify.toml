@@ -6,7 +6,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.87.0"
-  HUGO_THEME = "airspace"
+  HUGO_THEME = "airspace-hugo"
   HUGO_BASEURL = "/"
 
 
