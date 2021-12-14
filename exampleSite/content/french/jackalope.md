@@ -1,6 +1,6 @@
 ---
 title: "Défi Jackalope 2022"
-description: "Course d’aventure multisports - 5 juin 2022"
+description: "Course d’aventure multisports"
 bg_image: "images/slider-bg.png"
 layout: "service"
 draft: false
