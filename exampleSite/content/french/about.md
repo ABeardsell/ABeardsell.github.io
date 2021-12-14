@@ -10,8 +10,13 @@ about:
   enable: true
   title: "RIKICO"
   description: ""
-  content: "Le club de courses d’orientation et d’aventure RIKICO est un organisme à but non lucratif (OBNL) ayant comme mandat la promotion et l’organisation de course d’orientation et d’aventures au Bas-Saint-Laurent.
-    L’objectif du club est d’organiser des courses d’orientation dans différents secteurs de la région."
+  content: "Le club de courses d’orientation et d’aventure RIKICO est un organisme à but non lucratif (OBNL)
+  ayant comme mandat la promotion et l’organisation de course d’orientation et d’aventures au Bas-Saint-Laurent.
+  
+ RIKICO a été fondé en 2021 par Andréanne Beardsell, Olivier Legault et André Cyr. RIKICO a l'objectif de promouvoir l’activité physique chez les adultes et les jeunes par l'entremise
+ de différents événements sportifs en pleine nature. Notre passion pour ce sport couplée à notre envie de faire découvrir des espaces naturels de notre région est au cœur de
+  nos motivations.
+ "
   image: "images/about_us.png"
 
 #button:
