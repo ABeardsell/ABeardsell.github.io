@@ -19,7 +19,7 @@ about:
   title: "RIKICO"
   description: ""
   content: "Le club de courses d’orientation et d’aventure RIKICO est un organisme à but non lucratif
-  ayant comme mandat la promotion et l’organisation de course d’orientation et d’aventures au Bas-Saint-Laurent."
+  ayant comme mandat la promotion et l’organisation de courses d’orientation et d’aventure au Bas-Saint-Laurent."
   image: "images/about_Rikico.jpg"
 ############################# Service ############################
 service:
