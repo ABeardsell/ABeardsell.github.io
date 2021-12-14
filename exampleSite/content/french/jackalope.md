@@ -1,6 +1,6 @@
 ---
-title: "Défi Jackalope"
-description: "Course d’aventure multisports"
+title: "Défi Jackalope 2022"
+description: "Course d’aventure multisports - 5 juin 2022"
 bg_image: "images/slider-bg.png"
 layout: "service"
 draft: false
@@ -30,7 +30,8 @@ des transitions d’épreuves. L’organisation de la course s’occupe de trans
 ### À quoi vous attendre
 
 Le parcours de base est accessible et réalisable pour tout niveau sportif,
-tandis que les points de contrôles avancés offriront un défi aux équipes qui le souhaite.
+tandis que les points de contrôles avancés offriront un défi aux équipes qui le souhaitent.
+Les distances indiquées ci-bas varient selon vos décisions et si vous allez chercher les points de contrôles avancés.
 
 ### Durée
 
@@ -55,15 +56,14 @@ featured_service:
     - name : "Course"
       icon : "fas fa-running"
       color : "primary"
-      content : "10-18 km (varie selon vos décisions et si vous allez chercher les points de contrôles avancés).
+      content : "10-18 km
 "
 
     # featured service item loop
     - name : "Vélo"
       icon : "fas fa-biking"
       color : "primary-dark"
-      content : "30-50 km (varie selon vos décisions et si vous allez chercher les points de contrôles avancés).
-       Un vélo de montagne est requis. Chemin de terre – Chemin forestier – Sentier VTT – Route pavée.
+      content : "30-50 km - Un vélo de montagne est requis. Chemin de terre – Chemin forestier – Sentier VTT – Route pavée.
 "
 
     # featured service item loop
