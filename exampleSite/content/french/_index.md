@@ -11,7 +11,14 @@ banner:
     label: "Découvrez nos événements"
     link: "jackalope"
 
-
+############################# About #################################
+about:
+    enable: true
+    title: "RIKICO"
+    description: ""
+    content: "Le club de courses d’orientation et d’aventure RIKICO est un organisme à but non lucratif
+  ayant comme mandat la promotion et l’organisation de course d’orientation et d’aventures au Bas-Saint-Laurent."
+      image: "images/about_Rikico.jpg"
 ############################# Service ############################
 service:
   enable: true

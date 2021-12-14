@@ -3,15 +3,15 @@ title: "Nos partenaires"
 description: ""
 bg_image: "images/slider-bg.png"
 layout: "about"
-draft: false
+draft: true
 
 
 ################################## About #####################################
 about:
   enable : true
-  image : "images/partenaires.png"
+  #image : "images/partenaires.png"
   title : "Partenaires"
-  content : ""
+  content : "À venir"
 
   button:
     enable : false

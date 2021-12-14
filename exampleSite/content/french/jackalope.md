@@ -11,7 +11,7 @@ about:
   title : "Défi Jackalope 2022"
   content : "
 Le club de courses d’orientation et d’aventure RIKICO est fier de vous annoncer la tenue de la première édition
- du défi Jackalope le 5 juin 2022 dans les environs de Rimouski.
+ du défi Jackalope le **5 juin 2022** dans les environs de Rimouski.
 Le Défi Jackalope est une course d’aventure multisports par équipe comprenant :
 vélo de montagne, course à pied ou marche, canot et peut-être quelques surprises.
 Les participant.es doivent valider des points de contrôles sur un parcours non balisé
@@ -44,6 +44,7 @@ La course sera d’une durée variant entre 8 et 12hre selon vos choix de routes
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
   image : "images/jackalope/jackalope_logo.png"
+  # mettre les partenaires sous le logo dans la même image!
 
 ########################## featured service ############################
 
@@ -71,6 +72,7 @@ featured_service:
       color : "primary-darker"
       content : "6-14 km. Rivière sans rapide ou lac. Location possible.
 "
+
 
 ############################# call to action #################################
 cta:
