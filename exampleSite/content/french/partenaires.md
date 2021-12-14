@@ -3,7 +3,7 @@ title: "Nos partenaires"
 description: ""
 bg_image: "images/slider-bg.png"
 layout: "about"
-draft: true
+draft: false
 
 
 ################################## About #####################################
