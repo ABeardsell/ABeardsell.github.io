@@ -47,9 +47,15 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Événements"
-url = "jackalope/"
+name = "Défi Jackalope 4h"
+url = "jackalope_short/"
 weight = 2
+
+
+[[footer]]
+name = "Défi jackalope 12h"
+url = "jackalope_long/"
+weight = 3
 
 #[[footer]]
 #name = "Service"
@@ -69,4 +75,4 @@ weight = 2
 [[footer]]
 name = "Contact"
 url = "contact/"
-weight = 3
+weight = 4
