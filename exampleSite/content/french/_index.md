@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Découvrez nos événements"
-    link: "jackalope"
+    link: "jackalope_long"
 
 ############################# About #################################
 
@@ -37,7 +37,7 @@ cta:
   button:
     enable: true
     label: "Détails ici!"
-    link: "jackalope"
+    link: "jackalope_long"
 
   ############################# Funfacts ###############################
   funfacts:

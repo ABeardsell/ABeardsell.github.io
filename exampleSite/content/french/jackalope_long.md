@@ -38,7 +38,6 @@ et si vous allez chercher les points de contrôles avancés.
 La course sera d’une durée variant entre 8 et 12hre selon vos choix de routes et votre vitesse.
 
 ### Inscriptions
-
 À venir
 
 "
