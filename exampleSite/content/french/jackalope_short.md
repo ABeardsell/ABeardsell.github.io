@@ -1,5 +1,5 @@
 ---
-title: "Défi Jackalope 2022"
+title: "Défi Jackalope 2022 - 4 heures"
 description: "Course d’aventure multisports"
 bg_image: "images/slider-bg.png"
 layout: "service"
@@ -8,14 +8,13 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Défi Jackalope 2022"
+  title : "Défi Jackalope 2022 - 4 heures"
   content : "
-Le club de courses d’orientation et d’aventure RIKICO est fier de vous annoncer la tenue de la première édition
- du défi Jackalope le **5 juin 2022** dans les environs de Rimouski.
-Le Défi Jackalope est une course d’aventure multisports par équipe comprenant :
-vélo de montagne, course à pied ou marche, canot et peut-être quelques surprises.
-Les participant.es doivent valider des points de contrôles sur un parcours non balisé
-à l’aide d’une carte et d’une boussole.
+  Le club de courses d’orientation et d’aventure RIKICO est fier de vous annoncer la
+  tenue de la première édition du défi Jackalope le 5 juin 2022 dans les environs de
+  Rimouski. Le Défi 4h Jackalope est une course d’aventure multisports par équipe comprenant:
+  course à pied ou marche et canot. Les participant.es doivent valider des points de contrôles
+  sur un parcours non balisé à l’aide d’une carte et d’une boussole.
 
 ### Équipes
 
@@ -25,7 +24,7 @@ Les équipes de deux personnes peuvent être mixte ou du même sexe.
 
 Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors
 des transitions d’épreuves. L’organisation de la course s’occupe de transporter
- les bacs, les vélos et les canots si requis.
+ les bacs et les canots si requis.
 
 ### À quoi vous attendre
 
@@ -35,7 +34,7 @@ Les distances indiquées ci-bas varient selon vos décisions et si vous allez ch
 
 ### Durée
 
-La course sera d’une durée variant entre 8 et 12hre selon vos choix de routes et votre vitesse.
+La course sera d’une durée variant entre 3 et 4 heures selon vos choix de routes et votre vitesse.
 
 ### Inscriptions
 
@@ -56,21 +55,14 @@ featured_service:
     - name : "Course"
       icon : "fas fa-running"
       color : "primary"
-      content : "10-18 km
-"
-
-    # featured service item loop
-    - name : "Vélo"
-      icon : "fas fa-biking"
-      color : "primary-dark"
-      content : "30-50 km - Un vélo de montagne est requis. Chemin de terre – Chemin forestier – Sentier VTT – Route pavée.
+      content : "10-15 km
 "
 
     # featured service item loop
     - name : "Canot"
       icon : "fas fa-water"
       color : "primary-darker"
-      content : "6-14 km. Rivière sans rapide ou lac. Location possible.
+      content : "8-12 km. Rivière sans rapide ou lac. Location possible.
 "
 
 
