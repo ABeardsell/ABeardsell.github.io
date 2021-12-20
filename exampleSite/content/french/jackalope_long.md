@@ -13,8 +13,8 @@ about:
   Le club de courses d’orientation et d’aventure RIKICO est fier de vous annoncer
   la tenue de la première édition du défi Jackalope le 5 juin 2022 dans les environs
   de Rimouski. Le Défi 12h Jackalope est une course d’aventure multisports par équipe
-  comprenant : vélo de montagne, course à pied ou marche, canot et peut-être quelques
-  surprises. Les participant.es doivent valider des points de contrôles sur un parcours
+  comprenant: vélo de montagne, course à pied ou marche et canot.
+  Les participant.es doivent valider des points de contrôles sur un parcours
   non balisé à l’aide d’une carte et d’une boussole.
 
 ### Équipes
@@ -33,11 +33,13 @@ Le parcours de base est accessible et réalisable pour tout niveau sportif, tand
 points de contrôles avancés offriront un défi sportif et d’orientation aux équipes
 qui le souhaitent. Les distances indiquées ci-bas varient selon vos décisions
 et si vous allez chercher les points de contrôles avancés.
+
 ### Durée
 
 La course sera d’une durée variant entre 8 et 12hre selon vos choix de routes et votre vitesse.
 
 ### Inscriptions
+
 À venir
 
 "
