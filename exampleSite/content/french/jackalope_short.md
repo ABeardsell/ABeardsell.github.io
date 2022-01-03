@@ -48,7 +48,7 @@ canot pour 50 $ (provenant de Nature Aventure). Les canots loués avec Nature Av
 
 
 Les frais d'inscriptions incluent: un parcours conçu avec soin et rempli de défis, le transport des bacs et
- équipements, deux jeux de cartes couleurs (de qualité Poker), collations et breuvage (après la course),
+ équipements, deux jeux de cartes de haute qualité, collations et breuvage (après la course),
  repas d'après-course (si possible selon les mesures sanitaires en vigueur), des surprises et une superbe aventure!
 
 
