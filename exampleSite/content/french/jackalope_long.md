@@ -15,11 +15,13 @@ about:
   de Rimouski. Le Défi 12h Jackalope est une course d’aventure multisports par équipe
   comprenant: vélo de montagne, course à pied ou marche et canot.
   Les participant.es doivent valider des points de contrôles sur un parcours
-  non balisé à l’aide d’une carte et d’une boussole.
+  non balisé à l’aide d’une carte et d’une boussole. Le parcours complet demeurera secret jusqu’à
+  la journée avant la course.
 
 ### Équipes
 
-Les équipes de deux personnes peuvent être mixte ou du même sexe.
+Équipe de deux - homme, femme, ou mixte.
+
 
 ### Logistique
 
@@ -36,16 +38,35 @@ et si vous allez chercher les points de contrôles avancés.
 
 ### Durée
 
-La course sera d’une durée variant entre 8 et 12hre selon vos choix de routes et votre vitesse.
+La durée de la course variera entre 8 et 12 heures selon vos choix de routes et votre vitesse.
 
 ### Inscriptions
 
-À venir
+Frais : 300 $ + frais de service (par équipe).
+
+
+Les équipes peuvent choisir d'apporter leur propre canot (seul type d'embarcation autorisé) ou de louer un
+canot pour 50 $ (provenant de Nature Aventure). Les canots loués avec Nature Aventure seront transportés
+ jusqu'au site de l'événement et tout au long de la course si nécessaire. Votre demande de réservation d'un
+ canot se fera dans le formulaire d'inscription.
+
+
+Les frais d'inscriptions incluent: un parcours conçu avec soin et rempli de défis, le transport des bacs et
+ équipements, deux jeux de cartes couleurs (de qualité Poker), collations et breuvage (après la course),
+ repas d'après-course (si possible selon les mesures sanitaires en vigueur), des surprises et une superbe aventure!
+
+
+ **Inscriptions ici**: Lien disponible à partir du 14 Janvier à 9hre.
+
+
+Politique de remboursement: Si l'événement est annulé pour des raisons liées au COVID-19, les équipes se
+feront rembourser. Excluant des raisons liées à la pandémie, aucun remboursement ne sera émis. Les équipes qui ne
+peuvent pas participer peuvent transférer leur inscription après en avoir informé le comité organisateur.
 
 "
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image : "images/jackalope/jackalope_logo.png"
+  image : "images/jackalope/combo_schema_logo_12hres.png"
   # mettre les partenaires sous le logo dans la même image!
 
 ########################## featured service ############################
