@@ -9,9 +9,14 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  #image : "images/partenaires.png"
+  image : "images/partenaires.png"
   title : "Partenaires"
-  content : "À venir"
+  content : "
+  Nature Aventure - https://www.natureaventure.ca/
+
+
+  **D'autres à venir!**
+  "
 
   button:
     enable : false
