@@ -15,7 +15,7 @@ about:
   Nature Aventure - https://www.natureaventure.ca/
 
 
-  **D'autres à venir!**
+  D'autres à venir!
   "
 
   button:
