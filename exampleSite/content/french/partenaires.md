@@ -12,9 +12,12 @@ about:
   image : "images/partenaires.png"
   title : "Partenaires"
   content : "
-  Nature Aventure - https://www.natureaventure.ca/
+  Coopérative Mouski - http://mouski.qc.ca/
 
   
+  Nature Aventure - https://www.natureaventure.ca/
+
+
   Terfa - https://www.terfa.ca/
 
 
