@@ -1,6 +1,6 @@
 ---
 title: "Nos partenaires"
-description: ""
+description: "Défi Jackalope 2022"
 bg_image: "images/slider-bg.png"
 layout: "about"
 draft: false
@@ -14,7 +14,7 @@ about:
   content : "
   Coopérative Mouski - http://mouski.qc.ca/
 
-  
+
   Nature Aventure - https://www.natureaventure.ca/
 
 
