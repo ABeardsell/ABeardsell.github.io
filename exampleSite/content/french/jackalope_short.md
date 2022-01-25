@@ -18,7 +18,7 @@ about:
 
 ### Équipes
 
-Équipe de deux - homme, femme, ou mixte.
+Équipe de deux - hommes, femmes, ou mixte.
 
 ### Logistique
 
@@ -41,7 +41,7 @@ La course sera d’une durée variant entre 3 et 4 heures selon vos choix de rou
 Frais : 150 $ + frais de service (par équipe).
 
 
-**Inscriptions**: [ici](https://www.eventbrite.com/e/billets-defi-jackalope-4h-2022-245826512717)
+**Inscriptions**: Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-4h-2022-245826512717)!
 
 
 Les équipes peuvent choisir d'apporter leur propre canot (seul type d'embarcation autorisé) ou de louer un
@@ -53,7 +53,7 @@ canot pour 50 $ (provenant de Nature Aventure). Les canots loués avec Nature Av
 Les frais d'inscriptions incluent: un parcours conçu avec soin et rempli de défis, le transport des bacs et
  équipements, deux jeux de cartes de haute qualité, collations et breuvage (après la course),
  repas d'après-course (si possible selon les mesures sanitaires en vigueur), des surprises et une superbe aventure!
- 
+
 
  L'organisation respectera les normes sanitaires en vigueur au moment de l'événement et l'exigera de tous les participant.es et
   bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.).

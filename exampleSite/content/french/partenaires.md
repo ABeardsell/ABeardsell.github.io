@@ -15,6 +15,9 @@ about:
   Coopérative Mouski - http://mouski.qc.ca/
 
 
+  Madeleine-Zoé Corbeille-Robitaille - Conception du logo du défi Jackalope! - https://mzcr.weebly.com/
+
+
   Nature Aventure - https://www.natureaventure.ca/
 
 

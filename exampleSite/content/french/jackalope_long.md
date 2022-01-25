@@ -20,7 +20,7 @@ about:
 
 ### Équipes
 
-Équipe de deux - homme, femme, ou mixte.
+Équipe de deux - hommes, femmes, ou mixte.
 
 
 ### Logistique
@@ -45,7 +45,7 @@ La durée de la course variera entre 8 et 12 heures selon vos choix de routes et
 Frais : 300 $ + frais de service (par équipe).
 
 
-**Inscriptions**: [ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)
+**Inscriptions**: Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 
 
 Les équipes peuvent choisir d'apporter leur propre canot (seul type d'embarcation autorisé) ou de louer un
