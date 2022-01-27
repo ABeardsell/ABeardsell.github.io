@@ -10,8 +10,14 @@ draft: false
 about:
   enable : true
   image : "images/partenaires.png"
-  title : "Partenaires"
+  title : "Nos partenaires du défi Jackalope 2022"
   content : "
+  
+
+
+  Centre Plein Air du Grand Lac Ferré - https://www.campingplagelacferre.com/
+
+
   Coopérative Mouski - http://mouski.qc.ca/
 
 
