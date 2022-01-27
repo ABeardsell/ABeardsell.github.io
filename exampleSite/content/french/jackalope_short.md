@@ -23,7 +23,7 @@ about:
 ### Logistique
 
 Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors
-des transitions d’épreuves. L’organisation de la course s’occupe de transporter
+des transitions d’épreuves. L’ organisation de la course s’occupe de transporter
  les bacs et les canots si requis.
 
 ### À quoi vous attendre
@@ -50,13 +50,13 @@ canot pour 50 $ (provenant de Nature Aventure). Les canots loués avec Nature Av
  canot se fera dans le formulaire d'inscription.
 
 
-Les frais d'inscriptions incluent: un parcours conçu avec soin et rempli de défis, le transport des bacs et
+Les frais d'inscriptions incluent: un parcours conçu avec soin, le transport des bacs et
  équipements, deux jeux de cartes de haute qualité, collations et breuvage (après la course),
  repas d'après-course (si possible selon les mesures sanitaires en vigueur), des surprises et une superbe aventure!
 
 
  L'organisation respectera les normes sanitaires en vigueur au moment de l'événement et l'exigera de tous les participant.es et
-  bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.).
+  bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.). L'âge minimum pour participer est de 18 ans pour des questions d'assurance.
 
 
 **Politique de remboursement**: Si l'événement est annulé pour des raisons liées au COVID-19, les équipes se
