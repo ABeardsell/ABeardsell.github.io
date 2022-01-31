@@ -12,7 +12,7 @@ about:
   image : "images/partenaires.png"
   title : "Nos partenaires du défi Jackalope 2022"
   content : "
-  
+
 
 
   Centre Plein Air du Grand Lac Ferré - https://www.campingplagelacferre.com/
@@ -20,6 +20,9 @@ about:
 
   Coopérative Mouski - http://mouski.qc.ca/
 
+
+  Desjardins - https://www.desjardins.com/
+  
 
   Madeleine-Zoé Corbeil-Robitaille - Conception du logo du défi Jackalope! - https://mzcr.weebly.com/
 
