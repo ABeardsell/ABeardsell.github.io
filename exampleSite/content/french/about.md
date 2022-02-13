@@ -1,7 +1,7 @@
 ---
 title: "À propos"
 description: "RIKICO"
-bg_image: "images/slider-bg.png"
+bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
 

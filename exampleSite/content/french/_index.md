@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.png"
+  bg_image: "images/slider-bg2.png"
   bg_overlay: true
   title: "Club de courses d'orientation et d'aventure RIKICO"
   content: ""
@@ -30,14 +30,14 @@ service:
 ############################ call to action ###########################
 cta:
   enable: false
-  bg_image: "images/slider-bg.png"
+  bg_image: "images/slider-bg2.png"
   title: "Défi Jackalope 2022"
   content: "Une journée d'aventure dans l'Est du Québec vous attend!
-Êtes-vous prêt à relever le défi?"
+Êtes-vous prêt.es à relever le défi?"
   button:
     enable: true
-    label: "Détails ici!"
-    link: "jackalope_long"
+    label: "Inscriptions ici!"
+    link: "https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967?fbclid=IwAR3J0oA4iqAF5A5e37jcF1prUsy5hz6jjhrAlLN-0Ir_tmtuaC41Pa8L2w8"
 
   ############################# Funfacts ###############################
   funfacts:

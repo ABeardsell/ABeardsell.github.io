@@ -1,7 +1,7 @@
 ---
 title: "Nos partenaires"
 description: "Défi Jackalope 2022"
-bg_image: "images/slider-bg.png"
+bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
 
@@ -22,7 +22,7 @@ about:
 
 
   Desjardins - https://www.desjardins.com/
-  
+
 
   Madeleine-Zoé Corbeil-Robitaille - Conception du logo du défi Jackalope! - https://mzcr.weebly.com/
 

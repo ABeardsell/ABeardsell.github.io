@@ -1,7 +1,7 @@
 ---
 title: "Défi Jackalope 2022 - 4 heures"
 description: "Course d’aventure multisports"
-bg_image: "images/slider-bg.png"
+bg_image: "images/slider-bg2.png"
 layout: "service"
 draft: false
 
@@ -36,12 +36,10 @@ Les distances indiquées ci-bas varient selon vos décisions et si vous allez ch
 
 La course sera d’une durée variant entre 3 et 4 heures selon vos choix de routes et votre vitesse.
 
-### Inscriptions
+### Inscriptions - Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-4h-2022-245826512717)!
+
 
 Frais : 150 $ + frais de service (par équipe).
-
-
-**Inscriptions**: Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-4h-2022-245826512717)!
 
 
 Les équipes peuvent choisir d'apporter leur propre canot (seul type d'embarcation autorisé) ou de louer un

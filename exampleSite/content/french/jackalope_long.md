@@ -1,7 +1,7 @@
 ---
 title: "Défi Jackalope 2022 - 12 heures"
 description: "Course d’aventure multisports"
-bg_image: "images/slider-bg.png"
+bg_image: "images/slider-bg2.png"
 layout: "service"
 draft: false
 
@@ -40,12 +40,9 @@ et si vous allez chercher les points de contrôles avancés.
 
 La durée de la course variera entre 8 et 12 heures selon vos choix de routes et votre vitesse.
 
-### Inscriptions
+### Inscriptions - Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 
 Frais : 300 $ + frais de service (par équipe).
-
-
-**Inscriptions**: Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 
 
 Les équipes peuvent choisir d'apporter leur propre canot (seul type d'embarcation autorisé) ou de louer un
@@ -60,7 +57,7 @@ canot pour 50 $ (provenant de Nature Aventure). Les canots loués avec Nature Av
 
 
  L'organisation respectera les normes sanitaires en vigueur au moment de l'événement et l'exigera de tous les participant.es et
-  bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.). L'âge minimum pour participer est de 18 ans pour des questions d'assurance.
+  bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.). L'âge minimum pour participer est de 18 ans.
 
 
   **Politique de remboursement**: Si l'événement est annulé pour des raisons liées au COVID-19, les équipes se
@@ -102,6 +99,6 @@ featured_service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable : true
   # call to action content comes from "_index.md"
 ---
