@@ -37,7 +37,7 @@ cta:
   button:
     enable: true
     label: "Inscriptions ici!"
-    link: "https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967?fbclid=IwAR3J0oA4iqAF5A5e37jcF1prUsy5hz6jjhrAlLN-0Ir_tmtuaC41Pa8L2w8"
+    link: "https://www.eventbrite.com/o/rikico-38017843983"
 
   ############################# Funfacts ###############################
   funfacts:
