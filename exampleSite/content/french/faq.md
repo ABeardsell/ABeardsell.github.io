@@ -2,7 +2,7 @@
 title: "Questions fréquentes"
 description: "Défi Jackalope 2022"
 subtitle : ""
-lastmod: 2021-02-14T00:00:00
+lastmod: 2022-02-14T00:00:00
 bg_image: "images/slider-bg2.png"
 layout: "faq"
 draft: false
