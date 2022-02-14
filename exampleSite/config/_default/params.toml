@@ -5,7 +5,7 @@ favicon = "images/icon_compass.png"
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "150px"
+logo_width = "140px"
 # logo text will only show when logo is missing.
 logo_text = "RIKICO"
 # navbar fixed to top
@@ -118,10 +118,10 @@ link = "https://www.facebook.com/Club-de-courses-dorientation-et-daventure-RIKIC
 #icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
 #link = "#"
 
-#[[social]]
-#title = "instagram"
-#icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-#link = "#"
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.instagram.com/rikico.aventure/"
 
 #[[social]]
 #title = "github"
