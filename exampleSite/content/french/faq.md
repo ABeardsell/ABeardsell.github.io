@@ -39,11 +39,14 @@ Les castors sont reconnus comme les animaux les plus rencontrés pendant les cou
 Il est typique des courses d'aventure d’avoir peu (ou pas du tout!) d’informations sur  le parcours avant d'y être. Les disciplines et les distances approximatives sont indiquées sur le site web. Ce qui est certain : l'heure limite de la course est soit de 4 heures, soit de 12 heures. Cela signifie que vous disposez de cette période de temps pour atteindre le plus grand nombre de points de contrôle possible et franchir la ligne d'arrivée. Vous devrez faire de la course/marche en sentier, du canot et du vélo (défi 12 heures seulement) tout en vous déplaçant avec une carte et une boussole. Avant le début de la course, vous recevrez des cartes (il est conseillé de ne pas les perdre) qui vous indiqueront où se trouvent les points de contrôle, l’ordre des différentes disciplines. Vous aurez aussi une carte (précieuse) pour poinçonner les balises visitées. Vous élaborez ensuite une stratégie en équipe pour déterminer le meilleur choix d'itinéraire pour vous rendre à chaque point de contrôle.
 
 ### Quelles aptitudes en canot sont nécessaires?
-L'épreuve de canot se déroule en eau calme. Vous devez être capable de pagayer un canot et de le diriger. Il est fortement recommandé d'être en mesure de récupérer une embarcation chavirée.
+L'épreuve de canot se déroule en eau calme. Vous devez être capable de pagayer un canot et de le diriger.
+Il est fortement recommandé d'être en mesure de récupérer une embarcation chavirée.
 
 ### Quelles aptitudes en orientation sont nécessaires?
-Comme le parcours n’est pas balisé, vous devez être en mesure de lire une carte et de vous orienter avec celle-ci. Pour le parcours de base, les points de contrôles seront sur des sentiers, intersections et autres éléments évidents. Pour les points de contrôles avancés, l’utilisation d’une boussole, déclinaison magnétiques, coordonnées UTM et autres notions d’orientation seront nécessaires afin de les valider.
-
+Comme le parcours n’est pas balisé, vous devez être en mesure de lire une carte et de vous orienter avec celle-ci.
+Pour le parcours de base, les points de contrôles seront sur des sentiers, intersections et autres éléments évidents.
+ Pour les points de contrôles avancés, l’utilisation d’une boussole, déclinaison magnétiques, coordonnées UTM et autres
+ notions d’orientation seront nécessaires afin de les valider.
 
 ### Est-ce que j'ai besoin d'un vélo de montagne?
 Les vélos doivent être munis au minimum d’une fourche à suspension avant et de pneu d’une largeur minimum de 2 pouces.
@@ -63,8 +66,8 @@ La course aura lieu peu importe la température, sauf dans des cas (vraiment)  e
 ### Quel est le matériel obligatoire?
 La liste détaillée du matériel obligatoire et recommandé sera bientôt disponible sur notre site web.
 
-### Est-ce que je peux faire la course seul ou en équipe de trois personnes et plus?
-Non, la course se limite à des équipes de deux uniquement. Les coéquipiers doivent rester à une distance maximale de 100m l’un de l’autre.
+### Est-ce que je peux faire la course seul.e ou en équipe de trois personnes et plus?
+Non, la course se limite à des équipes de deux uniquement. Les membres de l'équipe doivent rester à une distance maximale de 100m l’un de l’autre.
 
 ### Est-ce que je dois savoir utiliser une carte et une boussole?
 Oui, la base de la course est l’orientation en forêt. Bien qu’il vous soit possible de vous orienter en vous servant des repères naturels, l’utilisation d’une carte et boussole vous permettront d’être plus performant dans le parcours, de trouver les balises plus rapidement et de vous retrouver plus facilement si vous êtes égarés. Sachez que les bases de l’orientation sont assez simples et ne requiert qu’un peu de pratique. Vous trouverez ici des liens vers des tutoriels qui expliquent bien les notions requises.
