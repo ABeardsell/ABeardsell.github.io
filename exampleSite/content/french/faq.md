@@ -83,7 +83,9 @@ La boussole, s’orienter, suivre un cap et connaître sa position:
 Non, il est strictement interdit d’utiliser un dispositif GPS durant la course. En cas d’infraction, vous serez automatiquement disqualifié. Notez toutefois que le téléphone cellulaire fait partie du matériel obligatoire et doit être utilisé uniquement en cas d’urgence.
 
 ### À quel moment je connaîtrai le parcours?
-Le parcours restera secret jusqu’à la veille de la course. Vous recevrez samedi en fin de journée les cartes et la description du parcours (roadbook). Vous aurez donc une soirée pour vous préparer : planifier les bacs de ravitaillement, établir les azimuts à suivre, prévoir votre stratégie de course, etc.
+Le parcours restera secret jusqu’à la veille de la course. Vous recevrez samedi en fin de journée (défi 12h) 
+et dimanche avant la course (défi 4h) les cartes et la description du parcours (roadbook).
+Vous aurez donc une soirée (défi 12h) ou quelques heures (défi 4h) pour vous préparer : planifier les bacs de ravitaillement, établir les azimuts à suivre, prévoir votre stratégie de course, etc.
 
 ### Que faire si une équipe à besoin d’aide?
 Si une équipe est perdue ou requiert de l'assistance, vous devez obligatoirement leur venir en aide. Que ce soit pour des premiers soins, secourir un canot chaviré ou pour de l’aide à se retrouver sur le parcours, vous devez venir en aide à une équipe dans le besoin. Le temps passé à secourir une autre équipe ne sera pas considéré dans le temps global de votre course. Veuillez aviser l’organisation et les ajustements seront apportés à votre temps de course.
