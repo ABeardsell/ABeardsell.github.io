@@ -22,9 +22,10 @@ about:
 
 
   Desjardins - https://www.desjardins.com/
+  
 
   Distillerie du St-Laurent - https://www.distilleriedustlaurent.com/
-  
+
 
   Madeleine-Zoé Corbeil-Robitaille - Conception du logo du défi Jackalope! - https://mzcr.weebly.com/
 
