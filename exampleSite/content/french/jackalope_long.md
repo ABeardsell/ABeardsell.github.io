@@ -45,24 +45,29 @@ La durée de la course variera entre 8 et 12 heures selon vos choix de routes et
 Frais : 300 $ + frais de service (par équipe).
 
 
+ Les frais d'inscriptions incluent: un parcours conçu avec soin, le transport des bacs et
+ équipements, deux jeux de cartes de haute qualité, collations et breuvage (après la course),
+ repas d'après-course (si possible selon les mesures sanitaires en vigueur), des surprises et une superbe aventure!
+
+
+ **Politique de remboursement**: Si l'événement est annulé pour des raisons liées au COVID-19, les équipes se
+ feront rembourser. Excluant des raisons liées à la pandémie, aucun remboursement ne sera émis. Les équipes qui ne
+ peuvent pas participer peuvent transférer leur inscription après en avoir informé le comité organisateur.
+
+
+### Liste de matériel
+
+**La liste complète est disponible** [ici](https://drive.google.com/file/d/17ZzP0zOKNhOpE0Lm2mxCEpBgwIJqZNrW/view?usp=sharing)!
+
+
 Les équipes peuvent choisir d'apporter leur propre canot (seul type d'embarcation autorisé) ou de louer un
 canot pour 50 $ (provenant de Nature Aventure). Les canots loués avec Nature Aventure seront transportés
  jusqu'au site de l'événement et tout au long de la course si nécessaire. Votre demande de réservation d'un
  canot se fera dans le formulaire d'inscription.
 
 
- Les frais d'inscriptions incluent: un parcours conçu avec soin, le transport des bacs et
- équipements, deux jeux de cartes de haute qualité, collations et breuvage (après la course),
- repas d'après-course (si possible selon les mesures sanitaires en vigueur), des surprises et une superbe aventure!
-
-
  L'organisation respectera les normes sanitaires en vigueur au moment de l'événement et l'exigera de tous les participant.es et
   bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.). L'âge minimum pour participer est de 18 ans.
-
-
-  **Politique de remboursement**: Si l'événement est annulé pour des raisons liées au COVID-19, les équipes se
-feront rembourser. Excluant des raisons liées à la pandémie, aucun remboursement ne sera émis. Les équipes qui ne
-peuvent pas participer peuvent transférer leur inscription après en avoir informé le comité organisateur.
 
 "
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
