@@ -38,7 +38,6 @@ La course sera d’une durée variant entre 3 et 4 heures selon vos choix de rou
 
 ### Inscriptions - Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-4h-2022-245826512717)!
 
-
 Frais : 150 $ + frais de service (par équipe).
 
 
@@ -65,7 +64,7 @@ Les frais d'inscriptions incluent: un parcours conçu avec soin, le transport de
   jusqu'au site de l'événement et tout au long de la course si nécessaire. Votre demande de réservation d'un
   canot se fera dans le formulaire d'inscription.
 
-  
+
 
  L'organisation respectera les normes sanitaires en vigueur au moment de l'événement et l'exigera de tous les participant.es et
   bénévoles (e.g. passeport vaccinal, port du masque à l'intérieur, etc.). L'âge minimum pour participer est de 18 ans pour des questions d'assurance.
