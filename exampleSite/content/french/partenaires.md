@@ -22,7 +22,7 @@ about:
 
 
   Desjardins - https://www.desjardins.com/
-  
+
 
   Distillerie du St-Laurent - https://www.distilleriedustlaurent.com/
 
@@ -31,6 +31,9 @@ about:
 
 
   Nature Aventure - https://www.natureaventure.ca/
+
+
+  Rabot D. Bois - https://www.rabotdbois.com/  
 
 
   Terfa - https://www.terfa.ca/
