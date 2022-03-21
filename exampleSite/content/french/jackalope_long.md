@@ -21,6 +21,7 @@ about:
 ### Équipes
 
 Équipe de deux - hommes, femmes, ou mixte.
+Liste des équipes inscrites [ici](https://drive.google.com/file/d/1VTmJaj8LLnPPsHZtKrWiVAz7aL5eztfC/view?usp=sharing)!
 
 
 ### Logistique
