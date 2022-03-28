@@ -26,6 +26,8 @@ about:
 
   Distillerie du St-Laurent - https://www.distilleriedustlaurent.com/
 
+  Le Ketch -  https://www.leketch.com/
+
 
   Madeleine-Zoé Corbeil-Robitaille - Conception du logo du défi Jackalope! - https://mzcr.weebly.com/
 
@@ -40,6 +42,8 @@ about:
 
 
   Terfa - https://www.terfa.ca/
+
+  Upika - https://upika.ca/
 
 
   D'autres à venir!
