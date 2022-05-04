@@ -46,6 +46,9 @@ about:
   Rabot D. Bois - https://www.rabotdbois.com/
 
 
+  Rocky Talkie - https://rockytalkie.com/
+
+
   Terfa - https://www.terfa.ca/
 
 

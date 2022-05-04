@@ -64,7 +64,7 @@ Oui, l’'âge minimum est de 18 ans.
 La course aura lieu peu importe la température, sauf dans des cas (vraiment)  extrêmes (p.ex., ouragan). Les participant.es doivent donc être prêt.es à faire face à diverses conditions. L’organisation pourra décider d’annuler l’événement ou de modifier le parcours en cas d’événement météorologique extrême.
 
 ### Quel est le matériel obligatoire?
-La liste détaillée du matériel obligatoire et recommandé sera bientôt disponible sur notre site web.
+La liste détaillée du matériel obligatoire est disponible sur notre site web (voir les onglets événements).
 
 ### Est-ce que je peux faire la course seul.e ou en équipe de trois personnes et plus?
 Non, la course se limite à des équipes de deux uniquement. Les membres de l'équipe doivent rester à une distance maximale de 100m l’un de l’autre.
@@ -83,7 +83,7 @@ La boussole, s’orienter, suivre un cap et connaître sa position:
 Non, il est strictement interdit d’utiliser un dispositif GPS durant la course. En cas d’infraction, vous serez automatiquement disqualifié. Notez toutefois que le téléphone cellulaire fait partie du matériel obligatoire et doit être utilisé uniquement en cas d’urgence.
 
 ### À quel moment je connaîtrai le parcours?
-Le parcours restera secret jusqu’à la veille de la course. Vous recevrez samedi en fin de journée (défi 12h) 
+Le parcours restera secret jusqu’à la veille de la course. Vous recevrez samedi en fin de journée (défi 12h)
 et dimanche avant la course (défi 4h) les cartes et la description du parcours (roadbook).
 Vous aurez donc une soirée (défi 12h) ou quelques heures (défi 4h) pour vous préparer : planifier les bacs de ravitaillement, établir les azimuts à suivre, prévoir votre stratégie de course, etc.
 
