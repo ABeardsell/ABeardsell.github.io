@@ -31,7 +31,8 @@ des transitions d’épreuves. L’ organisation de la course s’occupe de tran
 
 Le parcours de base est accessible et réalisable pour tout niveau sportif,
 tandis que les points de contrôles avancés offriront un défi aux équipes qui le souhaitent.
-Les distances indiquées ci-bas varient selon vos décisions et si vous allez chercher les points de contrôles avancés.
+Les distances indiquées ci-bas varient selon vos décisions et si vous allez chercher les points de contrôles avancés. Allez-voir le guide de l'athlète!
+Cliquez-[ici](https://drive.google.com/file/d/1d9Vvz3jTtS7XpkvtfoZOEu0SCmMAFb3T/view?usp=sharing)!
 
 ### Durée
 
