@@ -18,6 +18,9 @@ about:
   Centre Plein Air du Grand Lac Ferré - https://www.campingplagelacferre.com/
 
 
+  Clever Mocktails - https://clevermocktails.com
+
+
   Coopérative Mouski - http://mouski.qc.ca/
 
 
@@ -30,10 +33,15 @@ about:
   Le Ketch -  https://www.leketch.com/
 
 
+  Les Chants du Fleuve - https://www.leschantsdufleuve.ca/
+
+
   Madeleine-Zoé Corbeil-Robitaille - Conception du logo du défi Jackalope! - https://mzcr.weebly.com/
 
 
   Nature Aventure - https://www.natureaventure.ca/
+
+  Novicom - https://groupeclr.com/
 
 
   Nuun - https://nuunlife.ca/
@@ -47,6 +55,9 @@ about:
 
 
   Rocky Talkie - https://rockytalkie.com/
+
+
+  Sober Carpenter - https://sobercarpenter.ca/
 
 
   Terfa - https://www.terfa.ca/
