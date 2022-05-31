@@ -41,6 +41,7 @@ about:
 
   Nature Aventure - https://www.natureaventure.ca/
 
+
   Novicom - https://groupeclr.com/
 
 
@@ -65,8 +66,6 @@ about:
 
   Upika - https://upika.ca/
 
-
-  D'autres à venir!
   "
 
   button:
