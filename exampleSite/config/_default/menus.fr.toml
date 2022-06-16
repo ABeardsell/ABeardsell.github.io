@@ -34,14 +34,19 @@ url = "partenaires/"
 weight = 4
 
 [[main]]
+name = "Récits de course"
+url = "blog/"
+weight = 5
+
+[[main]]
 name = "FAQ"
 url = "faq/"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 
 
 # footer menu
