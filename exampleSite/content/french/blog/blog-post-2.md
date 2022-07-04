@@ -23,12 +23,7 @@ mais que veux-tu on avait pas le choix de tout tenter avant, les PC avancé sont
 
 Finalement on debute la section 7 on a du temps en masse mais c’est pas très roulant beaucoup beaucoup de bouette et je frappe un mur, mon corps
 ne sait pu trop s’il aime ou pas… on décide donc de faire les derniers PC obligatoires et de rentrer à l’arrivée après 11h05 d’effort,
-90km et ben de la bouette.
-
-Ce que j’aime le plus des raids :
-- découvrir,
-- pousser le corps à la limite,
-- jouer dehors
+90km et bien de la bouette. Ce que j’aime le plus des raids: découvrir, pousser le corps à la limite et jouer dehors.
 
 Mais surtout passez du temps exceptionnel avec mon mari et rencontrer des gens tout aussi exceptionnels.
 Ces moments de partage où seuls eux savent ce que nous vivons.
@@ -36,10 +31,13 @@ Ces moments de partage où seuls eux savent ce que nous vivons.
 Merci à l’organisation pour le beau parcours, merci de nous avoir fait découvrir le canyon des portes de l’enfer c’était sublime,
 merci à mon mari de m’avoir fait tant rire avec tes débarques à vélo… désolé moi là-dessus je suis zéro empathique je trouve cela
 vraiment drôle du monde qui se plante.
+
 Merci aux deux filles sur le lac de m’avoir fait chanter, merci aux nombreuses équipes croisées sur notre route pour les encouragements et
 merci infiniment au wildwarriors pour la magnifique soirée, c’est vraiment chouette passer du temps avec vous
 Steve Horth, Nathalie Bergeron.
+
 Merci la vie de me permettre de vivre cela. Plus tu fais des raids pour tu te rends compte que tu apprends
 encore à chacun de ceux-ci. Il n’y a pas de mot pour décrire la joie de passer la ligne d’arrivée et de dire on l’a fait !!!
+
 Hey oui on l’a fait !!!! Deux autres raids nous attendent cette année d’ici là on va se reposer et nous allons nous assurer
 d’être top shape pour ceux-ci!!!! Merci Agence Steve Desroches sans vous nous n’aurions pas survécu au froid !!!!

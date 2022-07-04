@@ -17,13 +17,13 @@ name = "Événements"
 hasChildren = true
 
   [[main]]
-  parent = "Événements passés"
+  parent = "Événements"
   name = "Défi Jackalope 4h"
   url = "jackalope_short/"
   weight = 1
 
   [[main]]
-  parent = "Événements passés"
+  parent = "Événements"
   name = "Défi Jackalope 12h"
   url = "jackalope_long/"
   weight = 2
