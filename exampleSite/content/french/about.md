@@ -57,8 +57,8 @@ features:
   # feature item loop
   - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
     name : "Découvrir"
-    content : "Faire  différents attraits de la région à la population locale et au visiteur.es participant aux évènements de par le choix
-    du lieu et des tracés de courses."
+    content : "Faire  découvrir différents attraits de la région à la population locale et aux visiteur.es participant aux évènements de par le choix
+    du lieu et des tracés de course."
 
   # feature item loop
   - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
