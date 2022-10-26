@@ -14,9 +14,7 @@ about:
   ayant comme mandat la promotion et l’organisation de courses d’orientation et d’aventure au Bas-Saint-Laurent.
 
 
- RIKICO a été fondé en 2021 par Olivier Legault, André Cyr et Andréanne Beardsell. RIKICO a l'objectif de promouvoir l’activité physique chez les adultes et les jeunes par l'entremise
- de différents événements sportifs en pleine nature. Notre passion pour ce sport couplée à notre envie de faire découvrir des espaces naturels de notre région est au cœur de
-  nos motivations.
+ RIKICO a été fondé en 2021 par Olivier Legault, André Cyr et Andréanne Beardsell. Sébastien Sirois a rejoint l'organisation en 2022. RIKICO a l'objectif de promouvoir l’activité physique chez les adultes et les jeunes par l'entremise de différents événements sportifs en pleine nature. Notre passion pour ce sport couplée à notre envie de faire découvrir des espaces naturels de notre région est au cœur de nos motivations.
  "
   image: "images/about_us.png"
 
@@ -57,8 +55,7 @@ features:
   # feature item loop
   - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
     name : "Découvrir"
-    content : "Faire  découvrir différents attraits de la région à la population locale et aux visiteur.es participant aux évènements de par le choix
-    du lieu et des tracés de course."
+    content : "Faire  découvrir différents attraits de la région à la population locale et aux visiteur.e.s participant aux évènements de par le choix du lieu et des tracés de course."
 
   # feature item loop
   - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons

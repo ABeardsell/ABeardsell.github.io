@@ -18,13 +18,30 @@ hasChildren = true
 
   [[main]]
   parent = "Événements"
-  name = "Défi Jackalope 4h"
-  url = "jackalope_short/"
+  name = "Défi Jackalope"
+  url = "jackalope_2023/"
   weight = 1
 
   [[main]]
   parent = "Événements"
-  name = "Défi Jackalope 12h"
+  name = "Défi Découverte"
+  url = "decouverte_2023/"
+  weight = 2
+
+[[main]]
+weight = 3
+name = "Événements passés"
+hasChildren = true
+
+  [[main]]
+  parent = "Événements passés"
+  name = "Défi Jackalope 2022 - 4h"
+  url = "jackalope_short/"
+  weight = 1
+
+  [[main]]
+  parent = "Événements passés"
+  name = "Défi Jackalope 2022 - 12h"
   url = "jackalope_long/"
   weight = 2
 
@@ -56,14 +73,14 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Défi Jackalope 4h"
-url = "jackalope_short/"
+name = "Défi Jackalope"
+url = "jackalope_2023/"
 weight = 2
 
 
 [[footer]]
-name = "Défi jackalope 12h"
-url = "jackalope_long/"
+name = "Défi Découverte"
+url = "decouverte_2023/"
 weight = 3
 
 #[[footer]]
