@@ -25,8 +25,7 @@ des transitions d’épreuves. L’ organisation de la course s’occupe de tran
 ### À quoi vous attendre
 
 Le parcours de base est accessible et réalisable pour tout niveau sportif,
-tandis que les points de contrôles avancés offriront un défi aux équipes qui le souhaitent.
-Les distances indiquées ci-bas varient selon vos décisions et si vous allez chercher les points de contrôles avancés.
+tandis que les points de contrôles avancés offriront un défi supplémentaire aux équipes qui le souhaitent.
 
 ### Durée
 
@@ -38,6 +37,9 @@ Détails à venir.
 
 
 "
+#Les distances indiquées ci-bas varient selon vos décisions et si vous allez chercher les points de contrôles avancés.
+
+
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
   image : "images/jackalope/decouverte.png"

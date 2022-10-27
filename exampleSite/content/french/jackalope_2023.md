@@ -14,19 +14,19 @@ about:
 
 ### À quoi vous attendre
 
-Le parcours de base est accessible et réalisable pour tout niveau sportif, tandis que les points de contrôles avancés offriront un défi sportif et d’orientation aux équipes qui le souhaitent. Les distances indiquées ci-bas varient selon vos décisions et vos choix de points de contrôle. Notez qu'il y aura des barrières horaires à certaines étapes de la course.
+Le parcours de base est accessible et réalisable pour tout niveau sportif, tandis que les points de contrôle avancés offriront un défi sportif et d’orientation supplémentaire aux équipes qui le souhaitent. Les distances indiquées ci-bas varient selon vos décisions et vos choix de points de contrôle. Notez qu'il y aura des barrières horaires à certaines étapes de la course.
 
  Vous passerez la nuit du samedi en camping sauvage et vous n'aurez pas accès à vos véhicules. Vous aurez accès à un bac de matériel par personne spécifiquement pour la nuit de camping.
 
 ### Horaire général (horaire final à venir)
 
-**Vendredi soir**: Enregistrement et dépôts des bacs à Rimouski (camping et transitions jour 1)
+**Vendredi soir**: Enregistrement et dépôts des bacs à Rimouski (bacs de camping et bacs de transitions du jour 1)
 
 
 **Samedi le 27 Mai (Jour 1)**: Départ en autobus le matin de Rimouski, vous terminerez la course sur le site de camping.
 
 
-**Dimanche le 28 Mai (Jour 2)**: Fermeture du parcours et remise des prix en mi-journée.
+**Dimanche le 28 Mai (Jour 2)**: La fermeture du parcours et la remise des prix auront lieu en mi-journée.
 
 ### Équipes
 
