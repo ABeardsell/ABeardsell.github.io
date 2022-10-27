@@ -11,8 +11,8 @@ draft: false
 ### Qu'est qu'une course d'aventure?
 Une course d’aventure (aussi appelée Raid) est une combinaison de deux disciplines d’endurance ou plus qui comprennent habituellement de l’orientation, de la course et/ou de la randonnée hors sentier, du vélo de montagne et du canot.
 
-### Est-ce que je dois être un athlète?
-Non. Bien qu'il s'agisse d'une épreuve d'endurance assez exigeante, le défi jackalope n'est pas réservé aux athlètes.
+### Est-ce que je dois être un athlète pour participer au défi jackalope 2023?
+Non. Bien qu'il s'agisse d'une épreuve d'endurance exigeante, le défi jackalope n'est pas réservé aux athlètes.
 Pendant votre course, vous aurez des décisions à prendre qui influenceront la durée de votre course
 (p.ex, sur le choix d'aller chercher ou non certains points de contrôle).
 Dans une certaine mesure, vous pourrez moduler votre parcours selon votre niveau d'énergie et de motivation.

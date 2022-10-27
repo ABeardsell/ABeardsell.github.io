@@ -14,9 +14,10 @@ about:
 
 ### À quoi vous attendre
 
-Le parcours de base est accessible et réalisable pour tout niveau sportif, tandis que les points de contrôle avancés offriront un défi sportif et d’orientation supplémentaire aux équipes qui le souhaitent. Les distances indiquées ci-bas varient selon vos décisions et vos choix de points de contrôle. Notez qu'il y aura des barrières horaires à certaines étapes de la course.
+Le défi jackalope est une épreuve d'endurance exigeante. Bien qu'elle n'est pas réservée aux athlètes, vous devez avoir une expérience dans toutes les disciplines touchées par la course. Pendant votre course, vous aurez des décisions à prendre qui influenceront la durée de votre course (p.ex, sur le choix d’aller chercher ou non certains points de contrôle). Dans une certaine mesure, vous pourrez moduler votre parcours selon votre niveau d’énergie et de motivation. Les distances indiquées ci-bas varieront selon vos décisions et vos choix de points de contrôle. Notez qu'il y aura des barrières horaires à certaines étapes de la course.
 
- Vous passerez la nuit du samedi en camping sauvage et vous n'aurez pas accès à vos véhicules. Vous aurez accès à un bac de matériel par personne spécifiquement pour la nuit de camping.
+
+Vous passerez la nuit du samedi en camping sauvage et vous n'aurez pas accès à vos véhicules. Vous aurez accès à un bac de matériel par personne spécifiquement pour la nuit de camping.
 
 ### Horaire général (horaire final à venir)
 
@@ -49,7 +50,7 @@ Les frais d'inscriptions incluent: le transport des bacs et équipements (canot 
 repas d'après-course le samedi, et une superbe aventure! Pour faciliter la logistique de cet événement, les canots personnels ne sont pas alloués.
 
 
-**Politique de remboursement**: Si une équipe inscrite souhaite se retirer de l'événement, 100 % des frais d'inscription moins 100 $ de frais administratifs seront remboursés jusqu'au 1 février 2023. Entre le 2 février et le 15 avril 2023, 50 % des frais d'inscription peuvent être remboursés moins 50$ de frais administratifs. Entre le 16 avril et le 20 mai 2023, 25% des frais d'inscription peuvent être remboursés. Jusqu'au 20 mai, les équipes qui ne peuvent pas participer ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+**Politique de remboursement**: Si une équipe inscrite souhaite se retirer de l'événement, 100 % des frais d'inscription moins 100 $ de frais administratifs seront remboursés jusqu'au 1 février 2023. Entre le 2 février et le 15 avril 2023, 50 % des frais d'inscription peuvent être remboursés moins 50$ de frais administratifs. Entre le 16 avril et le 20 mai 2023, 25% des frais d'inscription peuvent être remboursés. Entre le 21 mai 2023 et le jour de la course, aucun remboursement sera émis. Jusqu'au 20 mai, les équipes qui ne peuvent pas participer ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
 
 
 ### Liste de matériel
