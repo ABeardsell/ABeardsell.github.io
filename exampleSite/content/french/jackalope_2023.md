@@ -44,7 +44,10 @@ La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix d
 
 ### Inscriptions (dès le 14 novembre)
 
-Frais: 675$ + frais de service (par équipe). **Un maximum de 60 équipes pourront s'inscrire** pour des raisons de logistique.
+ Inscrivez-vous en cliquant sur ce lien **à partir de lundi le 14 novembre à 9hre**: https://forms.gle/fg2YNiwfvQ1wtmnX7
+
+
+ Frais: 675$ + frais de service (par équipe). **Un maximum de 60 équipes pourront s'inscrire** pour des raisons de logistique.
 
 Les frais d'inscriptions incluent: le transport des bacs et équipements (canot et vélos), la location d'un canot, les cartes du parcours,
 repas d'après-course le samedi, et une superbe aventure! Pour faciliter la logistique de cet événement, les canots personnels ne sont pas alloués.

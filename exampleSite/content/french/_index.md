@@ -36,7 +36,7 @@ cta:
   button:
     enable: true
     label: "Inscriptions ici!"
-    link: "https://www.eventbrite.com/o/rikico-38017843983"
+    link: "https://forms.gle/fg2YNiwfvQ1wtmnX7"
 
   ############################# Funfacts ###############################
   funfacts:
