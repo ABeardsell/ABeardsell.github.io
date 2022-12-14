@@ -24,8 +24,8 @@ hasChildren = true
 
   [[main]]
   parent = "Événements"
-  name = "Défi Découverte 2023"
-  url = "decouverte_2023/"
+  name = "Défi Jackalope 6h 2023"
+  url = "jackalope6h_2023/"
   weight = 2
 
 [[main]]
