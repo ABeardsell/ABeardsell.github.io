@@ -13,18 +13,18 @@ weight = 2
 
 [[main]]
 weight = 3
-name = "Événements"
+name = "Événements 2023"
 hasChildren = true
 
   [[main]]
-  parent = "Événements"
-  name = "Défi Jackalope 2023"
+  parent = "Événements 2023"
+  name = "Défi Jackalope"
   url = "jackalope_2023/"
   weight = 1
 
   [[main]]
-  parent = "Événements"
-  name = "Défi Jackalope 6h 2023"
+  parent = "Événements 2023"
+  name = "Défi Jackalope 6h"
   url = "jackalope6h_2023/"
   weight = 2
 
