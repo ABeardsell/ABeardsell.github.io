@@ -20,7 +20,7 @@ Le Défi Jackalope 6h est une course d’aventure multisports (vélo de montagne
 ### Logistique
 
 Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors
-des transitions d’épreuves. L’ organisation de la course s’occupe de transporter les bacs et les canots si requis.
+des transitions d’épreuves. L’ organisation de la course s’occupe de transporter les bacs, les vélos et les canots si requis.
 
 ### À quoi vous attendre
 
