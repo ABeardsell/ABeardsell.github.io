@@ -58,7 +58,7 @@ La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix d
 ### Liste de matériel
 
 À venir.
-Notez qu'une combinaison isothermique longue (wetsuit) est obligatoire par personne (d'une épaisseur minimale de 3mm au corps et 2mm pour les membres). Possibilité de louer lors de l'inscription (bien choisir la grandeur). Si les deux membres de l'équipe ont besoin d'une combinaison, vous devez ajouter deux billets de combinaisons isothermiques.
+Notez qu'une combinaison isothermique longue (wetsuit) est obligatoire par personne (d'une épaisseur minimale de 3mm au corps et 2mm pour les membres). Possibilité de louer lors de l'inscription (bien choisir la grandeur).
 "
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
