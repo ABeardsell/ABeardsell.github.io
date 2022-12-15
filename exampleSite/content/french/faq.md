@@ -2,7 +2,7 @@
 title: "Questions fréquentes"
 description: "Défi Jackalope 2023"
 subtitle : ""
-lastmod: 2022-02-14T00:00:00
+lastmod: 2022-12-14T00:00:00
 bg_image: "images/slider-bg2.png"
 layout: "faq"
 draft: false
@@ -31,16 +31,15 @@ Les castors sont reconnus comme les animaux les plus rencontrés pendant les cou
 
 
 ### Quelles aptitudes en orientation sont nécessaires?
-Comme le parcours n’est pas balisé, vous devez être en mesure de lire une carte et de vous orienter avec celle-ci.
-Pour le parcours de base, les points de contrôles seront sur des sentiers, intersections et autres éléments évidents. Pour les points de contrôles avancés, l’utilisation d’une boussole, déclinaison magnétiques, coordonnées UTM et autres notions d’orientation seront nécessaires afin de les valider.
+Comme le parcours n’est pas balisé, vous devez être en mesure de lire une carte et de vous orienter avec celle-ci. Certains points de contrôles seront sur des sentiers, intersections et autres éléments évidents. Pour valider les points de contrôles avancés, l’utilisation d’une boussole, déclinaison magnétiques, coordonnées UTM et autres notions d’orientation seront nécessaires.
 
 ### Est-ce que j'ai besoin d'un vélo de montagne?
-Les vélos doivent être munis au minimum d’une fourche à suspension avant et de pneu d’une largeur minimum de 2 pouces.
+**Pour le défi Jackalope de deux jours**, les vélos doivent être munis au minimum d’une fourche à suspension avant et des pneus d’une largeur minimum de 2 pouces. **Pour le défi Jackalope 6h**, les vélos doivent avoir des pneus d’une largeur minimum de 2 pouces (50mm).
 
 ### Quelles sont les embarcations autorisées?
 Seulement le canot est autorisé. En 2023, la location d'un canot est inclut avec votre inscription.
 
-### Est-ce que je dois rester avec mon coéquipier.e en tout temps?
+### Est-ce que je dois rester avec mon ou ma coéquipier.e en tout temps?
 Oui. Les membres d'une équipe doivent rester à moins de 100m en tout temps.
 
 
