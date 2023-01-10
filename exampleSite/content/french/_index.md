@@ -36,7 +36,7 @@ cta:
   button:
     enable: true
     label: "Inscriptions ici!"
-    link: "https://forms.gle/fg2YNiwfvQ1wtmnX7"
+    link: "https://www.zeffy.com/fr-CA/ticketing/3dd64fb6-ba9f-401f-a052-1ef7ae246f2f"
 
   ############################# Funfacts ###############################
   funfacts:
