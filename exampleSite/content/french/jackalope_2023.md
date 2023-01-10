@@ -44,7 +44,7 @@ La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix d
 
 ### Inscriptions
 
- Inscrivez-vous en cliquant sur ce lien: https://www.zeffy.com/fr-CA/ticketing/3dd64fb6-ba9f-401f-a052-1ef7ae246f2f
+ Inscrivez-vous en cliquant [ici](https://www.zeffy.com/fr-CA/ticketing/3dd64fb6-ba9f-401f-a052-1ef7ae246f2f)!
 
 
  **Frais**: 675$ (par équipe). **Un maximum de 60 équipes pourront s'inscrire** pour des raisons de logistique.
