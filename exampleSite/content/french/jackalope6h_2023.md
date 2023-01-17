@@ -33,6 +33,8 @@ La course sera d’une durée variant entre 5 et 7 heures selon vos choix de rou
 ### Inscriptions (dès le 20 Janvier à 9hre)
 
 
+Inscrivez-vous en cliquant [ici](https://www.zeffy.com/fr-CA/ticketing/a664096b-58de-40aa-84a6-1146b0935db5)!
+
 **Frais**: 140$ + frais de service (par personne). Les frais sont de 80$ + frais de service (par personne) pour les personnes de moins de 18 ans et/ou étudiantes à temps plein. **Un maximum de 30 équipes pourront s'inscrire** pour des raisons de logistique. Les personnes de moins de 18 ans doivent être absolument en équipe avec un adulte.
 
 
