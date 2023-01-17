@@ -19,8 +19,7 @@ Le Défi Jackalope 6h est une course d’aventure multisports (vélo de montagne
 
 ### Logistique
 
-Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors
-des transitions d’épreuves. L’ organisation de la course s’occupe de transporter les bacs, les vélos et les canots si requis.
+Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors des transitions d’épreuves. L’ organisation de la course s’occupe de transporter les bacs, les vélos et les canots si requis.
 
 ### À quoi vous attendre
 
@@ -35,7 +34,8 @@ La course sera d’une durée variant entre 5 et 7 heures selon vos choix de rou
 
 Inscrivez-vous en cliquant [ici](https://www.zeffy.com/fr-CA/ticketing/a664096b-58de-40aa-84a6-1146b0935db5)!
 
-**Frais**: 140$ + frais de service (par personne). Les frais sont de 80$ + frais de service (par personne) pour les personnes de moins de 18 ans et/ou étudiantes à temps plein. **Un maximum de 30 équipes pourront s'inscrire** pour des raisons de logistique. Les personnes de moins de 18 ans doivent être absolument en équipe avec un adulte.
+
+**Frais**: 140$ (par personne). Les frais sont de 80$ (par personne) pour les personnes de moins de 18 ans et/ou étudiantes à temps plein. **Un maximum de 30 équipes pourront s'inscrire** pour des raisons de logistique. Les personnes de moins de 18 ans doivent être absolument en équipe avec un adulte.
 
 
 
