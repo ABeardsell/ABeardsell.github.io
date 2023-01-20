@@ -29,7 +29,7 @@ Pendant votre course, vous aurez des décisions à prendre qui influenceront la 
 
 La course sera d’une durée variant entre 5 et 7 heures selon vos choix de routes et votre vitesse.
 
-### Inscriptions (dès le 20 Janvier à 9hre)
+### Inscriptions
 
 
 Inscrivez-vous en cliquant [ici](https://www.zeffy.com/fr-CA/ticketing/a664096b-58de-40aa-84a6-1146b0935db5)!
