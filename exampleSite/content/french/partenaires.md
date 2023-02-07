@@ -9,12 +9,27 @@ draft: false
 ################################## About #####################################
 about:
   enable : false
-  #image : "images/partenaires.png"
+  image : "images/partenaires.png"
   title : "Nos partenaires du défi Jackalope 2023"
   content : "
+  **Nos partenaires:**
 
-  À venir!
+  **Explorateur:**
 
+  - Ville de Rimouski: https://rimouski.ca/
+
+  **Aventurier:**
+
+  - Terfa: https://www.terfa.ca/
+
+  **Partenaire:**
+
+  - Upika: https://upika.ca/
+
+  **Collaborateur:**
+  - Distillerie du St-Laurent: https://www.distilleriedustlaurent.com/
+  - Kanpass: https://www.kanpas.com/
+  - Rocky Talkie: https://rockytalkie.com/
   "
 
   button:
