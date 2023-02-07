@@ -19,16 +19,19 @@ about:
   - Ville de Rimouski: https://rimouski.ca/
 
 
+
   **Aventurier:**
 
 
   - Terfa: https://www.terfa.ca/
 
 
+
   **Partenaire:**
 
 
   - Upika: https://upika.ca/
+  
 
 
   **Collaborateur:**
@@ -39,7 +42,7 @@ about:
 
   - Kanpass: https://www.kanpas.com/
 
-  
+
   - Rocky Talkie: https://rockytalkie.com/
   "
 
