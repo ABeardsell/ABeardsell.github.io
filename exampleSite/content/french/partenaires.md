@@ -1,6 +1,6 @@
 ---
 title: "Nos partenaires"
-description: "À venir!"
+description: "Partenaires du défi Jackalope 2023"
 bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
@@ -8,7 +8,7 @@ draft: false
 
 ################################## About #####################################
 about:
-  enable : false
+  enable : true
   image : "images/partenaires.png"
   title : "Nos partenaires du défi Jackalope 2023"
   content : "
