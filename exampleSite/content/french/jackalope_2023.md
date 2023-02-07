@@ -49,7 +49,7 @@ La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix d
 
  **Frais**: 675$ (par équipe). **Un maximum de 60 équipes pourront s'inscrire** pour des raisons de logistique.
 
-**Les frais d'inscriptions incluent**: le transport des bacs et équipements (canot et vélos), le camping (le samedi), la location d'un canot, les cartes du parcours, repas d'après-course le samedi, et une superbe aventure! Pour faciliter la logistique de cet événement, les canots personnels ne sont pas alloués.
+**Les frais d'inscriptions incluent**: le transport des bacs et équipements (canot et vélos), le camping (le samedi), la location d'un canot, les cartes du parcours, repas d'après-course le samedi, et une superbe aventure! Pour faciliter la logistique de cet événement, les canots personnels ne sont pas acceptés.
 
 
 **Politique de remboursement**: Si une équipe inscrite souhaite se retirer de l’événement, 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2023. Entre le 2 février et le 15 avril 2023, 50 % des frais d’inscription peuvent être remboursés. Entre le 16 avril et le 20 mai 2023, 25% des frais d’inscription peuvent être remboursés. Entre le 21 mai 2023 et le jour de la course, aucun remboursement sera émis. Jusqu’au 20 mai, les équipes qui ne peuvent pas participer ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas d’annulation, les frais de transaction sont à la charge des équipes.
