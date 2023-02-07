@@ -10,38 +10,26 @@ draft: false
 about:
   enable : true
   image : "images/partenaires.png"
-  title : "Nos partenaires du défi Jackalope 2023"
+  title : ""
   content : "
 
-  **Explorateur:**
-
+  ### Explorateur:
 
   - Ville de Rimouski: https://rimouski.ca/
 
-
-
-  **Aventurier:**
-
+  ### Aventurier:
 
   - Terfa: https://www.terfa.ca/
 
-
-
-  **Partenaire:**
-
+  ### Partenaire:
 
   - Upika: https://upika.ca/
-  
 
-
-  **Collaborateur:**
-
+  ### Collaborateur:
 
   - Distillerie du St-Laurent: https://www.distilleriedustlaurent.com/
 
-
   - Kanpass: https://www.kanpas.com/
-
 
   - Rocky Talkie: https://rockytalkie.com/
   "
