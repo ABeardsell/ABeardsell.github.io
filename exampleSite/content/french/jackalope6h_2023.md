@@ -48,10 +48,12 @@ Inscrivez-vous en cliquant [ici](https://www.zeffy.com/fr-CA/ticketing/a664096b-
 **Politique de remboursement**: Si une équipe inscrite souhaite se retirer de l’événement, 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2023. Entre le 2 février et le 15 avril 2023, 50 % des frais d’inscription peuvent être remboursés. Entre le 16 avril et le 20 mai 2023, 25% des frais d’inscription peuvent être remboursés. Entre le 21 mai 2023 et le jour de la course, aucun remboursement sera émis. Jusqu’au 20 mai, les équipes qui ne peuvent pas participer ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas d’annulation, les frais de transaction sont à la charge des équipes.
 
 
-### Liste de matériel
+### Listes de matériel
 
-À venir.
-Notez qu'une combinaison isothermique longue (wetsuit) est obligatoire par personne (d'une épaisseur minimale de 3mm au corps et 2mm pour les membres). Possibilité de louer lors de l'inscription (bien choisir la grandeur). Si les deux membres de l'équipe ont besoin d'une combinaison, vous devez ajouter deux billets de combinaisons isothermiques.
+**Les listes de matériel sont disponibles** [ici](https://drive.google.com/file/d/1oDi4ha-kjwcfCrMhlxgpyW9Nrit3dFZI/view?usp=share_link)!
+
+
+Notez qu'une combinaison isothermique longue (wetsuit) est obligatoire par personne (d'une épaisseur minimale de 3mm au corps et 2mm pour les membres). Possibilité de louer lors de l'inscription (bien choisir la grandeur).
 "
 #Les distances indiquées ci-bas varient selon vos décisions et si vous allez chercher les points de contrôles avancés.
 #Inscrivez-vous en cliquant sur ce lien **à partir du 20 Janvier à 9hre**:
