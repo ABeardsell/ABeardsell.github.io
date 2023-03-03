@@ -58,9 +58,16 @@ La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix d
 **Politique de remboursement**: Si une équipe inscrite souhaite se retirer de l’événement, 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2023. Entre le 2 février et le 15 avril 2023, 50 % des frais d’inscription peuvent être remboursés. Entre le 16 avril et le 20 mai 2023, 25% des frais d’inscription peuvent être remboursés. Entre le 21 mai 2023 et le jour de la course, aucun remboursement sera émis. Jusqu’au 20 mai, les équipes qui ne peuvent pas participer ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas d’annulation, les frais de transaction sont à la charge des équipes.
 
 
-### Liste de matériel
+### Listes de matériel
 
-À venir.
+
+**Les listes de matériel sont disponibles** [ici](https://drive.google.com/file/d/1sIQR2aNCHtBV6RBAjIvsuvmpkS93t-RE/view?usp=sharing
+)!
+
+
+**Nouveauté cette année!** Chaque équipe sera suivi en temps réel avec une balise GPS qui vous sera prêtée.
+
+
 Notez qu'une combinaison isothermique longue (wetsuit) est obligatoire par personne (d'une épaisseur minimale de 3mm au corps et 2mm pour les membres). Possibilité de louer lors de l'inscription (bien choisir la grandeur).
 "
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
