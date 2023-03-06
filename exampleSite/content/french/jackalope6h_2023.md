@@ -80,7 +80,7 @@ featured_service:
     - name : "Vélo"
       icon : "fas fa-biking"
       color : "primary-dark"
-      content : "20-30 km - Un vélo est requis (pneus avec un minimum de 50mm). Chemins de terre – Chemins forestiers – Sentiers de VTT.
+      content : "20-30 km - Un vélo est requis (pneus avec une largeur minimale de 45mm). Chemins de terre – Chemins forestiers – Sentiers de VTT.
 "
 
     # featured service item loop
