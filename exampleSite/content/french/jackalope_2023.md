@@ -10,12 +10,13 @@ about:
   enable : true
   title : "Défi Jackalope 2023"
   content : "
-  Le Défi Jackalope est une course d’aventure multisports (vélo de montagne, course à pied et canot) qui se déroulera sur 2 jours le 27 et 28 Mai 2023. Le parcours n'étant pas balisé, les équipes devront rallier des points de contrôle en s’orientant avec une boussole et une carte détaillée. Les équipes traverseront ~150 km dans la région du Bas-Saint-Laurent en alternant les disciplines sportives. Le parcours demeurera secret jusqu’à la journée avant la course.
+  Le Défi Jackalope est une course d’aventure multisports (vélo de montagne, course à pied et canot) qui se déroulera sur 2 jours le 27 et 28 Mai 2023. Course d'aventure de la série mondiale A1 Adventure Racing: https://adventure1series.com/canada/. Les équipes traverseront ~150 km dans la région du Bas-Saint-Laurent en alternant les disciplines sportives.
 
 ### À quoi vous attendre
 
 Le défi jackalope est une épreuve d'endurance exigeante. Bien qu'elle n'est pas réservée aux athlètes, vous devez avoir une expérience dans toutes les disciplines touchées par la course. Pendant votre course, vous aurez des décisions à prendre qui influenceront la durée de votre course (p.ex, sur le choix d’aller chercher ou non certains points de contrôle). Dans une certaine mesure, vous pourrez moduler votre parcours selon votre niveau d’énergie et de motivation. Les distances indiquées ci-bas varieront selon vos décisions et vos choix de points de contrôle. Notez qu'il y aura des barrières horaires à certaines étapes de la course.
 
+Le parcours n'étant pas balisé, les équipes devront rallier des points de contrôle en s’orientant avec une boussole et une carte détaillée. Le parcours demeurera secret jusqu’à la journée avant la course.
 
 Vous passerez la nuit du samedi en camping (rustique) et vous n'aurez pas accès à vos véhicules. Vous aurez accès à un bac de matériel par personne spécifiquement pour la nuit de camping.
 
