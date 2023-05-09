@@ -19,6 +19,9 @@ about:
 
   - Ville de Rimouski: https://rimouski.ca/
 
+  - Silva Canada: https://silva-canada.com/
+
+
   ### Aventurier:
 
   - Terfa: https://www.terfa.ca/
@@ -29,8 +32,6 @@ about:
 
   - Vélo Plein Air: https://www.velopleinair.com/
 
-  - Silva Canada: https://silva-canada.com/
-
   - Tourisme Rimouski: https://tourismerimouski.com/
 
 
@@ -40,6 +41,9 @@ about:
 
 
   ### Collaborateur:
+
+  - Les Chants du Fleuve: https://www.leschantsdufleuve.ca/
+
 
   - Distillerie du St-Laurent: https://www.distilleriedustlaurent.com/
 
