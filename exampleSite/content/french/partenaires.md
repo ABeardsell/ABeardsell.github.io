@@ -44,7 +44,6 @@ about:
 
   - Les Chants du Fleuve: https://www.leschantsdufleuve.ca/
 
-
   - Distillerie du St-Laurent: https://www.distilleriedustlaurent.com/
 
   - Kanpas: https://www.kanpas.com/
