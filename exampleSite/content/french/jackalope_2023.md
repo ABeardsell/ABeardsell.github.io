@@ -20,7 +20,7 @@ Le parcours n'étant pas balisé, les équipes devront rallier des points de con
 
 Vous passerez la nuit du samedi en camping (rustique) et vous n'aurez pas accès à vos véhicules. Vous aurez accès à un bac de matériel par personne spécifiquement pour la nuit de camping.
 
-### Horaire général (horaire final à venir)
+### Horaire général
 
 **Vendredi soir**: Enregistrement et dépôts des bacs à Rimouski (bacs de camping et bacs de transitions du jour 1)
 
@@ -43,12 +43,9 @@ L’organisation de la course s’occupe de transporter les bacs, les vélos et 
 
 La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix de routes et votre vitesse.
 
-### Inscriptions
+### Résultats
 
-**Fermeture des inscriptions le 17 avril.**
-
-
- **Frais**: 675$ (par équipe). **Les frais d'inscriptions incluent**: le transport des bacs et équipements (canot et vélos), le camping (le samedi), la location d'un canot, les cartes du parcours, repas d'après-course le samedi, et une superbe aventure! Pour faciliter la logistique de cet événement, les canots personnels ne sont pas acceptés.
+Cliquez-[ici](https://docs.google.com/spreadsheets/d/1Sb4ufVI_AuxcZiZnntBawxmsl67x-fVn/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true) pour voir les résultats de l'édition 2023. 
 
 
 **Politique de remboursement**: Si une équipe inscrite souhaite se retirer de l’événement, 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2023. Entre le 2 février et le 15 avril 2023, 50 % des frais d’inscription peuvent être remboursés. Entre le 16 avril et le 20 mai 2023, 25% des frais d’inscription peuvent être remboursés. Entre le 21 mai 2023 et le jour de la course, aucun remboursement sera émis. Jusqu’au 20 mai, les équipes qui ne peuvent pas participer ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas d’annulation, les frais de transaction sont à la charge des équipes.
