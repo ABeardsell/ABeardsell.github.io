@@ -2,57 +2,57 @@
 
 # main menu
 [[main]]
-name = "Accueil"
+name = "Home"
 url = ""
 weight = 1
 
 [[main]]
-name = "À propos"
+name = "About"
 url = "about/"
 weight = 2
 
 [[main]]
 weight = 3
-name = "Événements 2024"
+name = "2024 Events"
 hasChildren = true
 
 
 [[main]]
 weight = 3
-name = "Événements passés"
+name = "Past events"
 hasChildren = true
 
   [[main]]
-  parent = "Événements passés"
-  name = "Jackalope 2 jours - 2023"
+  parent = "Past events"
+  name = "Two-day - 2023 "
   url = "jackalope_2023/"
   weight = 1
 
   [[main]]
-  parent = "Événements passés"
-  name = "Jackalope 6h - 2023"
+  parent = "Past events"
+  name = "6h - 2023"
   url = "jackalope6h_2023/"
   weight = 2
 
   [[main]]
-  parent = "Événements passés"
-  name = "Jackalope 4h - 2022"
+  parent = "Past events"
+  name = "4h - 2022"
   url = "jackalope_short/"
   weight = 3
 
   [[main]]
-  parent = "Événements passés"
-  name = "Jackalope 12h - 2022"
+  parent = "Past events"
+  name = "12h - 2022"
   url = "jackalope_long/"
   weight = 4
 
 [[main]]
-name = "Partenaires"
+name = "Partners"
 url = "partenaires/"
 weight = 4
 
 [[main]]
-name = "Récits de course"
+name = "Race reports"
 url = "blog/"
 weight = 5
 
@@ -69,18 +69,18 @@ weight = 7
 
 # footer menu
 [[footer]]
-name = "À propos"
+name = "About"
 url = "about/"
 weight = 1
 
 [[footer]]
-name = "Défi Jackalope"
+name = "Jackalope Challenge"
 url = "jackalope_2023/"
 weight = 2
 
 
 [[footer]]
-name = "Défi Jackalope 6h"
+name = "Jackalope Challenge 6h"
 url = "jackalope6h_2023/"
 weight = 3
 

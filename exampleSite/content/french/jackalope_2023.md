@@ -55,7 +55,7 @@ Cliquez-[ici](https://docs.google.com/spreadsheets/d/1Sb4ufVI_AuxcZiZnntBawxmsl6
 )!
 
 
-**Nouveauté cette année!** Chaque équipe sera suivi en temps réel avec une balise GPS qui vous sera prêtée.
+**Nouveauté cette année!** Chaque équipe sera suivi en temps réel avec une balise GPS: https://yb.tl/JackC23
 
 
 Notez qu'une combinaison isothermique longue (wetsuit) est obligatoire par personne (d'une épaisseur minimale de 3mm au corps et 2mm pour les membres). Possibilité de louer lors de l'inscription (bien choisir la grandeur).
