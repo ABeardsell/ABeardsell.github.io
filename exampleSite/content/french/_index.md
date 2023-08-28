@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg2.png"
   bg_overlay: true
-  title: "Club de courses d'orientation et d'aventure RIKICO"
+  title: "Orientation Aventure - RIKICO"
   content: ""
   button:
     enable: true
