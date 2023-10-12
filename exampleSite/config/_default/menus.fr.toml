@@ -11,11 +11,21 @@ name = "À propos"
 url = "about/"
 weight = 2
 
+#[[main]]
+#name = "Événementsaa 2024"
+#url = "project/"
+#weight = 3
+
 [[main]]
 weight = 3
 name = "Événements 2024"
 hasChildren = true
 
+  [[main]]
+  parent = "Événements 2024"
+  name = "Jackalope 2024"
+  url = "jackalope_2024/"
+  weight = 1
 
 [[main]]
 weight = 3
@@ -74,15 +84,15 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Défi Jackalope"
-url = "jackalope_2023/"
+name = "Jackalope 2024"
+url = "jackalope_2024/"
 weight = 2
 
 
-[[footer]]
-name = "Défi Jackalope 6h"
-url = "jackalope6h_2023/"
-weight = 3
+#[[footer]]
+#name = "Défi Jackalope 6h"
+#url = "jackalope6h_2023/"
+#weight = 3
 
 #[[footer]]
 #name = "Service"

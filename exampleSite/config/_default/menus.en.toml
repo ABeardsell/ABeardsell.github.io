@@ -16,6 +16,12 @@ weight = 3
 name = "2024 Events"
 hasChildren = true
 
+[[main]]
+parent = "2024 Events"
+name = "Jackalope 2024"
+url = "jackalope_2024/"
+weight = 1
+
 
 [[main]]
 weight = 3

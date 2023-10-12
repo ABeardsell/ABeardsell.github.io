@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Découvrez nos événements"
-    link: "jackalope_2023"
+    link: "jackalope_2024"
 
 
 ############################# About #################################
@@ -18,7 +18,8 @@ about:
   title: "RIKICO"
   description: ""
   content: "Le club de courses d’orientation et d’aventure RIKICO est un organisme à but non lucratif
-  ayant comme mandat la promotion et l’organisation de courses d’orientation et d’aventure au Bas-Saint-Laurent."
+  ayant comme mandat la promotion et l’organisation de courses d’orientation et d’aventure au Bas-Saint-Laurent.
+  "
   image: "images/Rikico.png"
 ############################# Service ############################
 service:
@@ -30,9 +31,9 @@ service:
 cta:
   enable: false
   bg_image: "images/slider-bg2.png"
-  title: "Défi Jackalope 2023"
+  title: "Défi Jackalope 2024"
   content: "Une fin de semaine d'aventure dans l'Est du Québec vous attend!
-Êtes-vous prêt.es à relever le défi?"
+Êtes-vous prêt.e.s à relever le défi?"
   button:
     enable: true
     label: "Inscriptions ici!"

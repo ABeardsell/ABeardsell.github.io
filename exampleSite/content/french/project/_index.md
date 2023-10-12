@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
+title: "Événements 2014aa"
+description: ""
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/slider-bg2.png"
 ---
