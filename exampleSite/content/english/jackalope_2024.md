@@ -11,7 +11,8 @@ about:
   title : "Jackalope 2024"
   content : "
 
-The Jackalope Challenge is a multi-sport adventure race taking place over 2 days (in stages) on May 18 and 19, 2024. The event aims to offer teams a memorable adventure, while showcasing the beauty and attractions of the Bas-Saint-Laurent region.
+The Jackalope Challenge is a multi-sport adventure race taking place over 2 days (in stages) on May 18 and 19, 2024. The event aims to offer teams a memorable adventure, while showcasing the beauty and attractions of the Bas-Saint-Laurent region. This race is part of the Adventure Racing World Series:
+https://www.arworldseries.com/races/jackalope-canada.
 
 ### Disciplines
 

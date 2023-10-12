@@ -11,7 +11,7 @@ about:
   title : "Défi Jackalope 2024"
   content : "
 
-Le Défi Jackalope est une course d’aventure multisports qui se déroulera sur 2 jours (par étapes) le 18 et 19 Mai 2024. Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
+Le Défi Jackalope est une course d’aventure multisports qui se déroulera sur 2 jours (par étapes) le 18 et 19 Mai 2024. Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cette course s'insère dans la série mondiale des courses d'aventure: https://www.arworldseries.com/races/jackalope-canada.
 
 ### Disciplines sportives
 
