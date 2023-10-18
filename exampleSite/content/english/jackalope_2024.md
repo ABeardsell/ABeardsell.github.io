@@ -34,7 +34,7 @@ Teams of 2 - men, women or mixed.
 
 ### Logistics
 
-The organization will take care of transporting bins, bikes and kayaks if required. There will be no refreshments on the course, but teams will have access to ferries at certain transitions between events. The kayak is supplied with your registration and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
+The organization will take care of transporting bins, bikes and kayaks if required. Teams will have access to their bins at certain transitions between disciplines. The kayak is supplied with your registration and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
 
 
 ### Preliminary general schedule

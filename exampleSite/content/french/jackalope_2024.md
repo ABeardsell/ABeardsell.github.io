@@ -25,7 +25,7 @@ Les équipes traverseront environ 150 km, sur un parcours non balisé, en s’or
 
 ### Durée
 
-La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barières horaires à différentes étapes du parcours.
+La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
 
 
 ### Équipes
