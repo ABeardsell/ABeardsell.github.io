@@ -88,14 +88,14 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Course"
+    - name : "Course/Trekking"
       icon : "fas fa-running"
       color : "primary"
       content : "20-45 km en plusieurs sections - sentiers et hors sentiers, rivages, traverse de cours d'eau et de marais.
 "
 
     # featured service item loop
-    - name : "Vélo"
+    - name : "Vélo de montagne"
       icon : "fas fa-biking"
       color : "primary-dark"
       content : "60-90 km - Un vélo de montagne est requis. Asphalte - Chemins de terre – Single track - Chemins forestiers – Sentiers de VTT.
