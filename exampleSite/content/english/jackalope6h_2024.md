@@ -85,7 +85,7 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Course/Trekking"
+    - name : "Running/Trekking"
       icon : "fas fa-running"
       color : "primary"
       content : "8-10 km in several sections - trails and off-trail, possible stream and marsh crossings.

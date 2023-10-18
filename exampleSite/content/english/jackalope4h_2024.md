@@ -54,7 +54,7 @@ Possibility of camping (with or without services and RV sites), motel and ready-
 
 ### Registration
 
-**Opens November 13, 2023 at 8am. The number of teams will be limited to 20.
+**Opens November 13, 2023 at 8am. The number of teams will be limited to 20.**
 
 
 The cost per team is $220. This cost includes: transportation of your bins and kayak (if required), kayak rental, course and map design, and post-race meal.
@@ -80,7 +80,7 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Course/Trekking"
+    - name : "Running/Trekking"
       icon : "fas fa-running"
       color : "primary"
       content : "8-10 km in several sections - trails and off-trail, possible stream and marsh crossings.
