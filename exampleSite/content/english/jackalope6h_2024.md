@@ -1,6 +1,6 @@
 ---
-title: "Défi Jackalope 6h 2024"
-description: "Course d’aventure multisports"
+title: "Jackalope 6h 2024"
+description: "Multi-sport adventure race"
 bg_image: "images/slider-bg2.png"
 layout: "service"
 draft: false
@@ -8,12 +8,12 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Défi Jackalope 6h 2024"
+  title : "Jackalope 6h"
   content : "
 
 The Jackalope Challenge is a multi-sport adventure race that will take place on May 18, 2024. This event aims to offer teams a memorable sporting and human adventure, while showcasing the beauty and attractions of the Bas-Saint-Laurent region.
 
-### Disciplines sportives
+### Disciplines
 
 **Mountain biking, running/trekking and kayaking**. All require map and compass navigation. The distances indicated below may vary slightly from the final route. You must have experience in all disciplines covered by the race.
 
@@ -55,7 +55,7 @@ The organization will take care of transporting bins, bikes and kayaks if requir
  Possibility of camping (with or without services and RV sites), motel and ready-to-camp. Reserve directly with the campground and mention your Jackalope Challenge membership for a discount.
 
 
-### Inscriptions
+### Registration
 
 **Opens November 13, 2023 at 8am. The number of teams will be limited to 20.
 

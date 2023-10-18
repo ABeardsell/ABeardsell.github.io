@@ -1,5 +1,5 @@
 ---
-title: "Défi Jackalope 4h 2024"
+title: "Jackalope 4h 2024"
 description: "Course d’aventure multisports"
 bg_image: "images/slider-bg2.png"
 layout: "service"
@@ -8,7 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Défi Jackalope 4h 2024"
+  title : "Jackalope 4h"
   content : "
 
 Le Défi Jackalope est une course d’aventure multisports qui se déroulera le 18 mai 2024. Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.

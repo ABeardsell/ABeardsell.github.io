@@ -1,6 +1,6 @@
 ---
-title: "Défi Jackalope 4h 2024"
-description: "Course d’aventure multisports"
+title: "Jackalope 4h 2024"
+description: "Multi-sport adventure race"
 bg_image: "images/slider-bg2.png"
 layout: "service"
 draft: false
@@ -8,12 +8,12 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Défi Jackalope 4h 2024"
+  title : "Jackalope 4h"
   content : "
 
 The Jackalope Challenge is a multi-sport adventure race that will take place on May 18, 2024. This event aims to offer teams a memorable sporting and human adventure, while showcasing the beauty and attractions of the Bas-Saint-Laurent region.
 
-### Sports disciplines
+### Disciplines
 
 **Running/trekking and kayaking**. Each requires map and compass navigation. The distances indicated below may vary slightly from the final route. You must have experience in all disciplines covered by the race.
 
