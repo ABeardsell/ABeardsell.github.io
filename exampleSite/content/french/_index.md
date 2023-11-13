@@ -29,7 +29,7 @@ service:
 
 ############################ call to action ###########################
 cta:
-  enable: false
+  enable: true
   bg_image: "images/slider-bg2.png"
   title: "Défi Jackalope 2024"
   content: "Une fin de semaine d'aventure dans l'Est du Québec vous attend!
@@ -37,7 +37,7 @@ cta:
   button:
     enable: true
     label: "Inscriptions ici!"
-    link: "https://www.zeffy.com/fr-CA/ticketing/3dd64fb6-ba9f-401f-a052-1ef7ae246f2f"
+    link: "https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1"
 
   ############################# Funfacts ###############################
   funfacts:

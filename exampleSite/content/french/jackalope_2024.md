@@ -11,7 +11,7 @@ about:
   title : "Jackalope 2024"
   content : "
 
-Le Défi Jackalope est une course d’aventure multisports qui se déroulera sur 2 jours (par étapes) le 18 et 19 Mai 2024. Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cette course s'insère dans la série mondiale des courses d'aventure: https://www.arworldseries.com/races/jackalope-canada.
+Le Défi Jackalope est une course d’aventure multisports qui se déroulera sur 2 jours (par étapes) le 18 et 19 Mai 2024 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cette course s'insère dans la série mondiale des courses d'aventure: https://www.arworldseries.com/races/jackalope-canada.
 
 ### Disciplines sportives
 
@@ -62,6 +62,9 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 ### Inscriptions
 
 **Ouverture le 13 novembre 2023 à 8h. Le nombre d'équipes sera limité à 40.**
+
+
+Inscriptions ici: https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1
 
 
 Le coût par équipe est de 750$. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une section de kayak. Il est possible d'en louer lors de l'inscription.

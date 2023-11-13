@@ -57,7 +57,10 @@ The organization will take care of transporting bins, bikes and kayaks if requir
 
 ### Registration
 
-**Opens November 13, 2023 at 8am. The number of teams will be limited to 20.
+**Opens November 13, 2023 at 8am. The number of teams will be limited to 20.**
+
+Register here: https://www.zeffy.com/fr-CA/ticketing/839aebef-ae9b-40f8-b0de-fde9fd1dcaf9
+
 
 
 The cost per team is $320. This cost includes: transportation of your bins, bikes and kayak (if required), kayak rental, course and map design and post-race meal.

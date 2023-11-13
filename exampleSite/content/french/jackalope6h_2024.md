@@ -11,7 +11,7 @@ about:
   title : "Jackalope 6h"
   content : "
 
-Le Défi Jackalope est une course d’aventure multisports qui se déroulera le 18 mai 2024. Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
+Le Défi Jackalope est une course d’aventure multisports qui se déroulera le 18 mai 2024 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
 
 ### Disciplines sportives
 
@@ -57,6 +57,10 @@ Possibilité de camping (avec ou sans services et emplacements pour VR), motel e
 ### Inscriptions
 
 **Ouverture le 13 novembre 2023 à 8h. Le nombre d'équipes sera limité à 20.**
+
+
+Inscriptions ici: https://www.zeffy.com/fr-CA/ticketing/839aebef-ae9b-40f8-b0de-fde9fd1dcaf9
+
 
 
 Le coût par équipe est de 320$. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.

@@ -65,6 +65,9 @@ Camping (with or without services and RV sites), motel and ready-to-camp are ava
 **Opens on November 13, 2023 at 8am. The number of teams will be limited to 40**.
 
 
+Register here: https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1
+
+
 The cost per team is $750.This cost includes: transportation of your bins, bikes and kayak, kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Please note that a wetsuit (sleeveless accepted) is mandatory for a kayak section. Wetsuits can be rented upon registration.
 
 
