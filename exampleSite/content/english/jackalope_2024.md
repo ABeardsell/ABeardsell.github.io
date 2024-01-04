@@ -62,7 +62,7 @@ Camping (with or without services and RV sites), motel and ready-to-camp are ava
 ### Registration
 
 
-**Opens on November 13, 2023 at 8am. The number of teams will be limited to 40**.
+**Opens on November 13, 2023 at 8am. The number of teams will be limited to 48**.
 
 
 Register here: https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1

@@ -61,7 +61,7 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 ### Inscriptions
 
-**Ouverture le 13 novembre 2023 à 8h. Le nombre d'équipes sera limité à 40.**
+**Ouverture le 13 novembre 2023 à 8h. Le nombre d'équipes sera limité à 48.**
 
 
 Inscriptions ici: https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1
