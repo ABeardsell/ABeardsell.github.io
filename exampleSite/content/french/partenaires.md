@@ -1,6 +1,6 @@
 ---
 title: "Nos partenaires"
-description: "Partenaires du défi Jackalope 2023"
+description: "Partenaires du défi Jackalope 2024"
 bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
@@ -13,6 +13,7 @@ about:
   title : ""
   content : "
   ### Parteneraire majeur:
+
 
   - Airmedic: https://www.airmedic.net/accueil
 
