@@ -54,9 +54,8 @@ Possibility of camping (with or without services and RV sites), motel and ready-
 
 ### Registration
 
-**Opens November 13, 2023 at 8am. The number of teams will be limited to 20.**
-
 Register here: https://www.zeffy.com/fr-CA/ticketing/2ccd74ef-6234-4ed2-a1b6-40f6c0aa370c
+**The number of teams will be limited to 24 and registration closes on May 1, 2024.
 
 
 
@@ -66,7 +65,7 @@ The cost per team is $220. This cost includes: transportation of your bins and k
 The minimum age to participate is 16 years old when teamed with an adult. This requires approval by race management. Contact us prior to registration to discuss.
 
 
-Refund policy: 85% of registration fees will be refunded until February 1, 2024. Between February 2 and April 1, 2024, 50% of registration fees will be refunded. Between April 2 and May 1, 2023, 25% of the registration fee will be refunded. Between May 2, 2023 and race day, no refunds will be issued. Until May 2, teams may transfer their registration after informing the organizing committee. In all cases, teams will be charged a transaction fee.
+Refund policy: 85% of registration fees will be refunded until February 1, 2024. Between February 2 and April 1, 2024, 50% of registration fees will be refunded. Between April 2 and May 1, 2024, 25% of the registration fee will be refunded. Between May 2, 2024 and race day, no refunds will be issued. Until May 2, teams may transfer their registration after informing the organizing committee. In all cases, teams will be charged a transaction fee.
 
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.

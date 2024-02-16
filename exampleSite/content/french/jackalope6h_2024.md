@@ -56,10 +56,8 @@ Possibilité de camping (avec ou sans services et emplacements pour VR), motel e
 
 ### Inscriptions
 
-**Ouverture le 13 novembre 2023 à 8h. Le nombre d'équipes sera limité à 20.**
-
-
-Inscriptions ici: https://www.zeffy.com/fr-CA/ticketing/839aebef-ae9b-40f8-b0de-fde9fd1dcaf9
+**Inscriptions ici:** https://www.zeffy.com/fr-CA/ticketing/839aebef-ae9b-40f8-b0de-fde9fd1dcaf9
+**Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Mai 2024.**
 
 
 
@@ -69,7 +67,7 @@ Le coût par équipe est de 320$. Ce coût inclut notamment: le transport de vos
 L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 
-**Politique de remboursement**: 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2024. Entre le 2 février et le 1 avril 2024, 50 % des frais d’inscription seront remboursés. Entre le 2 avril et le 1 mai 2023, 25% des frais d’inscription seront remboursés. Entre le 2 mai 2023 et le jour de la course, aucun remboursement sera émis. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas, des frais de transaction seront à la charge des équipes.
+**Politique de remboursement**: 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2024. Entre le 2 février et le 1 avril 2024, 50 % des frais d’inscription seront remboursés. Entre le 2 avril et le 1 mai 2024, 25% des frais d’inscription seront remboursés. Entre le 2 mai 2024 et le jour de la course, aucun remboursement sera émis. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas, des frais de transaction seront à la charge des équipes.
 
 
 "

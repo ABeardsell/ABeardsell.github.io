@@ -61,11 +61,9 @@ Camping (with or without services and RV sites), motel and ready-to-camp are ava
 
 ### Registration
 
+**Register here:** https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1
+**The number of teams will be limited to 48 and registration closes on April 15, 2024.
 
-**Opens on November 13, 2023 at 8am. The number of teams will be limited to 48**.
-
-
-Register here: https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1
 
 
 The cost per team is $750.This cost includes: transportation of your bins, bikes and kayak, kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Please note that a wetsuit (sleeveless accepted) is mandatory for a kayak section. Wetsuits can be rented upon registration.
@@ -74,7 +72,7 @@ The cost per team is $750.This cost includes: transportation of your bins, bikes
 The minimum age for participation is 16 years, when teamed with an adult. This requires approval by race management. Contact us beforehand to discuss.
 
 
-**Refund policy**: 85% of registration fees will be refunded until February 1, 2024. Between February 2 and April 1, 2024, 50% of registration fees will be refunded. Between April 2 and May 1, 2023, 25% of the registration fee will be refunded. Between May 2, 2023 and race day, no refunds will be issued. Until May 2, teams may transfer their registration after informing the organizing committee. In all cases, teams will be charged a transaction fee.
+**Refund policy**: 85% of registration fees will be refunded until February 1, 2024. Between February 2 and April 1, 2024, 50% of registration fees will be refunded. Between April 2 and May 1, 2024, 25% of the registration fee will be refunded. Between May 2, 2024 and race day, no refunds will be issued. Until May 2, teams may transfer their registration after informing the organizing committee. In all cases, teams will be charged a transaction fee.
 
 
 
