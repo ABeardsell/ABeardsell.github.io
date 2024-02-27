@@ -12,6 +12,9 @@ about:
   image : "images/partenaires2024.png"
   title : ""
   content : "
+
+Merci à nos généreux partenaires de nous accompagner dans cette aventure:
+  
   ### Parteneraire majeur:
 
 
@@ -38,7 +41,7 @@ about:
 
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
 
-  
+
   - Tourisme Rimouski: https://tourismerimouski.com/
 
   "

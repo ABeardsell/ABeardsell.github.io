@@ -13,6 +13,10 @@ about:
   title : ""
   content : "
 
+  Thank you to our generous partners for supporting us in this adventure:
+
+
+
   ### Main Partner:
 
   - Airmedic: https://www.airmedic.net/accueil
@@ -39,7 +43,7 @@ about:
 
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
 
-  
+
   - Tourisme Rimouski: https://tourismerimouski.com/
 
   "
