@@ -66,6 +66,8 @@ Inscriptions ici: https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-
 Le nombre d'équipes sera limité à 48 équipes. En date du 26 février, la course affiche **COMPLET**!
 Nous avons créé une LISTE D'ATTENTE pour donner à plus d'équipes l'opportunité de se joindre à nous: https://forms.gle/nESqq9uFxdzrf3Sq8
 
+
+
 Le coût par équipe est de 750$. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une section de kayak. Il est possible d'en louer lors de l'inscription.
 
 

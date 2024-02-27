@@ -16,19 +16,30 @@ about:
   ### Main Partner:
 
   - Airmedic: https://www.airmedic.net/accueil
+
   - Pit Caribou: https://pitcaribou.com/
+
   - Ville de Rimouski: https://rimouski.ca/
+
+
   - Sport Expert: https://www.sportsexperts.ca/fr-CA/
-  
+
 
   ### Collaborator:
 
   - Buro Pro Citation: https://www.buroprocitation.ca/
+
   - Kanpas: https://www.kanpas.com/
+
   - Les Chants du Fleuve Kombucha:https://www.leschantsdufleuve.ca/
+
   - Näak: https://www.naak.com
+
   - Rabot D. Bois: https://www.rabotdbois.com/
+
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
+
+  
   - Tourisme Rimouski: https://tourismerimouski.com/
 
   "
