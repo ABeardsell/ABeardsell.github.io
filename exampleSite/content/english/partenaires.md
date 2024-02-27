@@ -13,7 +13,7 @@ about:
   title : ""
   content : "
 
-  Thank you to our generous partners for supporting us in this adventure:
+**Thank you to our generous partners for supporting us in this adventure:**
 
 
 

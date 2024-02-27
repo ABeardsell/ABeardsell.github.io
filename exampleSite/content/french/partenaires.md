@@ -13,7 +13,7 @@ about:
   title : ""
   content : "
 
-Merci à nos généreux partenaires de nous accompagner dans cette aventure:
+**Merci à nos généreux partenaires de nous accompagner dans cette aventure:**
 
   ### Parteneraire majeur:
 
@@ -25,7 +25,7 @@ Merci à nos généreux partenaires de nous accompagner dans cette aventure:
 
 
   - Ville de Rimouski: https://rimouski.ca/
-  
+
 
   - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
