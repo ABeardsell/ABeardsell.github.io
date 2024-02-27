@@ -15,7 +15,7 @@ about:
 
 **Merci à nos généreux partenaires de nous accompagner dans cette aventure:**
 
-  ### Parteneraire majeur:
+  ### Partenaire majeur:
 
 
   - Airmedic: https://www.airmedic.net/accueil
