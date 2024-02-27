@@ -15,7 +15,7 @@ about:
 
 **Merci à nos généreux partenaires de nous accompagner dans cette aventure:**
 
-  ### Partenaire majeur:
+  ### Partenaires majeurs:
 
 
   - Airmedic: https://www.airmedic.net/accueil
@@ -30,7 +30,7 @@ about:
   - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
 
-  ### Partenaire collaborateur:
+  ### Partenaires collaborateurs:
 
   - Buro Pro Citation: https://www.buroprocitation.ca/
 
