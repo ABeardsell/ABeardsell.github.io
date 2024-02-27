@@ -62,7 +62,8 @@ Camping (with or without services and RV sites), motel and ready-to-camp are ava
 ### Registration
 
 **Register here:** https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1
-**The number of teams will be limited to 48 and registration closes on April 15, 2024.
+The number of teams will be limited to 48. As of February 26, the race is **SOLD OUT**!
+We have created a WAITING LIST to give more teams the opportunity to join us: https://forms.gle/nESqq9uFxdzrf3Sq8
 
 
 
