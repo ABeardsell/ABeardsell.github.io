@@ -14,15 +14,18 @@ about:
   content : "
 
 Merci à nos généreux partenaires de nous accompagner dans cette aventure:
-  
+
   ### Parteneraire majeur:
 
 
   - Airmedic: https://www.airmedic.net/accueil
 
+
   - Pit Caribou: https://pitcaribou.com/
 
+
   - Ville de Rimouski: https://rimouski.ca/
+  
 
   - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
@@ -33,7 +36,7 @@ Merci à nos généreux partenaires de nous accompagner dans cette aventure:
 
   - Kanpas: https://www.kanpas.com/
 
-  - Les Chants du Fleuve Kombucha:https://www.leschantsdufleuve.ca/
+  - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
 
   - Näak: https://www.naak.com
 

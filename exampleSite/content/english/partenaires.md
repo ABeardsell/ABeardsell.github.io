@@ -35,7 +35,7 @@ about:
 
   - Kanpas: https://www.kanpas.com/
 
-  - Les Chants du Fleuve Kombucha:https://www.leschantsdufleuve.ca/
+  - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
 
   - Näak: https://www.naak.com
 
