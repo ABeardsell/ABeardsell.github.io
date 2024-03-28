@@ -21,6 +21,8 @@ about:
 
   - Airmedic: https://www.airmedic.net/accueil
 
+  - Desjardins: https://www.desjardins.com/qc/fr.html
+
   - Pit Caribou: https://pitcaribou.com/
 
   - Ville de Rimouski: https://rimouski.ca/
