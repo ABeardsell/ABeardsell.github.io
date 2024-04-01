@@ -59,6 +59,11 @@ We **strongly suggest that you stay at the Rimouski campsite** on Friday and Sat
 Camping (with or without services and RV sites), motel and ready-to-camp are available. Reserve directly with the campground and mention your Jackalope Challenge membership for a discount.
 
 
+### Gear list
+
+The gear list is available here: https://drive.google.com/file/d/1-ZELEHGfbgt3Yg9YXTUKYDSTe7eCjU5a/view?usp=sharing
+
+
 ### Registration
 
 **Register here:** https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1

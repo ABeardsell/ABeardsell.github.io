@@ -58,6 +58,10 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
  Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance au défi Jackalope pour bénéficier d'un rabais.
 
 
+### Liste de matériel
+
+La liste de matériel est disponible ici: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
+
 
 ### Inscriptions
 
