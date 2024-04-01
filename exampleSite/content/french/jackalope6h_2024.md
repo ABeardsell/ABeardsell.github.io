@@ -54,6 +54,12 @@ On vous suggère de séjourner au camping Rimouski le vendredi soir. L'enregistr
 Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance au défi Jackalope pour bénéficier d'un rabais.
 
 
+### Liste de matériel
+
+La liste de matériel est disponible ici: https://drive.google.com/file/d/1kd7PnQVlXPtK87rYi1BWwVEIBKrHiHGR/view?usp=drive_link
+
+
+
 ### Inscriptions
 
 **Inscriptions ici:** https://www.zeffy.com/fr-CA/ticketing/839aebef-ae9b-40f8-b0de-fde9fd1dcaf9
