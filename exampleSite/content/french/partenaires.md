@@ -20,8 +20,13 @@ about:
 
   - Airmedic: https://www.airmedic.net/accueil
 
+  - Camping Hiking Adventures: https://www.campinghikingadventures.com
+
   - Desjardins: https://www.desjardins.com/qc/fr.html
 
+  - MRS Packraft: https://www.mrsraft.com
+
+  
   - Pit Caribou: https://pitcaribou.com/
 
 
