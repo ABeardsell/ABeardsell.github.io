@@ -47,17 +47,6 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
  **Dimanche le 19 Mai**: Embarquement en autobus le matin vers le départ (le lieu vous sera communiqué lors de l'enregistrement). La fermeture du parcours et la remise des prix auront lieu en fin de journée.
 
 
- ### Camping et hébergement
-
- Camping Rimouski: https://campingrimouski.com/
-
-
- On vous **suggère fortement de séjourner au camping Rimouski** le vendredi et le samedi soir. L'enregistrement et la manipulation des bacs de transition et des vélos se fera sur place. Ne tardez pas à réserver si vous désirez un type d'hébergement particulier.
-
-
- Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance au défi Jackalope pour bénéficier d'un rabais.
-
-
 ### Liste de matériel
 
 La liste de matériel est disponible ici: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
@@ -74,19 +63,18 @@ Nous avons créé une LISTE D'ATTENTE pour donner à plus d'équipes l'opportuni
 
 Le coût par équipe est de 750$. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une section de kayak. Il est possible d'en louer lors de l'inscription.
 
-
-L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
-
-
-**Politique de remboursement**: 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2024. Entre le 2 février et le 1 avril 2024, 50 % des frais d’inscription seront remboursés. Entre le 2 avril et le 1 mai 2024, 25% des frais d’inscription seront remboursés. Entre le 2 mai 2024 et le jour de la course, aucun remboursement sera émis. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas, des frais de transaction seront à la charge des équipes.
-
-
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image : "images/jackalope/jackalope_2024_2.png"
+ ### Camping et hébergement
+
+# Camping Rimouski: https://campingrimouski.com/
+
+
+ #On vous **suggère fortement de séjourner au camping Rimouski** le vendredi et le samedi soir. L'enregistrement et la manipulation des bacs de transition et des vélos se fera sur place. Ne tardez pas à réserver si vous désirez un type d'hébergement particulier. #Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance au défi Jackalope pour bénéficier d'un rabais.
+  image : "images/jackalope/jackalope_2024.png"
 
   # mettre les partenaires sous le logo dans la même image!
 

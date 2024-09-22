@@ -21,6 +21,11 @@ weight = 3
 name = "Événements 2025"
 hasChildren = true
 
+  [[main]]
+  parent = "Événements 2025"
+  name = "St-Laurent (2 jours)"
+  url = "raid_stlaurent_2025/"
+  weight = 1
 
 [[main]]
 weight = 3
@@ -39,35 +44,35 @@ hasChildren = true
   url = "jackalope6h_2024/"
   weight = 2
 
-[[main]]
-parent = "Événements passés"
-name = "Jackalope 4h - 2024"
-url = "jackalope4h_2024/"
-weight = 3
+  [[main]]
+  parent = "Événements passés"
+  name = "Jackalope 4h - 2024"
+  url = "jackalope4h_2024/"
+  weight = 3
 
   [[main]]
   parent = "Événements passés"
-  name = "Jackalope 2 jours - 2023"
+  name = "Jackalope (2 jours) - 2023"
   url = "jackalope_2023/"
-  weight = 1
+  weight = 4
 
   [[main]]
   parent = "Événements passés"
   name = "Jackalope 6h - 2023"
   url = "jackalope6h_2023/"
-  weight = 2
+  weight = 5
 
   [[main]]
   parent = "Événements passés"
   name = "Jackalope 4h - 2022"
   url = "jackalope_short/"
-  weight = 3
+  weight = 6
 
   [[main]]
   parent = "Événements passés"
   name = "Jackalope 12h - 2022"
   url = "jackalope_long/"
-  weight = 4
+  weight = 7
 
 [[main]]
 name = "Partenaires"

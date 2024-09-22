@@ -31,11 +31,10 @@ service:
 cta:
   enable: true
   bg_image: "images/slider-bg2.png"
-  title: "Défi Jackalope 2024"
-  content: "Une fin de semaine d'aventure dans l'Est du Québec vous attend!
-Êtes-vous prêt.e.s à relever le défi?"
+  title: "Course d'aventure St-Laurent 2025"
+  content: "Une fin de semaine d'aventure dans l'Est du Québec vous attend!"
   button:
-    enable: true
+    enable: false
     label: "Inscriptions ici!"
     link: "https://www.zeffy.com/fr-CA/ticketing/0de2e0d2-1305-47de-b6fb-bd52251ff1b1"
 
