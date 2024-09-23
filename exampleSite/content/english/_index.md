@@ -17,7 +17,7 @@ about:
   enable: true
   title: "RIKICO"
   description: ""
-  content: "The RIKICO orienteering and adventure club is a non-profit organization whose mandate is to promote and organize orienteering and adventure races in the Lower St. Lawrence region."
+  content: "RIKICO is a non-profit organization whose mandate is to promote and organize orienteering and adventure races in the Lower St. Lawrence region."
   image: "images/Rikico.png"
 ############################# Service ############################
 service:
