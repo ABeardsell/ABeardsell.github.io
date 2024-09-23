@@ -19,7 +19,7 @@ hasChildren = true
   [[main]]
   parent = "2025 Events"
   name = "St-Lawrence AR"
-  url = "st_lawrence2025/"
+  url = "raid_stlaurent_2025/"
   weight = 1
 
 [[main]]
@@ -49,25 +49,25 @@ hasChildren = true
   parent = "Past events"
   name = "Two-day - 2023 "
   url = "jackalope_2023/"
-  weight = 1
+  weight = 4
 
   [[main]]
   parent = "Past events"
   name = "6h - 2023"
   url = "jackalope6h_2023/"
-  weight = 2
+  weight = 5
 
   [[main]]
   parent = "Past events"
   name = "4h - 2022"
   url = "jackalope_short/"
-  weight = 3
+  weight = 6
 
   [[main]]
   parent = "Past events"
   name = "12h - 2022"
   url = "jackalope_long/"
-  weight = 4
+  weight = 7
 
 [[main]]
 name = "Partners"
@@ -102,15 +102,6 @@ name = "St-Lawrence AR"
 url = "st_lawrence2025/"
 weight = 2
 
-#[[footer]]
-#name = "Service"
-#url = "service/"
-#weight = 4
-
-#[[footer]]
-#name = "Tarification"
-#url = "pricing/"
-#weight = 5
 
 [[footer]]
 name = "FAQ"

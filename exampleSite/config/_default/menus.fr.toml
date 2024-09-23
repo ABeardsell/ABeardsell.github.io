@@ -11,11 +11,6 @@ name = "À propos"
 url = "about/"
 weight = 2
 
-#[[main]]
-#name = "Événementsaa 2024"
-#url = "project/"
-#weight = 3
-
 [[main]]
 weight = 3
 name = "Événements 2025"
@@ -106,21 +101,6 @@ name = "St-Laurent (2 jours)"
 url = "raid_stlaurent_2025/"
 weight = 2
 
-
-#[[footer]]
-#name = "Défi Jackalope 6h"
-#url = "jackalope6h_2023/"
-#weight = 3
-
-#[[footer]]
-#name = "Service"
-#url = "service/"
-#weight = 4
-
-#[[footer]]
-#name = "Tarification"
-#url = "pricing/"
-#weight = 5
 
 [[footer]]
 name = "FAQ"

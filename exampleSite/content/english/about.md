@@ -10,7 +10,7 @@ about:
   enable: true
   title: "RIKICO"
   description: ""
-  content: "The RIKICO orienteering and adventure club is a non-profit organization with a mission to promote and organize orienteering and adventure races in the Lower St. Lawrence region.
+  content: "RIKICO is a non-profit organization with a mission to promote and organize orienteering and adventure races in the Lower St. Lawrence region.
 
  RIKICO was co-founded in 2021 by Olivier Legault, André Cyr and Andréanne Beardsell. Sébastien Sirois joined the organization in 2022. RIKICO aims to promote physical activity among both adults and young people through various outdoor sporting events. Our passion for this sport, coupled with our desire to help people discover our region's natural spaces, is at the heart of what motivates us.
  "
