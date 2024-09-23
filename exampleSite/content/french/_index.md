@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Découvrez nos événements"
-    link: "jackalope_2024"
+    link: "raid_stlaurent_2025"
 
 
 ############################# About #################################

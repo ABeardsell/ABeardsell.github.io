@@ -11,7 +11,7 @@ about:
   title : "Course d'aventure St-Laurent 2025"
   content : "
 
-La course d'aventure St-Laurent se déroulera sur 2 jours (par étapes) le 17 et 18 Mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cette course s'insère dans la série mondiale des courses d'aventure: https://www.arworldseries.com/races/jackalope-canada.
+La course d'aventure St-Laurent se déroulera sur 2 jours (par étapes) le 17 et 18 Mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cet événement s’insère dans le série mondiale des courses d’aventure (Adventure Racing World Series (ARWS): https://arworldseries.com/).
 
 ### Disciplines sportives
 
@@ -41,7 +41,7 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 Le nombre d'équipes sera limité à 50 équipes.
 
-Le coût par équipe est de 750$. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une section de kayak. Il est possible d'en louer lors de l'inscription.
+Le coût par équipe est de 775$ + taxes. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une ou des sections de kayak. Il est possible d'en louer lors de l'inscription.
 
 
 L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
@@ -49,7 +49,7 @@ L'âge minimum pour participer est de 16 ans en faisant équipe avec une personn
 
 ### Politique de remboursement
 
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2024. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2025. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
