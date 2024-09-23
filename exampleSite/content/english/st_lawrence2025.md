@@ -1,5 +1,5 @@
 ---
-title: "St-Laurent Adventure Race 2025"
+title: "St-Lawrence Adventure Race 2025"
 description: "Multisport Adventure Race"
 bg_image: "images/slider-bg2.png"
 layout: "service"

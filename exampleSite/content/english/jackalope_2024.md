@@ -72,7 +72,7 @@ We have created a WAITING LIST to give more teams the opportunity to join us: ht
 
 
 
-The cost per team is $750.This cost includes: transportation of your bins, bikes and kayak, kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Please note that a wetsuit (sleeveless accepted) is mandatory for a kayak section. Wetsuits can be rented upon registration.
+The cost per team is $750. This cost includes: transportation of your bins, bikes and kayak, kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Please note that a wetsuit (sleeveless accepted) is mandatory for a kayak section. Wetsuits can be rented upon registration.
 
 
 The minimum age for participation is 16 years, when teamed with an adult. This requires approval by race management. Contact us beforehand to discuss.
