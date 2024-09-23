@@ -125,7 +125,7 @@ weight = 2
 [[footer]]
 name = "FAQ"
 url = "faq/"
-weight = 6
+weight = 3
 
 [[footer]]
 name = "Contact"

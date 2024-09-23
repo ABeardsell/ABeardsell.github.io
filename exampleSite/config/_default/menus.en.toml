@@ -16,7 +16,11 @@ weight = 3
 name = "2025 Events"
 hasChildren = true
 
-
+  [[main]]
+  parent = "2025 Events"
+  name = "St-Lawrence AR"
+  url = "st_lawrence2025/"
+  weight = 1
 
 [[main]]
 weight = 3
@@ -92,16 +96,11 @@ name = "About"
 url = "about/"
 weight = 1
 
+
 [[footer]]
-name = "Jackalope Challenge"
-url = "jackalope_2023/"
+name = "St-Lawrence AR"
+url = "st_lawrence2025/"
 weight = 2
-
-
-[[footer]]
-name = "Jackalope Challenge 6h"
-url = "jackalope6h_2023/"
-weight = 3
 
 #[[footer]]
 #name = "Service"
@@ -116,7 +115,7 @@ weight = 3
 [[footer]]
 name = "FAQ"
 url = "faq/"
-weight = 6
+weight = 3
 
 [[footer]]
 name = "Contact"
