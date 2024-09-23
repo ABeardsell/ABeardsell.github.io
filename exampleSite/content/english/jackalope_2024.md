@@ -87,7 +87,7 @@ The minimum age for participation is 16 years, when teamed with an adult. This r
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image : "images/jackalope/jackalope_2024_2.png"
+  image : "images/jackalope/jackalope_2024.png"
 
   # mettre les partenaires sous le logo dans la même image!
 

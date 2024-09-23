@@ -28,7 +28,7 @@ hasChildren = true
   weight = 1
 
 [[main]]
-weight = 3
+weight = 4
 name = "Événements passés"
 hasChildren = true
 
@@ -77,22 +77,22 @@ hasChildren = true
 [[main]]
 name = "Partenaires"
 url = "partenaires/"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Récits de course"
 url = "blog/"
-weight = 5
+weight = 6
 
 [[main]]
 name = "FAQ"
 url = "faq/"
-weight = 6
+weight = 7
 
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 7
+weight = 8
 
 
 # footer menu
