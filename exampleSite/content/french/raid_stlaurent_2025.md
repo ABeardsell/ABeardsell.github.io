@@ -11,7 +11,7 @@ about:
   title : "Course d'aventure St-Laurent 2025"
   content : "
 
-La course d'aventure St-Laurent se déroulera sur 2 jours (par étapes) le 17 et 18 Mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cet événement s’insère dans le série mondiale des courses d’aventure (Adventure Racing World Series (ARWS): https://arworldseries.com/).
+La Course d'Aventure St-Laurent se déroulera sur 2 jours (par étapes) le 17 et 18 Mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cet événement s’insère dans le série mondiale des courses d’aventure (Adventure Racing World Series (ARWS): https://arworldseries.com/).
 
 ### Disciplines sportives
 
