@@ -11,7 +11,7 @@ about:
   title : "St-Lawrence Adventure Race 2025"
   content : "
 
-The St-Lawrence Adventure Race will take place over 2 days (in stages) on May 17 and 18, 2025, around Rimouski (QC). This event aims to offer teams a memorable adventure while showcasing the beauty and attractions of the Bas-Saint-Laurent region. The race is part of the Adventure Racing World Series (ARWS): https://arworldseries.com/.
+The St-Lawrence Adventure Race will take place over 2 days (in stages) on May 17 and 18, 2025, around Rimouski (QC). This event aims to offer teams a memorable adventure while showcasing the beauty and attractions of the Bas-Saint-Laurent region. The race is part of the Adventure Racing World Series (ARWS): https://www.arworldseries.com/races/st-lawrence-adventure-race-2025-canada.
 
 ### Disciplines
 
@@ -42,7 +42,7 @@ The organization will handle the transportation of bins, bikes, and kayaks if ne
 
 The number of teams is limited to 50.
 
-The cost per team is $775 + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections.Wetsuits can be rented upon registration.
+The cost per team is $750 + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections.Wetsuits can be rented upon registration.
 
 The minimum age to participate is 16, when teamed with an adult. This requires approval from the race director. Please contact us in advance to discuss.
 
