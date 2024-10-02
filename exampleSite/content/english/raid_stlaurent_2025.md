@@ -15,17 +15,17 @@ The St-Lawrence Adventure Race will take place over 2 days (in stages) on May 17
 
 ### Disciplines
 
-Mountain biking, running/trekking, and kayaking. Each of these requires map and compass navigation. The distances listed below are subject to slight variations from the final course. This is a demanding endurance event. While it's not exclusively for athletes, participants should have experience in all the disciplines covered by the race.
+**Mountain biking, running/trekking, and kayaking**. Each of these requires map and compass navigation. The distances listed below are subject to slight variations from the final course. This is a demanding endurance event. While it's not exclusively for athletes, participants should have experience in all the disciplines covered by the race.
 
 
 ### Course
 
-Teams will traverse approximately 150 km, on an unmarked course, orienting themselves with map and compass. The course is designed to challenge experienced teams, while offering new teams the opportunity to experience a longer race format. As such, several checkpoints will be optional so that each team can choose a level of difficulty to meet their objectives. We expect a minority of teams to collect all the checkpoints. The route will remain secret until the day before the race.
+Teams will traverse approximately **150 km**, on an unmarked course, orienting themselves with map and compass. The course is designed to challenge experienced teams, while offering new teams the opportunity to experience a longer race format. As such, several checkpoints will be optional so that each team can choose a level of difficulty to meet their objectives. We expect a minority of teams to collect all the checkpoints. The route will remain secret until the day before the race.
 
 
 ### Duration
 
-The race will last between 8 and 12 hours (per day) depending on your route choices, checkpoint selections, and speed. There will be time cutoffs at various stages of the course.
+The race will last between **8 and 12 hours (per day)** depending on your route choices, checkpoint selections, and speed. There will be time cutoffs at various stages of the course.
 
 
 ### Teams
@@ -35,14 +35,16 @@ Teams of 2 - men, women, or mixed.
 
 ### Logistics
 
-The organization will handle the transportation of bins, bikes, and kayaks if needed. Teams will have access to their bins at certain transitions between disciplines. The kayak is supplied with your registration and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
+The organization will handle the transportation of bins, bikes, and kayaks if needed. Teams will have access to their bins at certain transitions between disciplines. **The kayak is supplied with your registration** and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
 
 
 ### Registration
 
-The number of teams is limited to 50.
+**Registrations here starting October 14 at 8pm (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
+The number of teams will be limited to **50 teams**.
 
-The cost per team is $750 + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections.Wetsuits can be rented upon registration.
+
+The cost per team is $750 + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections. Wetsuits can be rented upon registration.
 
 The minimum age to participate is 16, when teamed with an adult. This requires approval from the race director. Please contact us in advance to discuss.
 

@@ -15,17 +15,17 @@ La Course d'Aventure St-Laurent se déroulera sur 2 jours (par étapes) le 17 et
 
 ### Disciplines sportives
 
-Vélo de montagne, course à pied/trekking et kayak. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Cette course est une épreuve d'endurance exigeante. Bien qu'elle n'est pas réservée aux athlètes, vous devez avoir une expérience dans toutes les disciplines touchées par la course.
+**Vélo de montagne, course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Cette course est une épreuve d'endurance exigeante. Bien qu'elle n'est pas réservée aux athlètes, vous devez avoir une expérience dans toutes les disciplines touchées par la course.
 
 
 ### Parcours
 
-Les équipes traverseront environ 150 km, sur un parcours non balisé, en s’orientant avec cartes et boussole. Le parcours est conçu pour mettre au défi les équipes expérimentées, tout en offrant aux nouvelles équipes l'occasion de vivre un format de course plus long. Ainsi, plusieurs points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Nous nous attendons à ce qu’une minorité des équipes récolte l’ensemble des points de contrôle. Le parcours demeurera secret jusqu’à la journée avant la course.
+Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Le parcours est conçu pour mettre au défi les équipes expérimentées, tout en offrant aux nouvelles équipes l'occasion de vivre un format de course plus long. Ainsi, des points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Nous nous attendons à ce qu’une minorité des équipes récolte l’ensemble des points de contrôle. Le parcours est secret jusqu’à la journée avant la course.
 
 
-### Durée
+### Durée de la course
 
-La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
+La durée variera entre **8 et 12 heures (par jour)** selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
 
 
 ### Équipes
@@ -34,12 +34,14 @@ La durée de la course variera entre 8 et 12 heures (par jour) selon vos choix d
 
 ### Logistique
 
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. Le kayak est fournit avec votre inscription et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
+L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. **Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
 
 
 ### Inscriptions
 
-Le nombre d'équipes sera limité à 50 équipes.
+**Inscriptions ici à partir du 14 octobre à 20h (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
+Le nombre d'équipes sera limité à **50 équipes**.
+
 
 Le coût par équipe est de 750$ + taxes. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une ou des sections de kayak. Il est possible d'en louer lors de l'inscription.
 
