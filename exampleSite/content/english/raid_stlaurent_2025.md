@@ -1,4 +1,4 @@
----
+
 title: "St-Lawrence Adventure Race 2025"
 description: "Multisport Adventure Race"
 bg_image: "images/slider-bg2.png"
@@ -44,7 +44,7 @@ The organization will handle the transportation of bins, bikes, and kayaks if ne
 The number of teams will be limited to **50 teams**.
 
 
-The cost per team is $750 + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections. Wetsuits can be rented upon registration.
+The cost per team is 750$ + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections. Wetsuits can be rented upon registration.
 
 The minimum age to participate is 16, when teamed with an adult. This requires approval from the race director. Please contact us in advance to discuss.
 

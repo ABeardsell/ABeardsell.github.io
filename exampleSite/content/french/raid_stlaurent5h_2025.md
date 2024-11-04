@@ -1,4 +1,4 @@
----
+
 title: "COURSE d'AVENTURE ST-LAURENT 5h 2025"
 description: "Course d’aventure multisports"
 bg_image: "images/slider-bg2.png"

@@ -1,95 +1,84 @@
----
-title: "COURSE d'AVENTURE ST-LAURENT 5h 2025"
-description: "Course d’aventure multisports"
+title: "ST-LAWRENCE ADVENTURE RACE 5h 2025"
+description: "Multisport adventure race"
 bg_image: "images/slider-bg2.png"
 layout: "service"
 draft: false
 
 ########################### about service #############################
 about:
-  enable : true
-  title : "St-Laurent 5h"
-  content : "
+  enable: true
+  title: "St-Lawrence 5h"
+  content: "
 
-La course d'aventure St-Laurent est une course multisports qui se déroulera le 18 mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
+The St-Lawrence adventure race is a multisport event that will take place on May 18, 2025, in the Rimouski area (QC). This event aims to provide teams with a memorable sporting and human adventure while allowing them to discover the beauty and attractions of Bas-Saint-Laurent.
 
-### Disciplines sportives
+### Disciplines
 
-**Course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Vous devez avoir de l'expérience dans toutes les disciplines touchées par la course.
+**Running/trekking and kayaking.** Each requires navigation with a map and compass. The distances indicated below may vary slightly from the final course. You must have experience in all the disciplines involved in the race.
 
+### Course
 
-### Parcours
+Teams will cover approximately **20 km** on an unmarked course, orienting themselves with maps and a compass. This event is aimed at those looking to discover the sport or athletes seeking a shorter duration challenge. Therefore, several checkpoints will be optional so that each team can choose a level of difficulty that matches their goals. The course will remain secret until the day before the race.
 
-Les équipes traverseront environ **20 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Cette épreuve s'adresse aux personnes qui souhaitent découvrir le sport ou aux athlètes désirant un défi d'une durée plus courte. Ainsi, plusieurs points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Le parcours demeurera secret jusqu’à la journée avant la course.
+### Duration
 
+The race duration will vary between 4-5 hours depending on your route choices, checkpoint selections, and speed. There will be time limits at different stages of the course.
 
-### Durée
+### Teams
 
-La durée de la course variera entre 4-5 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
+Teams of 2 - male, female, or mixed.
 
+### Logistics
 
-### Équipes
+The organization will handle the transportation of bins and kayaks if required. There will be no aid stations on the course, but teams will have access to one or more bins during certain transitions between legs.
 
-Équipe de 2 - hommes, femmes, ou mixte.
+### Preliminary General Schedule
 
-### Logistique
+**Sunday morning**: Registration in the Rimouski area.
 
-L’organisation s’occupe de transporter les bacs et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à un ou des bacs lors de certaines transitions entre les épreuves.
+**Sunday afternoon**: Midday start. The awards ceremony will take place in the early evening.
 
-### Horaire général préliminaire
+### Equipment List
 
-**Dimanche avant midi**: Enregistrement dans les environs de Rimouski.
+Complete list to come. Note that **the kayak is provided with your registration** and the model will be the following: https://www.rtmkayaks.com/optimo-evo-confort/
 
+### Registrations
 
-**Dimanche après-midi**: Départ en mi-journée. La remise des prix aura lieu en début de soirée.
+**Registrations open on November 14**
+**The number of teams will be limited to 24, and registrations close on April 1, 2025.**
 
+The cost per team is 220$ (+ taxes). This cost includes: transportation of your bins and kayak (if required), kayak rental, course and map design, and post-race meal.
 
-### Liste de matériel
+The minimum age to participate is 14 years when teamed with an adult. This requires approval from the race management. Please contact us in advance to discuss.
 
-Liste complète à venir.  Notez que **le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
-
-
-### Inscriptions
-
-**Les inscriptions ouvrent le 14 novembre**
-**Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
-
-
-Le coût par équipe est de 220$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
-
-
-L'âge minimum pour participer est de 14 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
-
-
-**Politique de remboursement**:Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2025. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
-
+**Refund Policy**: Refunds will be issued according to the following scale: 85% until February 1, 2025, 50% between February 2 and April 1, 2025, 25% between April 2 and May 1, 2025. No refunds after May 2, 2025. Until May 2, teams have the option to transfer their registration after notifying the organizing committee.
 
 "
-#permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
-#- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
-#[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
+#thus allowing for a similar duration event for all teams.
+#- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
+#[label-here](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image : "images/jackalope/st_laurent_58.png"
+  image: "images/jackalope/st_laurent_58.png"
 
-  # mettre les partenaires sous le logo dans la même image!
+  # place partners below the logo in the same image!
 
 ########################## featured service ############################
 
 featured_service:
-  enable : true
+  enable: true
   service_item:
     # featured service item loop
-    - name : "Course/Trekking"
-      icon : "fas fa-running"
-      color : "primary"
-      content : "6-12 km en plusieurs sections - sentiers et hors sentiers, traverse possible de cours d'eau et de marais.
+    - name: "Running/Trekking"
+      icon: "fas fa-running"
+      color: "primary"
+      content: "6-12 km in several sections - trails and off-trail, possible crossing of waterways and marshes.
 "
 
     # featured service item loop
-    - name : "Kayak"
-      icon : "fas fa-water"
-      color : "primary-darker"
-      content : "6-10 km - lac. Le kayak est fournit avec l'inscription.
+    - name: "Kayak"
+      icon: "fas fa-water"
+      color: "primary-darker"
+      content: "6-10 km - lake. The kayak is provided with the registration.
 "
 
 ############################# Service ###############################
@@ -97,6 +86,5 @@ featured_service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable: false
   # call to action content comes from "_index.md"
----

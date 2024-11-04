@@ -1,110 +1,98 @@
+
 ---
-title: "COURSE d'AVENTURE ST-LAURENT 8h 2025"
-description: "Course d’aventure multisports"
+title: "ST-LAWRENCE ADVENTURE RACE 8h 2025"
+description: "Multisport adventure race"
 bg_image: "images/slider-bg2.png"
 layout: "service"
 draft: false
 
 ########################### about service #############################
 about:
-  enable : true
-  title : "St-Laurent 8h"
-  content : "
+  enable: true
+  title: "St-Lawrence 8h"
+  content: "
 
-La course d'aventure St-Laurent  est une course multisports qui se déroulera le 18 mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
+The St-Lawrence adventure race is a multisport event that will take place on May 18, 2025, in the Rimouski area (QC). This event aims to provide a memorable sporting and human adventure for teams while showcasing the beauty and attractions of Bas-Saint-Laurent.
 
-### Disciplines sportives
+### Disciplines
 
-**Vélo de montagne, course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Vous devez avoir de l'expérience dans toutes les disciplines touchées par la course.
+**Mountain biking, running/trekking, and kayaking**. Each discipline requires navigation using a map and compass. The distances indicated below are subject to slight variations from the final course. You must have experience in all disciplines involved in the race.
 
+### Course
 
-### Parcours
+Teams will traverse approximately **70 km** on an unmarked course, orienting themselves with maps and a compass. This event is aimed at those who wish to discover the sport or athletes looking for a shorter challenge. Thus, several checkpoints will be optional, allowing each team to choose a level of difficulty that suits their goals. The course will remain secret until the day before the race.
 
-Les équipes traverseront jusqu'à environ **70 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Cette épreuve s'adresse aux personnes qui souhaitent découvrir le sport ou aux athlètes désirant un défi d'une durée plus courte. Ainsi, plusieurs points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Le parcours demeurera secret jusqu’à la journée avant la course.
+### Duration
 
+The duration of the race will vary between 7-9 hours depending on your route choices, checkpoint selections, and speed. There will be time limits at different stages of the course.
 
-### Durée
+### Teams
 
-La durée de la course variera entre 7-9 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
+Teams of 2 - male, female, or mixed.
 
+### Logistics
 
-### Équipes
+The organization will handle the transportation of bins, bikes, and kayaks if needed. There will be no refreshments along the course, but teams will have access to bins at certain transitions between legs.
 
-Équipe de 2 - hommes, femmes, ou mixte.
+### Preliminary General Schedule
 
-### Logistique
+**Sunday before noon**: Registration and race start (in the Rimouski area).
 
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves.
+**Sunday afternoon**: Course closure by the end of the day. The awards ceremony will take place in the early evening.
 
+### Equipment List
 
-### Horaire général préliminaire
+**Complete list to come.**
 
-**Dimanche avant midi**: Enregistrement et départ de la course (dans les environs de Rimouski).
+Note that a **mountain bike** is required. Tires must be at least 2 inches wide. Bikes with tires less than 3 inches wide must have a suspension with a minimum travel of 100mm. No hybrid, cyclocross, gravel, or electric bikes will be allowed on the course.
 
+**The kayak is provided with your registration**, and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
 
-**Dimanche après-midi**: Fermeture du parcours en fin de journée. La remise des prix aura lieu en début de soirée.
+### Registrations
 
+**Registrations open on November 14**
+**The number of teams will be limited to 24, and registrations close on April 1, 2025.**
 
-### Liste de matériel
+The cost per team is 375$ (+ taxes). This cost includes, among other things: the transport of your bins, bikes, and kayak (if required), kayak rental, course design and maps, and post-race meal.
 
-**Liste complète à venir.**
+The minimum age to participate is 16 years, accompanied by an adult. This requires approval from the race management. Please contact us in advance to discuss.
 
-
-Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum de 2 po de largeur. Les vélos munis de pneus inférieurs à 3 po de largeur devront être munis d’une suspension d’un minimum de 100mm de débattement. Aucun vélo hybride, de cyclocross, gravel ou électrique ne sera permis sur le parcours.
-
-
-**Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
-
-
-### Inscriptions
-
-
-**Les inscriptions ouvrent le 14 novembre**
-**Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
-
-
-Le coût par équipe est de 375$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
-
-
-L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
-
-
-**Politique de remboursement**:Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2025. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+**Refund Policy**: Refunds will be issued according to the following scale: 85% until February 1, 2025, 50% between February 2 and April 1, 2025, 25% between April 2 and May 1, 2025. No refunds after May 2, 2025. Until May 2, teams have the option to transfer their registration after informing the organizing committee.
 
 "
-#permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
-#- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
-#[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
+# thereby allowing for a similar duration event for all teams.
+#- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
+#[label-here](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-#**Politique de remboursement**: 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2024. Entre le 2 février et le 1 avril 2024, 50 % des frais d’inscription seront remboursés. Entre le 2 avril et le 1 mai 2024, 25% des frais d’inscription seront remboursés. Entre le 2 mai 2024 et le jour de la course, aucun remboursement sera émis. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas, des frais de transaction seront à la charge des équipes.
-  image : "images/jackalope/st_laurent_58.png"
+#**Refund Policy**: 85% of the registration fees will be refunded until February 1, 2024. Between February 2 and April 1, 2024, 50% of the registration fees will be refunded. Between April 2 and May 1, 2024, 25% of the registration fees will be refunded. Between May 2, 2024, and the race day, no refunds will be issued. Until May 2, teams have the option to transfer their registration after informing the organizing committee. In all cases, transaction fees will be borne by the teams.
+  image: "images/jackalope/st_laurent_58.png"
 
-  # mettre les partenaires sous le logo dans la même image!
+  # place the partners below the logo in the same image!
 
 ########################## featured service ############################
 
 featured_service:
-  enable : true
+  enable: true
   service_item:
     # featured service item loop
-    - name : "Course/Trekking"
-      icon : "fas fa-running"
-      color : "primary"
-      content : "6-14 km en plusieurs sections - sentiers et hors sentiers, traverse possible de cours d'eau et de marais.
+    - name: "Running/Trekking"
+      icon: "fas fa-running"
+      color: "primary"
+      content: "6-14 km in several sections - trails and off-trail, possible crossing of streams and swamps.
 "
 
     # featured service item loop
-    - name : "Vélo de montagne"
-      icon : "fas fa-biking"
-      color : "primary-dark"
-      content : "34-45 km - Un vélo de montagne est requis. Asphalte - Chemins de terre – Single track - Chemins forestiers – Sentiers de VTT.
+    - name: "Mountain Biking"
+      icon: "fas fa-biking"
+      color: "primary-dark"
+      content: "34-45 km - A mountain bike is required. Asphalt - Dirt roads - Single track - Forest roads - MTB trails.
 "
 
     # featured service item loop
-    - name : "Kayak"
-      icon : "fas fa-water"
-      color : "primary-darker"
-      content : "6-10 km - lac. Le kayak est fournit avec l'inscription.
+    - name: "Kayaking"
+      icon: "fas fa-water"
+      color: "primary-darker"
+      content: "6-10 km - lake. The kayak is provided with registration.
 "
 
 ############################# Service ###############################
@@ -112,6 +100,6 @@ featured_service:
 
 ############################# call to action #################################
 cta:
-  enable : false
+  enable: false
   # call to action content comes from "_index.md"
 ---
