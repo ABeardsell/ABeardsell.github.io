@@ -22,6 +22,20 @@ hasChildren = true
   url = "raid_stlaurent_2025/"
   weight = 1
 
+  [[main]]
+  parent = "Événements 2025"
+  name = "St-Laurent (5h)"
+  url = "raid_stlaurent5h_2025/"
+  weight = 2
+
+  [[main]]
+  parent = "Événements 2025"
+  name = "St-Laurent (8h)"
+  url = "raid_stlaurent8h_2025/"
+  weight = 3
+
+
+
 [[main]]
 weight = 4
 name = "Événements passés"
@@ -103,11 +117,22 @@ weight = 2
 
 
 [[footer]]
+name = "St-Laurent (5h)"
+url = "raid_stlaurent5h_2025/"
+weight = 3
+
+[[footer]]
+name = "St-Laurent (8h)"
+url = "raid_stlaurent8h_2025/"
+weight = 4
+
+
+[[footer]]
 name = "FAQ"
 url = "faq/"
-weight = 3
+weight = 5
 
 [[footer]]
 name = "Contact"
 url = "contact/"
-weight = 4
+weight = 6

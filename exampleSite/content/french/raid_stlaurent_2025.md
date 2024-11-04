@@ -40,7 +40,7 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 ### Inscriptions
 
 **Inscriptions ici à partir du 14 octobre à 20h (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
-Le nombre d'équipes sera limité à **50 équipes**.
+Le nombre d'équipes sera limité à **60 équipes**.
 
 
 Le coût par équipe est de 750$ + taxes. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une ou des sections de kayak. Il est possible d'en louer lors de l'inscription.
