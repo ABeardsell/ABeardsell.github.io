@@ -44,7 +44,7 @@ Complete list to come. Note that **the kayak is provided with your registration*
 
 ### Registrations
 
-**Registrations open on November 14**
+**Registrations open on November 14.**
 **The number of teams will be limited to 24, and registrations close on April 1, 2025.**
 
 The cost per team is 220$ (+ taxes). This cost includes: transportation of your bins and kayak (if required), kayak rental, course and map design, and post-race meal.

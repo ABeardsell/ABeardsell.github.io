@@ -50,7 +50,7 @@ Note that a **mountain bike** is required. Tires must be at least 2 inches wide.
 
 ### Registrations
 
-**Registrations open on November 14**
+**Registrations open on November 14.**
 **The number of teams will be limited to 24, and registrations close on April 1, 2025.**
 
 The cost per team is 375$ (+ taxes). This cost includes, among other things: the transport of your bins, bikes, and kayak (if required), kayak rental, course design and maps, and post-race meal.

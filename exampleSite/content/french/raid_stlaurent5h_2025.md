@@ -51,7 +51,7 @@ Liste complète à venir.  Notez que **le kayak est fournit avec votre inscripti
 
 ### Inscriptions
 
-**Les inscriptions ouvrent le 14 novembre**
+**Les inscriptions ouvrent le 14 novembre.**
 **Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
 
 

@@ -38,7 +38,7 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 ### Horaire général préliminaire
 
-**Dimanche avant midi**: Enregistrement et départ de la course (dans les environs de Rimouski).
+**Dimanche matin**: Enregistrement et départ de la course (dans les environs de Rimouski).
 
 
 **Dimanche après-midi**: Fermeture du parcours en fin de journée. La remise des prix aura lieu en début de soirée.
@@ -58,7 +58,7 @@ Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum
 ### Inscriptions
 
 
-**Les inscriptions ouvrent le 14 novembre**
+**Les inscriptions ouvrent le 14 novembre.**
 **Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
 
 
