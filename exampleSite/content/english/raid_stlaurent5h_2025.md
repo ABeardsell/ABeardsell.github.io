@@ -1,3 +1,4 @@
+---
 title: "ST-LAWRENCE ADVENTURE RACE 5h 2025"
 description: "Multisport adventure race"
 bg_image: "images/slider-bg2.png"

@@ -1,4 +1,3 @@
-
 ---
 title: "ST-LAWRENCE ADVENTURE RACE 8h 2025"
 description: "Multisport adventure race"
