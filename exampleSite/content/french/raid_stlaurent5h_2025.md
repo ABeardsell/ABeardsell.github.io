@@ -34,7 +34,7 @@ La durée de la course variera entre 4-5 heures selon vos choix de routes, vos c
 
 ### Logistique
 
-L’organisation s’occupe de transporter les bacs et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à un ou des bacs lors de certaines transitions entre les épreuves. Le kayak est fournit avec votre inscription et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
+L’organisation s’occupe de transporter les bacs et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à un ou des bacs lors de certaines transitions entre les épreuves.
 
 ### Horaire général préliminaire
 
@@ -46,7 +46,7 @@ L’organisation s’occupe de transporter les bacs et les kayaks si requis. Il 
 
 ### Liste de matériel
 
-À venir. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une ou des sections de kayak. Il est possible d'en louer lors de l'inscription.
+Liste complète à venir.  Notez que **le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
 
 
 ### Inscriptions
@@ -89,7 +89,7 @@ featured_service:
     - name : "Kayak"
       icon : "fas fa-water"
       color : "primary-darker"
-      content : "6-10 km - lac.
+      content : "6-10 km - lac. Le kayak est fournit avec l'inscription.
 "
 
 ############################# Service ###############################

@@ -34,7 +34,7 @@ La durée de la course variera entre 7-9 heures selon vos choix de routes, vos c
 
 ### Logistique
 
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. Le kayak est fournit avec votre inscription et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
+L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves.
 
 
 ### Horaire général préliminaire
@@ -47,9 +47,13 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 ### Liste de matériel
 
-Liste complète à venir.
+**Liste complète à venir.**
+
 
 Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum de 2 po de largeur. Les vélos munis de pneus inférieurs à 3 po de largeur devront être munis d’une suspension d’un minimum de 100mm de débattement. Aucun vélo hybride, de cyclocross, gravel ou électrique ne sera permis sur le parcours.
+
+
+**Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
 
 
 ### Inscriptions
