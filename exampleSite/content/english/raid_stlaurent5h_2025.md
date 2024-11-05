@@ -11,7 +11,7 @@ about:
   title: "St-Lawrence 5h"
   content: "
 
-The St-Lawrence adventure race is a multisport event that will take place on May 18, 2025, in the Rimouski area (QC). This event aims to provide teams with a memorable sporting and human adventure while allowing them to discover the beauty and attractions of Bas-Saint-Laurent.
+The St-Lawrence Adventure Race is a multisport event that will take place on May 18, 2025, in the Rimouski area (QC). This event aims to provide teams with a memorable sporting and human adventure while allowing them to discover the beauty and attractions of Bas-Saint-Laurent.
 
 ### Disciplines
 
@@ -31,7 +31,7 @@ Teams of 2 - male, female, or mixed.
 
 ### Logistics
 
-The organization will handle the transportation of bins and kayaks if required. There will be no aid stations on the course, but teams will have access to one or more bins during certain transitions between legs.
+The organization will handle the transportation of bins and kayaks if required. Teams will have access to their bins at certain transitions between disciplines.
 
 ### Preliminary General Schedule
 
@@ -59,7 +59,7 @@ The minimum age to participate is 14 years when teamed with an adult. This requi
 #- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-here](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image: "images/jackalope/st_laurent_58.png"
+  image: "images/jackalope/st_laurent_5.png"
 
   # place partners below the logo in the same image!
 

@@ -51,7 +51,7 @@ Liste complète à venir.  Notez que **le kayak est fournit avec votre inscripti
 
 ### Inscriptions
 
-**Les inscriptions ouvrent le 14 novembre.**
+**Les inscriptions ouvrent le 14 novembre à 20h (EDT).**
 **Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
 
 
@@ -69,7 +69,7 @@ L'âge minimum pour participer est de 14 ans en faisant équipe avec une personn
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image : "images/jackalope/st_laurent_58.png"
+  image : "images/jackalope/st_laurent_5.png"
 
   # mettre les partenaires sous le logo dans la même image!
 

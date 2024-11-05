@@ -12,11 +12,11 @@ about:
   title: "St-Lawrence 8h"
   content: "
 
-The St-Lawrence adventure race is a multisport event that will take place on May 18, 2025, in the Rimouski area (QC). This event aims to provide a memorable sporting and human adventure for teams while showcasing the beauty and attractions of Bas-Saint-Laurent.
+The St-Lawrence Adventure Race is a multisport event that will take place on May 18, 2025, in the Rimouski area (QC). This event aims to provide a memorable sporting and human adventure for teams while showcasing the beauty and attractions of Bas-Saint-Laurent.
 
 ### Disciplines
 
-**Mountain biking, running/trekking, and kayaking**. Each discipline requires navigation using a map and compass. The distances indicated below are subject to slight variations from the final course. You must have experience in all disciplines involved in the race.
+**Mountain biking, running/trekking, and kayaking**. Each of these requires map and compass navigation. The distances listed below are subject to slight variations from the final course. You must have experience in all disciplines involved in the race.
 
 ### Course
 
@@ -32,7 +32,7 @@ Teams of 2 - male, female, or mixed.
 
 ### Logistics
 
-The organization will handle the transportation of bins, bikes, and kayaks if needed. There will be no refreshments along the course, but teams will have access to bins at certain transitions between legs.
+The organization will handle the transportation of bins, bikes, and kayaks if needed. Teams will have access to their bins at certain transitions between disciplines.
 
 ### Preliminary General Schedule
 

@@ -59,7 +59,7 @@ Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum
 ### Inscriptions
 
 
-**Les inscriptions ouvrent le 14 novembre.**
+**Les inscriptions ouvrent le 14 novembre à 20h (EDT).**
 **Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
 
 
