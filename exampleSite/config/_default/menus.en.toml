@@ -18,7 +18,7 @@ hasChildren = true
 
   [[main]]
   parent = "2025 Events"
-  name = "St-Lawrence 2-days"
+  name = "St-Lawrence 2-day"
   url = "raid_stlaurent_2025/"
   weight = 1
 
