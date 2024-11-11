@@ -51,7 +51,11 @@ The minimum age to participate is 16, when teamed with an adult. This requires a
 
 ### Refund Policy
 
-Refunds will be issued on the following scale: 85% until February 1, 2025, 50% between February 2 and April 1, 2025, 25% between April 2 and May 1, 2025. No refunds after May 2, 2025. Until May 2, teams have the option to transfer their registration after informing the organizing committee.
+Refunds will be issued on the following scale: 85% until February 1, 2025, 50% between February 2 and April 1, 2025, 25% between April 2 and May 1, 2025. No refunds after May 2, 2025. Until May 2, teams have the option to transfer their registration after informing the organizing committee.  
+
+### Camping and Accommodation
+
+We recommend staying at Camping Rimouski (https://campingrimouski.com/) on Friday and Saturday night, as it will be a relatively central location for registration and other activities. Don't wait too long to book if you're looking for a specific type of accommodation. Options include camping (with or without services and RV spots), motel, and ready-to-camp units. Book directly with the campground and mention your participation in the race to receive a 15% discount.
 "
 
 # Material list is available here: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing

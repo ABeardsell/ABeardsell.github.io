@@ -63,7 +63,6 @@ L'âge minimum pour participer est de 14 ans en faisant équipe avec une personn
 
 **Politique de remboursement**:Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2025. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
 
-
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!

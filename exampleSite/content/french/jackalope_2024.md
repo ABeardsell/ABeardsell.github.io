@@ -68,12 +68,7 @@ Le coût par équipe est de 750$. Ce coût inclut notamment: le transport de vos
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
- ### Camping et hébergement
 
-# Camping Rimouski: https://campingrimouski.com/
-
-
- #On vous **suggère fortement de séjourner au camping Rimouski** le vendredi et le samedi soir. L'enregistrement et la manipulation des bacs de transition et des vélos se fera sur place. Ne tardez pas à réserver si vous désirez un type d'hébergement particulier. #Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance au défi Jackalope pour bénéficier d'un rabais.
   image : "images/jackalope/jackalope_2024.png"
 
   # mettre les partenaires sous le logo dans la même image!

@@ -64,7 +64,6 @@ The minimum age to participate is 16 years, accompanied by an adult. This requir
 #- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-here](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-#**Refund Policy**: 85% of the registration fees will be refunded until February 1, 2024. Between February 2 and April 1, 2024, 50% of the registration fees will be refunded. Between April 2 and May 1, 2024, 25% of the registration fees will be refunded. Between May 2, 2024, and the race day, no refunds will be issued. Until May 2, teams have the option to transfer their registration after informing the organizing committee. In all cases, transaction fees will be borne by the teams.
   image: "images/jackalope/st_laurent_58.png"
 
   # place the partners below the logo in the same image!

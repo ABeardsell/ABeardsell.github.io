@@ -36,6 +36,13 @@ La durée variera entre **8 et 12 heures (par jour)** selon vos choix de routes,
 
 L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. **Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
 
+### Camping et hébergement
+
+# Camping Rimouski: https://campingrimouski.com/
+
+
+Nous vous recommandons de séjourner au Camping Rimouski (https://campingrimouski.com/) le vendredi et le samedi soir, car il s'agira d'un lieu relativement central pour l'enregistrement et autres. Ne tardez pas à réserver si vous désirez un type d'hébergement particulier. Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance à la course pour bénéficier d'un rabais de 15%.
+
 
 ### Inscriptions
 

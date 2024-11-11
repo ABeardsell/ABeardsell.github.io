@@ -54,6 +54,7 @@ The minimum age to participate is 14 years when teamed with an adult. This requi
 
 **Refund Policy**: Refunds will be issued according to the following scale: 85% until February 1, 2025, 50% between February 2 and April 1, 2025, 25% between April 2 and May 1, 2025. No refunds after May 2, 2025. Until May 2, teams have the option to transfer their registration after notifying the organizing committee.
 
+
 "
 #thus allowing for a similar duration event for all teams.
 #- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
