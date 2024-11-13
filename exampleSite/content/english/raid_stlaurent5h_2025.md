@@ -45,7 +45,7 @@ Complete list to come. Note that **the kayak is provided with your registration*
 
 ### Registrations
 
-**Registrations open on November 14.**
+**Registrations open on November 14.** https://www.zeffy.com/fr-CA/ticketing/66900e16-a9d1-4030-a53d-73d4f3f32b21
 **The number of teams will be limited to 24, and registrations close on April 1, 2025.**
 
 The cost per team is 220$ (+ taxes). This cost includes: transportation of your bins and kayak (if required), kayak rental, course and map design, and post-race meal.

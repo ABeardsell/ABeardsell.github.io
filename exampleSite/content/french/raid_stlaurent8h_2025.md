@@ -59,7 +59,7 @@ Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum
 ### Inscriptions
 
 
-**Les inscriptions ouvrent le 14 novembre à 20h (EDT).**
+**Les inscriptions ouvrent le 14 novembre à 20h (EDT).** https://www.zeffy.com/fr-CA/ticketing/be28ffdf-9dcf-47b9-826f-1aa6275483e6
 **Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
 
 

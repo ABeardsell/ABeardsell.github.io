@@ -38,10 +38,7 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 ### Camping et hébergement
 
-# Camping Rimouski: https://campingrimouski.com/
-
-
-Nous vous recommandons de séjourner au Camping Rimouski (https://campingrimouski.com/) le vendredi et le samedi soir, car il s'agira d'un lieu relativement central pour l'enregistrement et autres. Ne tardez pas à réserver si vous désirez un type d'hébergement particulier. Possibilité de camping (avec ou sans services et emplacements pour VR), motel et prêts-à-camper. Réservez directement avec le camping et mentionnez votre appartenance à la course pour bénéficier d'un rabais de 15%.
+Si vous désirez camper, nous recommandons le Camping Rimouski (https://campingrimouski.com/), car il s'agit du camping le plus près et que vous pourrez bénéficier d'un rabais. Il y a des sites sans ou avec services ainsi que des chambres disponibles. Veuillez téléphoner le plus tôt possible afin de réserver votre hébergement et mentionner votre appartenance à la course St-Laurent afin de profiter d'un rabais de 15% (téléphonez au 418 721-0322).
 
 
 ### Inscriptions

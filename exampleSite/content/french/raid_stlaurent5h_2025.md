@@ -51,7 +51,7 @@ Liste complète à venir.  Notez que **le kayak est fournit avec votre inscripti
 
 ### Inscriptions
 
-**Les inscriptions ouvrent le 14 novembre à 20h (EDT).**
+**Les inscriptions ouvrent le 14 novembre à 20h (EDT).** https://www.zeffy.com/fr-CA/ticketing/66900e16-a9d1-4030-a53d-73d4f3f32b21
 **Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
 
 
