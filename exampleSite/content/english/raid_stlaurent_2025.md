@@ -41,7 +41,10 @@ The organization will handle the transportation of bins, bikes, and kayaks if ne
 ### Registration
 
 **Registrations here starting October 14 at 8pm (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
-The number of teams will be limited to **50 teams**.
+The number of teams will be limited to **60 teams**.
+
+We are fully booked!
+📝 We’ve created a WAITING LIST to give more teams the chance to join us: https://forms.gle/c6fTqZLfAWHDt4aw9
 
 
 The cost per team is 750$ + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections. Wetsuits can be rented upon registration.
