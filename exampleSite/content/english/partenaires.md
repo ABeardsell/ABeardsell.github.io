@@ -1,6 +1,6 @@
 ---
 title: "Partners"
-description: "Partners of the Jackalope 2024"
+description: "Partners of the St-Lawrence Adventure Race 2025"
 bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
@@ -9,49 +9,24 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/partenaires2024.png"
+  image : "images/partenaires2025.png"
   title : ""
   content : "
 
 **Thank you to our generous partners for supporting us in this adventure:**
 
 
+### Main Partner:
 
-  ### Main Partner:
+- Ville de Rimouski: https://rimouski.ca/
 
-  - Airmedic: https://www.airmedic.net/accueil
+### Collaborator:
 
-  - Camping Hiking Adventures: https://www.campinghikingadventures.com
+- Camping Rimouski: https://campingrimouski.com/
 
-  - Desjardins: https://www.desjardins.com/qc/fr.html
+- Rabot D. Bois: https://www.rabotdbois.com/
 
-  - MRS Packraft: https://www.mrsraft.com
-
-
-  - Pit Caribou: https://pitcaribou.com/
-
-  - Ville de Rimouski: https://rimouski.ca/
-
-
-  - Sport Expert: https://www.sportsexperts.ca/fr-CA/
-
-
-  ### Collaborator:
-
-  - Buro Pro Citation: https://www.buroprocitation.ca/
-
-  - Kanpas: https://www.kanpas.com/
-
-  - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
-
-  - Näak: https://www.naak.com
-
-  - Rabot D. Bois: https://www.rabotdbois.com/
-
-  - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
-
-
-  - Tourisme Rimouski: https://tourismerimouski.com/
+- Squirt Cycling Product: https://www.squirtcyclingproducts.com/
 
   "
 

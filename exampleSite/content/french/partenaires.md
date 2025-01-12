@@ -1,15 +1,26 @@
 ---
 title: "Nos partenaires"
-description: "Partenaires du défi Jackalope 2024"
+description: "Partenaires de la Course d'Aventure St-Laurent 2025"
 bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
 
 
 ################################## About #####################################
+###- Desjardins: https://www.desjardins.com/qc/fr.html
+#- MRS Packraft: https://www.mrsraft.com
+#- Pit Caribou: https://pitcaribou.com/
+#  - Sport Expert: https://www.sportsexperts.ca/fr-CA/
+#   - Camping Hiking Adventures: https://www.campinghikingadventures.com
+#- Buro Pro Citation: https://www.buroprocitation.ca/
+#  - Kanpas: https://www.kanpas.com/
+#- Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
+#  - Näak: https://www.naak.com
+#  - Tourisme Rimouski: https://tourismerimouski.com/
+
 about:
   enable : true
-  image : "images/partenaires2024.png"
+  image : "images/partenaires2025.png"
   title : ""
   content : "
 
@@ -17,41 +28,17 @@ about:
 
   ### Partenaires majeurs:
 
-
-  - Airmedic: https://www.airmedic.net/accueil
-
-  - Camping Hiking Adventures: https://www.campinghikingadventures.com
-
-  - Desjardins: https://www.desjardins.com/qc/fr.html
-
-  - MRS Packraft: https://www.mrsraft.com
-
-  
-  - Pit Caribou: https://pitcaribou.com/
-
-
   - Ville de Rimouski: https://rimouski.ca/
-
-
-  - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
 
   ### Partenaires collaborateurs:
 
-  - Buro Pro Citation: https://www.buroprocitation.ca/
 
-  - Kanpas: https://www.kanpas.com/
-
-  - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
-
-  - Näak: https://www.naak.com
+  - Camping Rimouski: https://campingrimouski.com/
 
   - Rabot D. Bois: https://www.rabotdbois.com/
 
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
-
-
-  - Tourisme Rimouski: https://tourismerimouski.com/
 
   "
 
