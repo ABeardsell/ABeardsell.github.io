@@ -28,7 +28,11 @@ about:
 
   ### Partenaires majeurs:
 
+
+  - Pit Caribou: https://pitcaribou.com/  
+  
   - Ville de Rimouski: https://rimouski.ca/
+
 
 
   ### Partenaires collaborateurs:

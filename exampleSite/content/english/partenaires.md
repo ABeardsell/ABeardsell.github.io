@@ -18,6 +18,8 @@ about:
 
 ### Main Partner:
 
+- Pit Caribou: https://pitcaribou.com/
+
 - Ville de Rimouski: https://rimouski.ca/
 
 ### Collaborator:
