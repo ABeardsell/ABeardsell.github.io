@@ -46,7 +46,8 @@ L’organisation s’occupe de transporter les bacs et les kayaks si requis. Il 
 
 ### Liste de matériel
 
-📝 Liste disponible ici: https://drive.google.com/file/d/1IYSf7ElTI4rlnFxb_m1ockkVCJ4R2nqo/view?usp=drive_link.
+📝 **Liste disponible ici**: https://drive.google.com/file/d/1IYSf7ElTI4rlnFxb_m1ockkVCJ4R2nqo/view?usp=drive_link.
+
 
 Notez que **le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
 

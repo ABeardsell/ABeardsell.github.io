@@ -47,7 +47,7 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 ### Liste de matériel
 
-**Liste complète à venir.**
+📝 **Liste disponible ici**: https://drive.google.com/file/d/1grvp8Ad7ooRwB3hpeDUP_mV5po37yflG/view?usp=drive_link
 
 
 Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum de 2 po de largeur. Les vélos munis de pneus inférieurs à 3 po de largeur devront être munis d’une suspension d’un minimum de 100mm de débattement. Aucun vélo hybride, de cyclocross, gravel ou électrique ne sera permis sur le parcours.
