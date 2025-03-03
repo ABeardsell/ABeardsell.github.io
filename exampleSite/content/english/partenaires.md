@@ -18,9 +18,18 @@ about:
 
 ### Main Partner:
 
-- Pit Caribou: https://pitcaribou.com/
+- Camping Hiking Adventures: https://www.campinghikingadventures.com
+
+- Desjardins: https://www.desjardins.com/qc/fr.html
+
+- MRS Packraft: https://www.mrsraft.com
+
+- Pit Caribou: https://pitcaribou.com/  
+
+- Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
 - Ville de Rimouski: https://rimouski.ca/
+
 
 ### Collaborator:
 
