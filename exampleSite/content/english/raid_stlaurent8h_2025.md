@@ -51,7 +51,7 @@ Note that a **mountain bike** is required. Tires must be at least 2 inches wide.
 ### Registrations
 
 **Registrations open on November 14.** https://www.zeffy.com/fr-CA/ticketing/be28ffdf-9dcf-47b9-826f-1aa6275483e6
-**The number of teams will be limited to 24, and registrations close on April 1, 2025.**
+**The number of teams will be limited to 36, and registrations close on April 1, 2025.**
 
 The cost per team is 375$ (+ taxes). This cost includes, among other things: the transport of your bins, bikes, and kayak (if required), kayak rental, course design and maps, and post-race meal.
 

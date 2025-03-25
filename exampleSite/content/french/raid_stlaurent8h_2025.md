@@ -60,7 +60,7 @@ Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum
 
 
 **Les inscriptions ouvrent le 14 novembre à 20h (EDT).** https://www.zeffy.com/fr-CA/ticketing/be28ffdf-9dcf-47b9-826f-1aa6275483e6
-**Le nombre d'équipes sera limité à 24 et les inscriptions ferment le 1 Avril 2025.**
+**Le nombre d'équipes sera limité à 36 et les inscriptions ferment le 1 Avril 2025.**
 
 
 Le coût par équipe est de 375$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
