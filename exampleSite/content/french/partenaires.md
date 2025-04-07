@@ -45,7 +45,15 @@ about:
 
   - Camping Rimouski: https://campingrimouski.com/
 
+  - Fromagerie Les Basques: https://www.fromageriedesbasques.ca/  
+
+  - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
+
+  - Kanpas: https://www.kanpas.com/
+
   - Rabot D. Bois: https://www.rabotdbois.com/
+
+  - Rockie Talkie: https://rockytalkie.ca/
 
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
 
