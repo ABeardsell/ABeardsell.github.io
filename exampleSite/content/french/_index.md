@@ -32,7 +32,7 @@ service:
 cta:
   enable: true
   bg_image: "images/slider-bg2.png"
-  title: "Course d'aventure St-Laurent 2025"
+  title: "Course d'aventure St-Laurent 2026"
   content: "Une fin de semaine d'aventure dans l'Est du Québec vous attend!"
   button:
     enable: false
