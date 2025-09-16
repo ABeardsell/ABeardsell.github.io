@@ -7,60 +7,60 @@ draft: false
 
 ########################### about service #############################
 about:
-  enable : false
-  title : "Course d'Aventure St-Laurent 2025"
+  enable : true
+  title : "Course d'Aventure St-Laurent 2026"
   content : "
 
-La Course d'Aventure St-Laurent se déroulera sur 2 jours (par étapes) le 17 et 18 Mai 2025 dans les environs de Rimouski (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent. Cet événement s’insère dans le série mondiale des courses d’aventure (Adventure Racing World Series (ARWS): https://www.arworldseries.com/races/st-lawrence-adventure-race-2025-canada).
+  La Course d’Aventure St-Laurent se tiendra les 16 et 17 mai 2026 dans les environs de Val-Brillant, dans la Matapédia (QC). Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure (ARWS) et vise à offrir aux participants une expérience sportive et humaine inoubliable, tout en mettant en valeur la beauté et les attraits de la région.  
+  
 
-### Disciplines sportives
+  Lien vers la page de la course avec ARWS: https://www.arworldseries.com/races/st-lawrence-adventure-race-2026-canada
 
-**Vélo de montagne, course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Cette course est une épreuve d'endurance exigeante. Bien qu'elle n'est pas réservée aux athlètes, vous devez avoir une expérience dans toutes les disciplines touchées par la course.
+  ### Parcours
 
-
-### Parcours
-
-Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Le parcours est conçu pour mettre au défi les équipes expérimentées, tout en offrant aux nouvelles équipes l'occasion de vivre un format de course plus long. Ainsi, des points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Nous nous attendons à ce qu’une minorité des équipes récolte l’ensemble des points de contrôle. Le parcours est secret jusqu’à la journée avant la course.
+  Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Le parcours est conçu pour mettre au défi les équipes expérimentées, tout en offrant aux nouvelles équipes l'occasion de vivre un format de course plus long. Ainsi, des points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Nous nous attendons à ce qu’une minorité des équipes récolte l’ensemble des points de contrôle. Le parcours est secret jusqu’à la journée avant la course.
 
 
-### Durée de la course
 
-La durée variera entre **8 et 12 heures (par jour)** selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
+  ### Équipes
 
+  Équipes de 2 - hommes, femmes, ou mixte.
+  Places limitées : 60 équipes
 
-### Équipes
+  ### Durée de la course
 
-Équipe de 2 - hommes, femmes, ou mixte.
-
-### Logistique
-
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. **Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
-
-### Camping et hébergement
-
-Si vous désirez camper, nous recommandons le Camping Rimouski (https://campingrimouski.com/), car il s'agit du camping le plus près et que vous pourrez bénéficier d'un rabais. Il y a des sites sans ou avec services ainsi que des chambres disponibles. Veuillez téléphoner le plus tôt possible afin de réserver votre hébergement et mentionner votre appartenance à la course St-Laurent afin de profiter d'un rabais de 15% (téléphonez au 418 721-0322).
+  La durée variera entre **8 et 12 heures (par jour)** selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
 
 
-### Inscriptions
+
+  ### Disciplines sportives
+
+  **Vélo de montagne, course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Cette course est une épreuve d'endurance exigeante. Bien qu'elle n'est pas réservée aux athlètes, vous devez avoir une expérience dans toutes les disciplines touchées par la course.
 
 
-**Nous sommes complets!**
-📝 Nous avons créé une LISTE D'ATTENTE pour donner à plus d'équipes l'opportunité de se joindre à nous: https://forms.gle/c6fTqZLfAWHDt4aw9
+
+  ### Logistique
+
+  L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. **Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
+
+  ### Inscriptions
+
+  **Ouverture des inscriptions** : 19 octobre à 20 h (heure de l’Est)
+
+  Frais d’inscription : 750 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 
-**Inscriptions ici à partir du 14 octobre à 20h (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
-Le nombre d'équipes sera limité à **60 équipes**.
+  ### Camping et hébergement
+
+  Plus de détails à venir !
 
 
-Le coût par équipe est de 750$ + taxes. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une ou des sections de kayak. Il est possible d'en louer lors de l'inscription.
 
-
-L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 
 ### Politique de remboursement
 
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2025. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
@@ -97,7 +97,7 @@ featured_service:
     - name : "Kayak"
       icon : "fas fa-water"
       color : "primary-darker"
-      content : "25-35 km - Rivière (rapides R1 et R2) et en mer (si la météo le permet).
+      content : "25-40 km - Lac.
 "
 
 ############################# Service ###############################
