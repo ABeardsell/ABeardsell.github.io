@@ -12,7 +12,7 @@ about:
   content : "
 
   La Course d’Aventure St-Laurent se tiendra les 16 et 17 mai 2026 dans les environs de Val-Brillant, dans la Matapédia (QC). Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure (ARWS) et vise à offrir aux participants une expérience sportive et humaine inoubliable, tout en mettant en valeur la beauté et les attraits de la région.  
-  
+
 
   Lien vers la page de la course avec ARWS: https://www.arworldseries.com/races/st-lawrence-adventure-race-2026-canada
 
@@ -45,9 +45,10 @@ about:
 
   ### Inscriptions
 
-  **Ouverture des inscriptions** : 19 octobre à 20 h (heure de l’Est)
+  **Ouverture des inscriptions** : **19 octobre à 20 h** (heure de l’Est)
 
-  Frais d’inscription : 750 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
+
+  **Frais d’inscription** : 750 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 
   ### Camping et hébergement
@@ -77,7 +78,7 @@ Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1e
 ########################## featured service ############################
 
 featured_service:
-  enable : false
+  enable : true
   service_item:
     # featured service item loop
     - name : "Course/Trekking"

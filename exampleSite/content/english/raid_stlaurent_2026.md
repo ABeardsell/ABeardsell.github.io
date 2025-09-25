@@ -7,11 +7,13 @@ draft: false
 
 ########################### about service #############################
 about:
-  enable : false
+  enable : true
   title : "St-Lawrence Adventure Race 2026"
   content : "
 
-The St-Lawrence Adventure Race will take place over 2 days (in stages) on May 17 and 18, 2025, around Rimouski (QC). This event aims to offer teams a memorable adventure while showcasing the beauty and attractions of the Bas-Saint-Laurent region. The race is part of the Adventure Racing World Series (ARWS): https://www.arworldseries.com/races/st-lawrence-adventure-race-2025-canada.
+  The St. Lawrence Adventure Race will take place on May 16–17, 2026, in the Val-Brillant area, in the Matapédia region (QC). This two-day staged event is part of the Adventure Racing World Series (ARWS) and aims to provide participants with an unforgettable sporting and human experience, while showcasing the beauty and attractions of the region.
+
+  Link to the race page with ARWS: https://www.arworldseries.com/races/st-lawrence-adventure-race-2026-canada
 
 ### Disciplines
 
@@ -20,7 +22,7 @@ The St-Lawrence Adventure Race will take place over 2 days (in stages) on May 17
 
 ### Course
 
-Teams will traverse approximately **150 km**, on an unmarked course, orienting themselves with map and compass. The course is designed to challenge experienced teams, while offering new teams the opportunity to experience a longer race format. As such, several checkpoints will be optional so that each team can choose a level of difficulty to meet their objectives. We expect a minority of teams to collect all the checkpoints. The route will remain secret until the day before the race.
+Teams will cover approximately 150 km on an unmarked course, navigating with maps and compass. The course is designed to challenge experienced teams while offering new teams the chance to experience a longer race format. Optional checkpoints will be included so that each team can choose a level of difficulty matching their goals. We expect that only a minority of teams will collect all the checkpoints. The course remains secret until the day before the race.
 
 
 ### Duration
@@ -40,26 +42,17 @@ The organization will handle the transportation of bins, bikes, and kayaks if ne
 
 ### Registration
 
-We are fully booked!
-📝 We’ve created a WAITING LIST to give more teams the chance to join us: https://forms.gle/c6fTqZLfAWHDt4aw9
+Registration opens: October 19 at 8 p.m. (Eastern Time)
 
+Entry fee: $750 + taxes per team (includes transport of bins, bikes, and kayaks, kayak rental, satellite tracking device, maps, as well as the Sunday post-race meal). The minimum age to participate is 16 years old when racing with an adult teammate. This requires approval from the race directors. Please contact us in advance to discuss.
 
-**Registrations here starting October 14 at 8pm (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
-The number of teams will be limited to **60 teams**.
+### Camping and accommodations
 
-
-The cost per team is 750$ + tax. This includes transportation of your gear boxes, bikes, and kayak, the kayak rental, loan of a satellite tracking device, course and map design, and post-race meals. Note that a wetsuit (sleeveless accepted) will be mandatory for one or more kayaking sections. Wetsuits can be rented upon registration.
-
-The minimum age to participate is 16, when teamed with an adult. This requires approval from the race director. Please contact us in advance to discuss.
-
+More details to come!
 
 ### Refund Policy
 
-Refunds will be issued on the following scale: 85% until February 1, 2025, 50% between February 2 and April 1, 2025, 25% between April 2 and May 1, 2025. No refunds after May 2, 2025. Until May 2, teams have the option to transfer their registration after informing the organizing committee.
-
-### Camping and Accommodation
-
-If you wish to camp, we recommend Camping Rimouski (https://campingrimouski.com/) as it is the closest campsite, and you’ll receive a discount. There are sites with or without services, as well as rooms available. Please call as soon as possible to reserve your accommodation and mention your participation in the St-Lawrence adventure race to receive a 15% discount (call 418 721-0322).
+Refunds will be issued according to the following scale: 85% until February 1, 2026; 50% between February 2 and April 1, 2026; 25% between April 2 and May 1, 2026. No refunds after May 2, 2026. Until May 2, teams may transfer their registration after notifying the organizing committee.
 "
 
 # Material list is available here: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
@@ -71,7 +64,7 @@ If you wish to camp, we recommend Camping Rimouski (https://campingrimouski.com/
 ########################## featured service ############################
 
 featured_service:
-  enable : false
+  enable : true
   service_item:
     # featured service item loop
     - name : "Running/Trekking"
@@ -91,7 +84,7 @@ featured_service:
     - name : "Kayaking"
       icon : "fas fa-water"
       color : "primary-darker"
-      content : "25-35 km - River (R1 and R2 rapids) and sea (weather permitting).
+      content : "25-40 km - lake.
 "
 
 ############################# Service ###############################
