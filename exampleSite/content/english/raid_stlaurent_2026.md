@@ -1,5 +1,5 @@
 ---
-title: "St-Lawrence Adventure Race 2026"
+title: "ST-LAWRENCE ADVENTURE RACE 2026"
 description: "Multisport Adventure Race"
 bg_image: "images/slider-bg2.png"
 layout: "service"
