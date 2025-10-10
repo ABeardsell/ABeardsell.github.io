@@ -8,7 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "St-Laurent 8h"
+  title : "St-Laurent 7h"
   content : "
 
 La course d'aventure St-Laurent  est une course multisports qui se déroulera le 17 mai 2026 dans les environs de Val-Brillant (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
@@ -39,7 +39,8 @@ L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si
 
 ### Horaire général préliminaire
 
-**Dimanche matin**: Enregistrement et départ de la course (dans les environs de Val-Brillant).
+**Dimanche matin**: Enregistrement et départ de la course (dans les environs de Val-Brillant).  
+
 
 **Dimanche après-midi**: Fermeture du parcours en fin de journée. La remise des prix aura lieu en début de soirée.
 
