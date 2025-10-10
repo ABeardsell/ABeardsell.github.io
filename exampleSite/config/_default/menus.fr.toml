@@ -25,7 +25,7 @@ hasChildren = true
   [[main]]
   parent = "Événements 2026"
   name = "St-Laurent (7h)"
-  url = "raid_stlaurent8h_2026/"
+  url = "raid_stlaurent7h_2026/"
   weight = 2
 
 
@@ -129,7 +129,7 @@ weight = 2
 
 [[footer]]
 name = "St-Laurent (7h)"
-url = "raid_stlaurent8h_2026/"
+url = "raid_stlaurent7h_2026/"
 weight = 3
 
 
