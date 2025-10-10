@@ -32,14 +32,14 @@ Teams of 2 - male, female, or mixed.
 
 ### Logistics
 
-The organization will handle the transportation of bins, bikes, and kayaks if needed. Teams will have access to their bins at certain transitions between disciplines.
+The organization will handle the transportation of bins, bikes, and kayaks if needed. Teams will have access to their bins at certain transitions between disciplines.Teams will be responsible for transporting their bins and bikes to the start line after check-in.
 
 ### Preliminary General Schedule
 
-**Sunday morning**: Registration and race start (in the Val-Brillant area).  
+**Sunday morning**: Check-in at Val-Brillant and race start (within 20–25 km of Val-Brillant).
 
 
-**Sunday afternoon**: Course closure by the end of the day. The awards ceremony will take place in the early evening.
+**Sunday afternoon**: Course closes at the end of the day. The awards ceremony will take place early evening in Val-Brillant.
 
 ### Equipment List
 
@@ -84,14 +84,14 @@ featured_service:
     - name: "Running/Trekking"
       icon: "fas fa-running"
       color: "primary"
-      content: "6-12 km in several sections - trails and off-trail, possible crossing of streams and swamps.
+      content: "6-12 km - on trails and off-trail, with possible crossings of streams or marshes.
 "
 
     # featured service item loop
     - name: "Mountain Biking"
       icon: "fas fa-biking"
       color: "primary-dark"
-      content: "25-30 km - A mountain bike is required. Asphalt - Dirt roads - Single track - Forest roads - MTB trails.
+      content: "25-30 km - A mountain bike is required. Gravel roads - Singletrack - Forest roads - MTB trails.
 "
 
     # featured service item loop

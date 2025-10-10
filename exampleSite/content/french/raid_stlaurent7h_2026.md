@@ -34,15 +34,16 @@ La durée de la course variera entre 6-7 heures selon vos choix de routes, vos c
 
 ### Logistique
 
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves.
+L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. Les équipes devront transporter leurs bacs et leurs vélos vers le point de départ après l’enregistrement.
+
 
 
 ### Horaire général préliminaire
 
-**Dimanche matin**: Enregistrement et départ de la course (dans les environs de Val-Brillant).  
+**Dimanche matin**: Enregistrement à Val-Brillant et départ de la course (dans les environs de Val-Brillant 20-25km).
 
 
-**Dimanche après-midi**: Fermeture du parcours en fin de journée. La remise des prix aura lieu en début de soirée.
+**Dimanche après-midi**: Fermeture du parcours en fin de journée. La remise des prix aura lieu en début de soirée à Val-Brillant.
 
 
 ### Liste de matériel
@@ -94,14 +95,14 @@ featured_service:
     - name : "Course/Trekking"
       icon : "fas fa-running"
       color : "primary"
-      content : "6-12 km en plusieurs sections - sentiers et hors sentiers, traverse possible de cours d'eau et de marais.
+      content : "6-12 km - sentiers et hors sentiers, traverse possible de cours d'eau et de marais.
 "
 
     # featured service item loop
     - name : "Vélo de montagne"
       icon : "fas fa-biking"
       color : "primary-dark"
-      content : "25-30 km - Un vélo de montagne est requis. Asphalte - Chemins de terre – Single track - Chemins forestiers – Sentiers de VTT.
+      content : "25-30 km - Un vélo de montagne est requis. Chemins de terre – Single track - Chemins forestiers – Sentiers de VTT.
 "
 
     # featured service item loop
