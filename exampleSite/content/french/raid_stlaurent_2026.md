@@ -51,6 +51,9 @@ about:
   **Frais d’inscription** : 750 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 
+  L'eau sera froide au mois de mai! Une combinaison isthermique (ou drysuit) pourrait être obligatoire selon les conditions météo. Vous pouvez en louer une lors de l'inscription.
+
+
   ### Camping et hébergement  🏕️
 
 
