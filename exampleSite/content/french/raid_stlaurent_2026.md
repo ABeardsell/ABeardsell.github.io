@@ -16,7 +16,7 @@ about:
 
   Lien vers la page de la course avec ARWS: https://www.arworldseries.com/races/st-lawrence-adventure-race-2026-canada
 
-  ### Parcours
+  ### Parcours 🗺️
 
   Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Le parcours est conçu pour mettre au défi les équipes expérimentées, tout en offrant aux nouvelles équipes l'occasion de vivre un format de course plus long. Ainsi, des points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Nous nous attendons à ce qu’une minorité des équipes récolte l’ensemble des points de contrôle. Le parcours est secret jusqu’à la journée avant la course.
 
@@ -51,17 +51,25 @@ about:
   **Frais d’inscription** : 750 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 
-  ### Camping et hébergement
-
-  Plus de détails à venir !
+  ### Camping et hébergement  🏕️
 
 
+  Le quartier général de la course sera situé au magnifique Domaine Sayam. C’est là que se tiendront l’enregistrement des équipes, la logistique de course et la remise des prix. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité du Domaine Sayam durant la fin de semaine de la course.  
 
+
+  Hébergement au Domaine Sayam https://www.domainesayam.com : Le domaine offre plusieurs chalets et condos confortables. Les réservations ouvriront en même temps que les inscriptions à la course (le 19 octobre). Ne tardez pas, les places seront limitées!
+
+
+  Option camping à Val-Brillant (disponibles avec ou sans service) : Le camping municipal de Val-Brillant, voisin du Domaine Sayam, propose un tarif spécial aux participants :
+  2 nuits : 60$ ; 3 nuits : 80$. Les réservations seront possibles à partir de janvier sur leur site : https://campingvalbrillant.com/  
+
+
+  Notez que les hébergements du Domaine Sayam et les hôtels des environs seront très en demande pendant cette fin de semaine dû à plusieurs événements. Réservez dès que possible pour éviter les mauvaises surprises!
 
 
 ### Politique de remboursement
 
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Aucun remboursement ne sera effectué dans l’éventualité où une section du parcours devrait être modifiée, raccourcie ou annulée en raison de conditions météorologiques défavorables ou de tout autre facteur externe échappant au contrôle de l’organisation.
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
