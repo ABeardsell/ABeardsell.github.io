@@ -18,7 +18,7 @@ The St-Lawrence Adventure Race is a multisport event that will take place on May
 
 **Mountain biking, running/trekking, and kayaking**. Each of these requires map and compass navigation. The distances listed below are subject to slight variations from the final course. You must have experience in all disciplines involved in the race.
 
-### Course
+### Course 🗺️
 
 Teams will traverse approximately **50 km** on an unmarked course, orienting themselves with maps and a compass. This event is aimed at those who wish to discover the sport or athletes looking for a shorter challenge. Thus, several checkpoints will be optional, allowing each team to choose a level of difficulty that suits their goals. The course will remain secret until the day before the race.
 
@@ -64,7 +64,7 @@ The minimum age to participate is 16 years, accompanied by an adult. This requir
 
 ### Refund Policy
 
-Refunds will be issued according to the following scale: 85% until February 1, 2026; 50% between February 2 and April 1, 2026; 25% between April 2 and May 1, 2026. No refunds after May 2, 2026. Until May 2, teams may transfer their registration after notifying the organizing committee.
+Refunds will be issued according to the following scale: 85% until February 1, 2026; 50% between February 2 and April 1, 2026; 25% between April 2 and May 1, 2026. No refunds after May 2, 2026. Until May 2, teams may transfer their registration after notifying the organizing committee.  No refunds will be issued in the event that a section of the course must be modified, shortened, or canceled due to adverse weather conditions or any other external factors beyond the organization’s control.
 
 "
 # thereby allowing for a similar duration event for all teams.

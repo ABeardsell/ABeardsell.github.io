@@ -18,7 +18,7 @@ La course d'aventure St-Laurent  est une course multisports qui se déroulera le
 **Vélo de montagne, course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Vous devez avoir de l'expérience dans toutes les disciplines touchées par la course.
 
 
-### Parcours
+### Parcours 🗺️
 
 Les équipes traverseront jusqu'à environ **50 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Cette épreuve s'adresse aux personnes qui souhaitent découvrir le sport ou aux athlètes désirant un défi d'une durée plus courte. Ainsi, plusieurs points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Le parcours demeurera secret jusqu’à la journée avant la course.
 
@@ -74,7 +74,7 @@ L'âge minimum pour participer est de 16 ans en faisant équipe avec une personn
 
 ### Politique de remboursement
 
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Aucun remboursement ne sera effectué dans l’éventualité où une section du parcours devrait être modifiée, raccourcie ou annulée en raison de conditions météorologiques défavorables ou de tout autre facteur externe échappant au contrôle de l’organisation.
 
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
