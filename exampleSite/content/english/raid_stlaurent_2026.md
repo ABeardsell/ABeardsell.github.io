@@ -43,6 +43,7 @@ The organization will handle the transportation of bins, bikes, and kayaks if ne
 ### Registration
 
 Registration opens: October 19 at 8 p.m. (Eastern Time)
+Link to register: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2026
 
 Entry fee: $750 + taxes per team (includes transport of bins, bikes, and kayaks, kayak rental, satellite tracking device, maps, as well as the Sunday post-race meal). The minimum age to participate is 16 years old when racing with an adult teammate. This requires approval from the race directors. Please contact us in advance to discuss.
 

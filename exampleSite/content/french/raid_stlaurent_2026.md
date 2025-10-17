@@ -46,6 +46,7 @@ about:
   ### Inscriptions
 
   **Ouverture des inscriptions** : **19 octobre à 20 h** (heure de l’Est)
+  Lien pour vous inscrire: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2026
 
 
   **Frais d’inscription** : 750 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
