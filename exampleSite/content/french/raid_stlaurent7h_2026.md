@@ -57,10 +57,15 @@ Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum
 **Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
 
 
+L'eau sera froide au mois de mai! Une combinaison isthermique (ou drysuit) est recommandée.
+
+
 ### Inscriptions
 
 
 **Les inscriptions ouvrent le 26 octobre à 20h (EDT).**
+https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-7h--2026
+
 
 **Le nombre d'équipes sera limité à 35 et les inscriptions ferment le 1 Avril 2026.**
 
@@ -68,8 +73,19 @@ Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum
 Le coût par équipe est de 375$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
 
 
-L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
+L'âge minimum pour participer est de 14 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
+### Camping et hébergement  🏕️
+
+
+Le quartier général de la course sera situé au magnifique Domaine Sayam. C’est là que se tiendront l’enregistrement des équipes, la logistique de course et la remise des prix. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité du Domaine Sayam durant la fin de semaine de la course.  
+
+
+Option camping à Val-Brillant (disponibles avec ou sans service) : Le camping municipal de Val-Brillant, voisin du Domaine Sayam, propose un tarif spécial aux participants :
+2 nuits : 60$ ; 3 nuits : 80$. Les réservations seront possibles à partir de janvier sur leur site : https://campingvalbrillant.com/  
+
+
+Notez que les hébergements du Domaine Sayam et les hôtels des environs seront très en demande pendant cette fin de semaine dû à plusieurs événements. Réservez dès que possible pour éviter les mauvaises surprises!
 
 
 ### Politique de remboursement

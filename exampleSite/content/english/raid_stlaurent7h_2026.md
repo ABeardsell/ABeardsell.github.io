@@ -51,16 +51,34 @@ Note that a **mountain bike** is required. Tires must be at least 2 inches wide.
 
 **The kayak is provided with your registration**, and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
 
+
+The water will be cold in May! A wetsuit (or drysuit) is recommended.
+
 ### Registrations
 
 **Registrations open on October 26.**
+https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-7h--2026  
+
+
 **The number of teams will be limited to 35, and registrations close on April 1, 2026.**  
 
 
 The cost per team is 375$ (+ taxes). This cost includes, among other things: the transport of your bins, bikes, and kayak (if required), kayak rental, course design and maps, and post-race meal.
 
-The minimum age to participate is 16 years, accompanied by an adult. This requires approval from the race management. Please contact us in advance to discuss.
+The minimum age to participate is 14 years, accompanied by an adult. This requires approval from the race management. Please contact us in advance to discuss.
 
+
+### Camping and accommodations 🏕️
+
+The race headquarters will be located at the beautiful Domaine Sayam, where team check-in, logistics, and the awards ceremony will all take place. To simplify your travel and make the most of the event, we strongly recommend staying near Domaine Sayam for the race weekend.  
+
+
+Camping option in Val-Brillant (https://campingvalbrillant.com/):
+Located right next to Domaine Sayam, the Val-Brillant municipal campground offers a special rate for participants: 2 nights: $60; 3 nights: $80.
+Sites with or without services are available. Reservations will open in January on their website.  
+
+
+Please note that accommodations at Domaine Sayam and nearby hotels will be in high demand that weekend due to multiple events in the area—book early to avoid last-minute surprises!
 
 ### Refund Policy
 
