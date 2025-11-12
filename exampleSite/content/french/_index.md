@@ -20,13 +20,22 @@ about:
   content: "RIKICO est un organisme à but non lucratif
   ayant comme mandat la promotion et l’organisation de courses d’orientation et d’aventure au Bas-Saint-Laurent.
 
+
+
+  📣 **Avis de convocation de notre assemblée générale annuelle!**
+
+  Notre assemblée se tiendra le 19 novembre, 19h à Rimouski (en présence seulement, lieu à confirmer). Seuls les membres actifs (personne ayant participer à une course dans les 2 dernières années) peuvent y assister et y voter.  
+  
+
+  En vue de nous aider à organiser l'assemblée, merci de confirmer votre présence en utilisant ce lien: https://forms.gle/3y3SphJBrUNbk7kA6
+  Le lieu et l'ordre du jour vous seront transmis par courriel 📧✉️
+
   "
   image: "images/Rikico.png"
 ############################# Service ############################
 service:
   enable: true
   # service content comes from "service.md" file
-
 
 ############################ call to action ###########################
 cta:
