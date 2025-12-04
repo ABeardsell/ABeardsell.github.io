@@ -26,6 +26,9 @@ about:
 
 **Merci à nos généreux partenaires de nous accompagner dans cette aventure:**
 
+{{< youtube 9XEBB_XNucA >}}
+
+
   ### Partenaires majeurs:
 
   - Camping Hiking Adventures: https://www.campinghikingadventures.com
@@ -55,7 +58,11 @@ about:
 
   - Rockie Talkie: https://rockytalkie.ca/
 
-  - Squirt Cycling Product: https://www.squirtcyclingproducts.com/
+  - Squirt Cycling Product: https://www.squirtcyclingproducts.com/  
+
+
+
+
 
   "
 

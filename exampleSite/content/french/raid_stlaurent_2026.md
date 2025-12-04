@@ -74,6 +74,7 @@ about:
 ### Politique de remboursement
 
 Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Aucun remboursement ne sera effectué dans l’éventualité où une section du parcours devrait être modifiée, raccourcie ou annulée en raison de conditions météorologiques défavorables ou de tout autre facteur externe échappant au contrôle de l’organisation.
+
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
