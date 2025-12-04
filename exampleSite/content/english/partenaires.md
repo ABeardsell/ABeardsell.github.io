@@ -15,6 +15,7 @@ about:
 
 **Thank you to our generous partners for supporting us in this adventure:**
 
+{{< youtube 9XEBB_XNucA >}}
 
 ### Main Partner:
 

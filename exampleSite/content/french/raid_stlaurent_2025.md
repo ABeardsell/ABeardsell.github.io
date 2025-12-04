@@ -32,35 +32,7 @@ La durée variera entre **8 et 12 heures (par jour)** selon vos choix de routes,
 
 Équipe de 2 - hommes, femmes, ou mixte.
 
-### Logistique
-
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. **Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
-
-### Camping et hébergement
-
-Si vous désirez camper, nous recommandons le Camping Rimouski (https://campingrimouski.com/), car il s'agit du camping le plus près et que vous pourrez bénéficier d'un rabais. Il y a des sites sans ou avec services ainsi que des chambres disponibles. Veuillez téléphoner le plus tôt possible afin de réserver votre hébergement et mentionner votre appartenance à la course St-Laurent afin de profiter d'un rabais de 15% (téléphonez au 418 721-0322).
-
-
-### Inscriptions
-
-
-**Nous sommes complets!**
-📝 Nous avons créé une LISTE D'ATTENTE pour donner à plus d'équipes l'opportunité de se joindre à nous: https://forms.gle/c6fTqZLfAWHDt4aw9
-
-
-**Inscriptions ici à partir du 14 octobre à 20h (EDT):** https://www.zeffy.com/fr-CA/ticketing/6adbb13c-be9a-4c89-ad77-4bf6c3dcd6a1
-Le nombre d'équipes sera limité à **60 équipes**.
-
-
-Le coût par équipe est de 750$ + taxes. Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak, la location d'un kayak, le prêt d'un dispositif de suivi satellitaire, la conception du parcours et des cartes et les repas d'après-course. Notez qu'une combinaison isothermique (sans manches acceptées) sera obligatoire pour une ou des sections de kayak. Il est possible d'en louer lors de l'inscription.
-
-
-L'âge minimum pour participer est de 16 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
-
-
-### Politique de remboursement
-
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2025, 50 % entre le 2 février et le 1er avril 2025, 25 % entre le 2 avril et le 1er mai 2025. Aucun remboursement après le 2 mai 2025. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+{{< youtube 9XEBB_XNucA >}}
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
