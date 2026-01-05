@@ -26,8 +26,6 @@ about:
 
 **Merci à nos généreux partenaires de nous accompagner dans cette aventure:**
 
-{{< youtube 9XEBB_XNucA >}}
-
 
   ### Partenaires majeurs:
 
