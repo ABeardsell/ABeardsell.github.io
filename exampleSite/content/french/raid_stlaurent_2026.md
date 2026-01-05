@@ -85,7 +85,7 @@ Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1e
 #La liste de matériel est disponible ici: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
 
 
-  image : "images/jackalope/st_laurent_2025.png"
+  image : "images/jackalope/st_laurent_2026.png"
 # mettre les partenaires sous le logo dans la même image!
 
 ########################## featured service ############################

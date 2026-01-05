@@ -71,7 +71,7 @@ Refunds will be issued according to the following scale: 85% until February 1, 2
 # Material list is available here: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
 
 
-  image : "images/jackalope/st_laurent_2025.png"
+  image : "images/jackalope/st_laurent_2026.png"
 # add partners below the logo in the same image!
 
 ########################## featured service ############################
