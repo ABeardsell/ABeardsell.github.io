@@ -25,7 +25,7 @@ about:
   ### Équipes
 
   Équipes de 2 - hommes, femmes, ou mixte.
-  Places limitées : 60 équipes
+  Places limitées : 70 équipes.
 
   ### Durée de la course
 
