@@ -54,7 +54,7 @@ hasChildren = true
 
   [[main]]
   parent = "Past events"
-  name = "St-Laurent (8h)- 2025"
+  name = "St-Lawrence (8h)- 2025"
   url = "raid_stlaurent8h_2025/"
   weight = 3
 
