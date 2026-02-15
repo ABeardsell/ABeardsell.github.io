@@ -32,15 +32,12 @@ La durée variera entre **8 et 12 heures (par jour)** selon vos choix de routes,
 
 Équipe de 2 - hommes, femmes, ou mixte.
 
-{{< youtube 9XEBB_XNucA >}}
-"
-#permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
-#- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
-#[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
-
 
 ### Liste de matériel
 #La liste de matériel est disponible ici: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
+
+"
+
 
 
   image : "images/jackalope/st_laurent_2025.png"
