@@ -58,7 +58,7 @@ about:
   ### Camping et hébergement  🏕️
 
 
-  Le quartier général de la course sera situé au magnifique Domaine Sayam. C’est là que se tiendront l’enregistrement des équipes, la logistique de course et la remise des prix. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité du Domaine Sayam durant la fin de semaine de la course.  
+  Le quartier général de la course sera situé au magnifique Domaine Sayam. C’est là que se tiendront l’enregistrement des équipes et la logistique de course. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité du Domaine Sayam durant la fin de semaine de la course.  
 
 
   Hébergement au Domaine Sayam https://www.domainesayam.com : Le domaine offre plusieurs chalets et condos confortables. Les réservations ouvriront en même temps que les inscriptions à la course (le 19 octobre). Ne tardez pas, les places seront limitées!

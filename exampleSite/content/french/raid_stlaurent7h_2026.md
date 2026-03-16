@@ -78,10 +78,10 @@ L'âge minimum pour participer est de 14 ans en faisant équipe avec une personn
 ### Camping et hébergement  🏕️
 
 
-Le quartier général de la course sera situé au magnifique Domaine Sayam. C’est là que se tiendront l’enregistrement des équipes, la logistique de course et la remise des prix. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité du Domaine Sayam durant la fin de semaine de la course.  
+L’enregistrement des équipes et la logistique de course se déroulera à Amqui. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité de Amqui durant la fin de semaine de la course.  
 
 
-Option camping à Val-Brillant (disponibles avec ou sans service) : Le camping municipal de Val-Brillant, voisin du Domaine Sayam, propose un tarif spécial aux participants :
+Option camping à Val-Brillant (disponibles avec ou sans service) : Le camping municipal de Val-Brillant, propose un tarif spécial aux participants :
 2 nuits : 60$ ; 3 nuits : 80$. Les réservations seront possibles à partir de janvier sur leur site : https://campingvalbrillant.com/  
 
 
