@@ -1,6 +1,6 @@
 ---
 title: "Nos partenaires"
-description: "Partenaires de la Course d'Aventure St-Laurent 2025"
+description: "Partenaires de la Course d'Aventure St-Laurent 2026"
 bg_image: "images/slider-bg2.png"
 layout: "about"
 draft: false
@@ -17,10 +17,19 @@ draft: false
 #- Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
 #  - Näak: https://www.naak.com
 #  - Tourisme Rimouski: https://tourismerimouski.com/
+#- Ville de Rimouski: https://rimouski.ca/
+#  - Kanpas: https://www.kanpas.com/
+#  - Rockie Talkie: https://rockytalkie.ca/
+#  - Fromagerie Les Basques: https://www.fromageriedesbasques.ca/  
+#  - Camping Hiking Adventures: https://www.campinghikingadventures.com
+#   - MRS Packraft: https://www.mrsraft.com
+#  - Pit Caribou: https://pitcaribou.com/  
+#  - Camping Rimouski: https://campingrimouski.com/
+
 
 about:
   enable : true
-  image : "images/partenaires2025.png"
+  image : "images/partenaires2026.png"
   title : ""
   content : "
 
@@ -29,36 +38,24 @@ about:
 
   ### Partenaires majeurs:
 
-  - Camping Hiking Adventures: https://www.campinghikingadventures.com
-
   - Desjardins: https://www.desjardins.com/qc/fr.html
-
-  - MRS Packraft: https://www.mrsraft.com
-
-  - Pit Caribou: https://pitcaribou.com/  
 
   - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
-  - Ville de Rimouski: https://rimouski.ca/
 
   ### Partenaires collaborateurs:
 
-
-  - Camping Rimouski: https://campingrimouski.com/
-
-  - Fromagerie Les Basques: https://www.fromageriedesbasques.ca/  
+  - Camping de Val-Brillant: https://campingvalbrillant.com/
 
   - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
 
-  - Kanpas: https://www.kanpas.com/
+  - Le Domaine Sayam: https://www.domainesayam.com/
+
+  - MRC de La Matapédia: https://www.mrcmatapedia.qc.ca/
 
   - Rabot D. Bois: https://www.rabotdbois.com/
 
-  - Rockie Talkie: https://rockytalkie.ca/
-
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/  
-
-
 
 
 
