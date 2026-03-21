@@ -13,7 +13,6 @@ draft: false
 #  - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 #   - Camping Hiking Adventures: https://www.campinghikingadventures.com
 #- Buro Pro Citation: https://www.buroprocitation.ca/
-#  - Kanpas: https://www.kanpas.com/
 #- Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
 #  - Näak: https://www.naak.com
 #  - Tourisme Rimouski: https://tourismerimouski.com/
@@ -23,7 +22,7 @@ draft: false
 #  - Fromagerie Les Basques: https://www.fromageriedesbasques.ca/  
 #  - Camping Hiking Adventures: https://www.campinghikingadventures.com
 #   - MRS Packraft: https://www.mrsraft.com
-#  - Pit Caribou: https://pitcaribou.com/  
+#  
 #  - Camping Rimouski: https://campingrimouski.com/
 
 
@@ -40,6 +39,8 @@ about:
 
   - Desjardins: https://www.desjardins.com/qc/fr.html
 
+  - Pit Caribou: https://pitcaribou.com/  
+
   - Sport Expert: https://www.sportsexperts.ca/fr-CA/
 
 
@@ -47,17 +48,21 @@ about:
 
   - Camping de Val-Brillant: https://campingvalbrillant.com/
 
+  - Camping Hiking Adventures: https://www.campinghikingadventures.com
+
+  - Kanpas: https://www.kanpas.com/
+
   - Les Chants du Fleuve Kombucha: https://www.leschantsdufleuve.ca/
 
   - Le Domaine Sayam: https://www.domainesayam.com/
 
   - MRC de La Matapédia: https://www.mrcmatapedia.qc.ca/
 
+  - MRS Packraft: https://www.mrsraft.com
+
   - Rabot D. Bois: https://www.rabotdbois.com/
 
   - Squirt Cycling Product: https://www.squirtcyclingproducts.com/  
-
-
 
   "
 
