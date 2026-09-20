@@ -49,11 +49,12 @@ race:
   image: "images/schema_j2_2026.png"
 
 gallery:
-  - "images/kayak.png"
   - "images/wwtrek.png"
   - "images/medailles.png"
   - "images/hug.png"
-  - "images/medailles.png"
+  - "images/bike2j.png"
+  - "images/kayak.png"
+  - "images/trek2j.png"
 
 about:
   enable: true
@@ -83,9 +84,11 @@ about:
 
         L’âge minimum pour participer est de 14 ans en faisant équipe avec une personne adulte.
 
-    - title: "Équipement et conditions sur l'eau"
+    - title: "Liste de matériel et conditions sur l'eau"
       icon: "fas fa-water"
       content: |
+        Liste de matériel à venir.
+        
         L’eau sera froide au mois de mai.
 
         Une combinaison isothermique ou un **drysuit** pourrait être obligatoire selon les conditions météo.
@@ -95,17 +98,12 @@ about:
     - title: "Camping et hébergement"
       icon: "fas fa-campground"
       content: |
-        Le quartier général de la course sera situé au magnifique **Domaine Sayam**.
 
-        **Domaine Sayam**  
-        Le domaine offre plusieurs chalets et condos confortables.
+        Plus de détails à venir.
+
+        Notez que le **domaine Sayam** offre plusieurs chalets et condos confortables.
 
         [Domaine Sayam](https://www.domainesayam.com)
-
-        **Camping municipal de Val-Brillant**
-
-        - 2 nuits : 60 $
-        - 3 nuits : 80 $
 
         [Camping de Val-Brillant](https://campingvalbrillant.com/)
 

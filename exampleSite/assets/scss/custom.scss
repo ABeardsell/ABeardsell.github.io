@@ -174,7 +174,7 @@
 
 .sl-hero {
   position: relative;
-  min-height: 76vh;
+  min-height: 50vh;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -187,6 +187,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: 60% 40%;
 }
 
 .sl-hero-overlay {
@@ -282,7 +283,7 @@
 ===================================== */
 
 .sl-race-section {
-  padding: 90px 0 100px;
+  padding: 0px 0 100px;
   background: #f8f8f5;
 }
 
@@ -312,8 +313,9 @@
 .sl-intro h2 {
   margin: 0 0 25px;
   color: #173f56;
-  font-family: "Volkhov", serif;
-  font-size: 45px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 40px;
   font-weight: 400;
   line-height: 1.16;
 }
@@ -377,7 +379,7 @@
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 14px 22px;
+  padding: 4px 14px;
   background: #286984;
   color: #fff;
 }
@@ -404,8 +406,9 @@
 .sl-preliminary {
   padding-bottom: 2px;
   color: rgba(255, 255, 255, 0.75);
-  font-size: 10px;
-  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.8px;
   text-transform: uppercase;
 }
 
@@ -426,17 +429,15 @@
 ===================================== */
 
 .sl-gallery {
-  padding: 20px 0 80px;
+  padding: 30px 0 70px;
   background: #fff;
 }
 
 .sl-gallery-grid {
   display: grid;
-
-  grid-template-columns: 2fr 1fr 1fr;
-  grid-template-rows: 230px 230px;
-
-  gap: 8px;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 220px 220px;
+  gap: 7px;
 }
 
 .sl-gallery-item {
@@ -444,18 +445,45 @@
   background: #eee;
 }
 
-.sl-gallery-item:first-child {
+/* Large vertical image on the left */
+.sl-gallery-item:nth-child(1) {
+  grid-column: 1 / 3;
   grid-row: 1 / 3;
+}
+
+/* Three smaller images across the upper right */
+.sl-gallery-item:nth-child(2) {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.sl-gallery-item:nth-child(3) {
+  grid-column: 4;
+  grid-row: 1;
+}
+
+.sl-gallery-item:nth-child(4) {
+  grid-column: 5;
+  grid-row: 1;
+}
+
+/* Small lower-middle image */
+.sl-gallery-item:nth-child(5) {
+  grid-column: 3;
+  grid-row: 2;
+}
+
+/* Wide lower-right image */
+.sl-gallery-item:nth-child(6) {
+  grid-column: 4 / 6;
+  grid-row: 2;
 }
 
 .sl-gallery-item img {
   display: block;
-
   width: 100%;
   height: 100%;
-
   object-fit: cover;
-
   transition: transform 0.4s ease;
 }
 
@@ -827,7 +855,7 @@
   ------------------------------ */
 
   .sl-gallery {
-    padding: 25px 0 50px;
+    padding: 20px 0 50px;
   }
 
   .sl-gallery .container {
@@ -838,22 +866,46 @@
 
   .sl-gallery-grid {
     display: grid;
-
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 220px 150px 150px;
-
-    gap: 6px;
+    grid-template-rows: 210px 150px 150px 190px;
+    gap: 5px;
   }
 
-  .sl-gallery-item:first-child {
+  /* Full-width lead image */
+  .sl-gallery-item:nth-child(1) {
     grid-column: 1 / 3;
-    grid-row: auto;
+    grid-row: 1;
+  }
+
+  .sl-gallery-item:nth-child(2) {
+    grid-column: 1;
+    grid-row: 2;
+  }
+
+  .sl-gallery-item:nth-child(3) {
+    grid-column: 2;
+    grid-row: 2;
+  }
+
+  .sl-gallery-item:nth-child(4) {
+    grid-column: 1;
+    grid-row: 3;
+  }
+
+  .sl-gallery-item:nth-child(5) {
+    grid-column: 2;
+    grid-row: 3;
+  }
+
+  /* Full-width closing image */
+  .sl-gallery-item:nth-child(6) {
+    grid-column: 1 / 3;
+    grid-row: 4;
   }
 
   .sl-gallery-item img {
     width: 100%;
     height: 100%;
-
     object-fit: cover;
   }
 
@@ -917,4 +969,85 @@
     line-height: 1.7;
   }
 
+}
+
+/* =====================================
+   HEADER COMPACT — final override
+===================================== */
+
+header.navigation {
+  padding: 4px 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+}
+
+header.navigation .container-fluid {
+  min-height: 0 !important;
+}
+
+header.navigation .navbar {
+  min-height: 50px !important;
+  height: auto !important;
+  margin: 0 !important;
+}
+
+header.navigation .navbar-header {
+  min-height: 46px !important;
+  height: 46px !important;
+}
+
+header.navigation .navbar-brand {
+  height: 50px !important;
+  padding: 3px 15px !important;
+  margin: 0 !important;
+}
+
+header.navigation .navbar-nav {
+  padding-top: 4px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+header.navigation .navbar-nav > li > a {
+  padding-top: 15px !important;
+  padding-bottom: 10px !important;
+}
+
+/* Bandeau du schéma — compact */
+.sl-race-card-header {
+  min-height: 0 !important;
+  height: 50px !important;
+  padding: 0 16px !important;
+
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.sl-race-card-header > div {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.sl-race-duration {
+  display: block;
+  margin: 0 !important;
+  padding: 0 !important;
+
+  font-size: 18px;
+  line-height: 1 !important;
+}
+
+.sl-race-card-header h3 {
+  display: none;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.sl-preliminary {
+  margin: 0 !important;
+  padding: 0 !important;
+
+  font-size: 8px;
+  line-height: 1 !important;
 }

@@ -573,22 +573,19 @@ header .navbar-default .navbar-nav li a:hover {
 
 .navigation {
   background: #ffffff;
-  padding: 20px 0; }
+  padding: 10px 0; }
   .navigation .navbar {
-    margin-bottom: 0px;
-    border: 0px; }
-  .navigation .navbar-brand {
-    padding-top: 5px; }
-  .navigation .navbar {
+    margin-bottom: 0;
+    border: 0;
     background: none;
-    border: 0px; }
+    min-height: 10px; }
     .navigation .navbar .navbar-nav {
-      padding-top: 10px; }
+      padding-top: 0; }
       .navigation .navbar .navbar-nav a {
         color: #7b7b7b;
-        padding: 10px 15px;
+        padding: 10px 10px;
         font-weight: 500;
-        font-size: 14px;
+        font-size: 15px;
         text-transform: uppercase; }
         .navigation .navbar .navbar-nav a:hover, .navigation .navbar .navbar-nav a:focus {
           color: #000000;
@@ -626,18 +623,30 @@ header .navbar-default .navbar-nav li a:hover {
         padding-left: 25px;
         color: #ffffff;
         background: #3b5e7aff; }
+  .navigation .navbar-brand {
+    height: 40px;
+    padding: 0 15px;
+    display: flex;
+    align-items: center; }
+    .navigation .navbar-brand img {
+      width: auto;
+      max-height: 36px; }
 
 .nav .open > a {
   background: transparent; }
 
 @media (max-width: 992px) {
   .navbar-header {
-    float: none; }
+    float: none;
+    min-height: 40px; }
   .navbar-left,
   .navbar-right {
     float: none !important; }
   .navbar-toggle {
-    display: block; }
+    display: block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 7px 8px; }
   .navbar-collapse {
     border-top: 1px solid transparent;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1); }
@@ -648,7 +657,7 @@ header .navbar-default .navbar-nav li a:hover {
     display: none !important; }
   .navbar-nav {
     float: none !important;
-    margin-top: 7.5px; }
+    margin-top: 0; }
   .navbar-nav > li {
     float: none; }
   .navbar-nav > li > a {
@@ -2328,7 +2337,7 @@ header .navbar-default .navbar-nav li a:hover {
 
 .sl-hero {
   position: relative;
-  min-height: 76vh;
+  min-height: 50vh;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -2339,7 +2348,8 @@ header .navbar-default .navbar-nav li a:hover {
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover; }
+  object-fit: cover;
+  object-position: 60% 40%; }
 
 .sl-hero-overlay {
   position: absolute;
@@ -2411,7 +2421,7 @@ header .navbar-default .navbar-nav li a:hover {
    Race introduction + schematic
 ===================================== */
 .sl-race-section {
-  padding: 90px 0 100px;
+  padding: 0px 0 100px;
   background: #f8f8f5; }
 
 .sl-race-grid {
@@ -2436,8 +2446,9 @@ header .navbar-default .navbar-nav li a:hover {
 .sl-intro h2 {
   margin: 0 0 25px;
   color: #173f56;
-  font-family: "Volkhov", serif;
-  font-size: 45px;
+  font-family: "Roboto", sans-serif;
+  font-style: italic;
+  font-size: 40px;
   font-weight: 400;
   line-height: 1.16; }
 
@@ -2489,7 +2500,7 @@ header .navbar-default .navbar-nav li a:hover {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
-  padding: 14px 22px;
+  padding: 4px 14px;
   background: #286984;
   color: #fff; }
 
@@ -2513,8 +2524,9 @@ header .navbar-default .navbar-nav li a:hover {
 .sl-preliminary {
   padding-bottom: 2px;
   color: rgba(255, 255, 255, 0.75);
-  font-size: 10px;
-  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.8px;
   text-transform: uppercase; }
 
 .sl-race-map {
@@ -2531,21 +2543,46 @@ header .navbar-default .navbar-nav li a:hover {
    Gallery
 ===================================== */
 .sl-gallery {
-  padding: 20px 0 80px;
+  padding: 30px 0 70px;
   background: #fff; }
 
 .sl-gallery-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  grid-template-rows: 230px 230px;
-  gap: 8px; }
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: 220px 220px;
+  gap: 7px; }
 
 .sl-gallery-item {
   overflow: hidden;
   background: #eee; }
 
-.sl-gallery-item:first-child {
+/* Large vertical image on the left */
+.sl-gallery-item:nth-child(1) {
+  grid-column: 1 / 3;
   grid-row: 1 / 3; }
+
+/* Three smaller images across the upper right */
+.sl-gallery-item:nth-child(2) {
+  grid-column: 3;
+  grid-row: 1; }
+
+.sl-gallery-item:nth-child(3) {
+  grid-column: 4;
+  grid-row: 1; }
+
+.sl-gallery-item:nth-child(4) {
+  grid-column: 5;
+  grid-row: 1; }
+
+/* Small lower-middle image */
+.sl-gallery-item:nth-child(5) {
+  grid-column: 3;
+  grid-row: 2; }
+
+/* Wide lower-right image */
+.sl-gallery-item:nth-child(6) {
+  grid-column: 4 / 6;
+  grid-row: 2; }
 
 .sl-gallery-item img {
   display: block;
@@ -2779,7 +2816,7 @@ header .navbar-default .navbar-nav li a:hover {
      GALLERY
   ------------------------------ */
   .sl-gallery {
-    padding: 25px 0 50px; }
+    padding: 20px 0 50px; }
   .sl-gallery .container {
     width: 100%;
     padding-left: 12px;
@@ -2787,11 +2824,28 @@ header .navbar-default .navbar-nav li a:hover {
   .sl-gallery-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 220px 150px 150px;
-    gap: 6px; }
-  .sl-gallery-item:first-child {
+    grid-template-rows: 210px 150px 150px 190px;
+    gap: 5px; }
+  /* Full-width lead image */
+  .sl-gallery-item:nth-child(1) {
     grid-column: 1 / 3;
-    grid-row: auto; }
+    grid-row: 1; }
+  .sl-gallery-item:nth-child(2) {
+    grid-column: 1;
+    grid-row: 2; }
+  .sl-gallery-item:nth-child(3) {
+    grid-column: 2;
+    grid-row: 2; }
+  .sl-gallery-item:nth-child(4) {
+    grid-column: 1;
+    grid-row: 3; }
+  .sl-gallery-item:nth-child(5) {
+    grid-column: 2;
+    grid-row: 3; }
+  /* Full-width closing image */
+  .sl-gallery-item:nth-child(6) {
+    grid-column: 1 / 3;
+    grid-row: 4; }
   .sl-gallery-item img {
     width: 100%;
     height: 100%;
@@ -2832,3 +2886,68 @@ header .navbar-default .navbar-nav li a:hover {
   .sl-info-card-content {
     font-size: 14px;
     line-height: 1.7; } }
+
+/* =====================================
+   HEADER COMPACT — final override
+===================================== */
+header.navigation {
+  padding: 4px 0 !important;
+  min-height: 0 !important;
+  height: auto !important; }
+
+header.navigation .container-fluid {
+  min-height: 0 !important; }
+
+header.navigation .navbar {
+  min-height: 50px !important;
+  height: auto !important;
+  margin: 0 !important; }
+
+header.navigation .navbar-header {
+  min-height: 46px !important;
+  height: 46px !important; }
+
+header.navigation .navbar-brand {
+  height: 50px !important;
+  padding: 3px 15px !important;
+  margin: 0 !important; }
+
+header.navigation .navbar-nav {
+  padding-top: 4px !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important; }
+
+header.navigation .navbar-nav > li > a {
+  padding-top: 15px !important;
+  padding-bottom: 10px !important; }
+
+/* Bandeau du schéma — compact */
+.sl-race-card-header {
+  min-height: 0 !important;
+  height: 50px !important;
+  padding: 0 16px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important; }
+
+.sl-race-card-header > div {
+  margin: 0 !important;
+  padding: 0 !important; }
+
+.sl-race-duration {
+  display: block;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 18px;
+  line-height: 1 !important; }
+
+.sl-race-card-header h3 {
+  display: none;
+  margin: 0 !important;
+  padding: 0 !important; }
+
+.sl-preliminary {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 8px;
+  line-height: 1 !important; }

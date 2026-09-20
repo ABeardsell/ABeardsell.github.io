@@ -1,30 +1,23 @@
 .navigation {
   background: $white;
-  padding: 20px 0;
+  padding: 10px 0;
 
   .navbar {
-    margin-bottom: 0px;
-    border: 0px;
-  }
-
-  .navbar-brand {
-    padding-top: 5px;
-  }
-
-  .navbar {
+    margin-bottom: 0;
+    border: 0;
     background: none;
-    border: 0px;
+    min-height: 10px;
 
     .navbar-nav {
-      padding-top: 10px;
+      padding-top: 0;
 
       a {
         color: #7b7b7b;
-        padding: 10px 15px;
+        padding: 10px 10px;
 
         font : {
           weight: 500;
-          size: 14px;
+          size: 15px;
         }
 
         text-transform:uppercase;
@@ -82,6 +75,18 @@
       }
     }
   }
+
+  .navbar-brand {
+    height: 40px;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+
+    img {
+      width: auto;
+      max-height: 36px;
+    }
+  }
 }
 
 .nav .open>a {
@@ -92,6 +97,7 @@
 @include desktop {
   .navbar-header {
     float: none;
+    min-height: 40px;
   }
 
   .navbar-left,
@@ -101,6 +107,9 @@
 
   .navbar-toggle {
     display: block;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    padding: 7px 8px;
   }
 
   .navbar-collapse {
@@ -118,8 +127,8 @@
   }
 
   .navbar-nav {
-    float: none!important;
-    margin-top: 7.5px;
+    float: none !important;
+    margin-top: 0;
   }
 
   .navbar-nav > li {
