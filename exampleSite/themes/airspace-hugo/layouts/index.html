@@ -7,6 +7,7 @@
 
   {{ if $.Params.video.enable }}
   <video
+    id="heroVideo"
     class="rikico-hero-video"
     autoplay
     muted
@@ -44,7 +45,73 @@
     </div>
   </div>
 
+  <!-- Video controls -->
+  <div class="video-controls">
+
+    <button id="playPauseToggle"
+            class="video-control-btn"
+            type="button"
+            aria-label="Pause video">
+      ⏸ Pause
+    </button>
+
+    <button id="soundToggle"
+            class="video-control-btn"
+            type="button"
+            aria-label="Activate sound">
+      🔇 Activer le son
+    </button>
+
+  </div>
+
 </section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const video = document.getElementById("heroVideo");
+  const soundButton = document.getElementById("soundToggle");
+  const playPauseButton = document.getElementById("playPauseToggle");
+
+  if (!video) return;
+
+  // Sound
+  if (soundButton) {
+    soundButton.addEventListener("click", function () {
+
+      video.muted = !video.muted;
+
+      if (video.muted) {
+        soundButton.textContent = "🔇 Activer le son";
+      } else {
+        soundButton.textContent = "🔊 Couper le son";
+
+        if (video.paused) {
+          video.play();
+          playPauseButton.textContent = "⏸ Pause";
+        }
+      }
+
+    });
+  }
+
+  // Play / pause
+  if (playPauseButton) {
+    playPauseButton.addEventListener("click", function () {
+
+      if (video.paused) {
+        video.play();
+        playPauseButton.textContent = "⏸ Pause";
+      } else {
+        video.pause();
+        playPauseButton.textContent = "▶ Lecture";
+      }
+
+    });
+  }
+
+});
+</script>
 
 {{ end }}
 {{ end }}
