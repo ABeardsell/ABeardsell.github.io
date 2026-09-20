@@ -46,7 +46,6 @@ about:
   ### Inscriptions
 
   **Ouverture des inscriptions** : **23 octobre à 8 h** (heure de l’Est)
-  Lien pour vous inscrire: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2026
 
 
   **Frais d’inscription** : 800 $ + taxes par équipe (incluant transport des bacs, vélos et kayaks, location de kayak, prêt d’un dispositif de suivi satellitaire, cartes, ainsi que le repas d’après-course du dimanche). L'âge minimum pour participer est de 14 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
@@ -79,7 +78,7 @@ Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1e
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
 #- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
-
+#Lien pour vous inscrire: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2026
 
 ### Liste de matériel
 #La liste de matériel est disponible ici: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing

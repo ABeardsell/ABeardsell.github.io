@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Découvrez nos événements"
-    link: "raid_stlaurent_2026"
+    link: "raid_stlaurent_2027"
 
   ############################### Video ##############################
 video:
@@ -35,7 +35,7 @@ service:
 cta:
   enable: true
   bg_image: "images/slider-bg2.png"
-  title: "Course d'aventure St-Laurent 2026"
+  title: "Course d'aventure St-Laurent 2027"
   content: "Une fin de semaine d'aventure dans l'Est du Québec vous attend!"
   button:
     enable: false

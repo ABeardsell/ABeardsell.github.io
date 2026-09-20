@@ -11,7 +11,7 @@ about:
   title : "St-Laurent 7h"
   content : "
 
-La course d'aventure St-Laurent  est une course multisports qui se déroulera le 17 mai 2026 dans les environs de Val-Brillant (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
+La course d'aventure St-Laurent  est une course multisports qui se déroulera le 15 mai 2027 dans les environs de Val-Brillant (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
 
 ### Disciplines sportives
 
@@ -25,30 +25,16 @@ Les équipes traverseront jusqu'à environ **50 km**, sur un parcours non balis�
 
 ### Durée
 
-La durée de la course variera entre 6-7 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
+La durée de la course variera entre 6-8 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
 
 
 ### Équipes
 
-Équipe de 2 - hommes, femmes, ou mixte.
+Équipe de 2 - hommes, femmes, junior ou mixte.
 
 ### Logistique
 
 L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. Les équipes devront transporter leurs bacs et leurs vélos vers le point de départ après l’enregistrement.
-
-
-
-### Horaire général préliminaire
-
-**Dimanche matin**: Enregistrement à Val-Brillant et départ de la course (dans les environs de Val-Brillant 20-25km).
-
-
-**Dimanche après-midi**: Fermeture du parcours en fin de journée. La remise des prix aura lieu en début de soirée à Val-Brillant.
-
-
-### Liste de matériel
-
-📝 **Liste à venir**
 
 
 Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum de 2 po de largeur. Les vélos munis de pneus inférieurs à 3 po de largeur devront être munis d’une suspension d’un minimum de 100mm de débattement. Aucun vélo hybride, de cyclocross, gravel ou électrique ne sera permis sur le parcours.
@@ -66,13 +52,13 @@ L'eau sera froide au mois de mai! Une combinaison isthermique (ou drysuit) est r
 **Les inscriptions ouvrent le 26 octobre à 20h (EDT).**
 
 
-**Le nombre d'équipes sera limité à 70 et les inscriptions ferment le 1 Avril 2026.**
+**Le nombre d'équipes sera limité à 70 et les inscriptions ferment le 1 Avril 2027.**
 
 
-Le coût par équipe est de 375$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
+Le coût par équipe est de 400$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
 
 
-L'âge minimum pour participer est de 14 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
+L'âge minimum pour participer est de 12 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
 ### Camping et hébergement  🏕️
 
@@ -89,7 +75,7 @@ Notez que les hébergements du Domaine Sayam et les hôtels des environs seront 
 
 ### Politique de remboursement
 
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2026, 50 % entre le 2 février et le 1er avril 2026, 25 % entre le 2 avril et le 1er mai 2026. Aucun remboursement après le 2 mai 2026. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Aucun remboursement ne sera effectué dans l’éventualité où une section du parcours devrait être modifiée, raccourcie ou annulée en raison de conditions météorologiques défavorables ou de tout autre facteur externe échappant au contrôle de l’organisation.
+Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2027, 50 % entre le 2 février et le 1er avril 2027, 25 % entre le 2 avril et le 1er mai 2027. Aucun remboursement après le 2 mai 2027. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Aucun remboursement ne sera effectué dans l’éventualité où une section du parcours devrait être modifiée, raccourcie ou annulée en raison de conditions météorologiques défavorables ou de tout autre facteur externe échappant au contrôle de l’organisation.
 
 "
 #permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.

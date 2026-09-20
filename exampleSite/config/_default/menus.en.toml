@@ -13,26 +13,20 @@ weight = 2
 
 [[main]]
 weight = 3
-name = "2026 Events"
+name = "2027 Events"
 hasChildren = true
 
   [[main]]
-  parent = "2026 Events"
+  parent = "2027 Events"
   name = "St-Lawrence 2-day"
-  url = "raid_stlaurent_2026/"
+  url = "raid_stlaurent_2027/"
   weight = 1
 
   [[main]]
-  parent = "2026 Events"
-  name = "St-Lawrence (7h)"
-  url = "raid_stlaurent7h_2026/"
+  parent = "2027 Events"
+  name = "St-Lawrence 1-day"
+  url = "raid_stlaurent7h_2027/"
   weight = 2
-
-  [[main]]
-  parent = "2026 Events"
-  name = "St-Lawrence 2-day"
-  url = "raid_stlaurent_2026/"
-  weight = 3
 
 
 [[main]]
@@ -42,63 +36,75 @@ hasChildren = true
 
   [[main]]
   parent = "Past events"
-  name = "St-Lawrence 2-day"
-  url = "raid_stlaurent_2025/"
+  name = "2-day - 2026"
+  url = "raid_stlaurent_2026/"
   weight = 1
 
   [[main]]
   parent = "Past events"
-  name = "St-Lawrence (5h)- 2025"
-  url = "raid_stlaurent5h_2025/"
+  name = "7h - 2026"
+  url = "raid_stlaurent7h_2026/"
   weight = 2
 
   [[main]]
   parent = "Past events"
-  name = "St-Lawrence (8h)- 2025"
-  url = "raid_stlaurent8h_2025/"
+  name = "2-day - 2025"
+  url = "raid_stlaurent_2025/"
   weight = 3
+
+  [[main]]
+  parent = "Past events"
+  name = "5h- 2025"
+  url = "raid_stlaurent5h_2025/"
+  weight = 4
+
+  [[main]]
+  parent = "Past events"
+  name = "8h- 2025"
+  url = "raid_stlaurent8h_2025/"
+  weight = 5
 
   [[main]]
   parent = "Past events"
   name = "Two-day - 2024"
   url = "jackalope_2024/"
-  weight = 4
+  weight = 6
 
   [[main]]
   parent = "Past events"
   name = "6h - 2024"
   url = "jackalope6h_2024/"
-  weight = 5
+  weight = 7
 
   [[main]]
   parent = "Past events"
   name = "4h - 2024"
   url = "jackalope4h_2024/"
-  weight = 6
+  weight = 8
 
   [[main]]
   parent = "Past events"
   name = "Two-day - 2023 "
   url = "jackalope_2023/"
-  weight = 7
+  weight = 9
 
   [[main]]
   parent = "Past events"
   name = "6h - 2023"
   url = "jackalope6h_2023/"
-  weight = 8
+  weight = 10
 
   [[main]]
   parent = "Past events"
   name = "4h - 2022"
   url = "jackalope_short/"
-  weight = 9
+  weight = 11
 
   [[main]]
   parent = "Past events"
   name = "12h - 2022"
   url = "jackalope_long/"
-  weight = 10
+  weight = 12
 
 [[main]]
 name = "Partners"
