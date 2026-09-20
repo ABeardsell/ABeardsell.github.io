@@ -67,7 +67,7 @@ about:
   2 nuits : 60$ ; 3 nuits : 80$. Les réservations seront possibles à partir de janvier sur leur site : https://campingvalbrillant.com/  
 
 
-  Notez que les hébergements du Domaine Sayam et les hôtels des environs seront très en demande pendant cette fin de semaine dû à plusieurs événements. Réservez dès que possible pour éviter les mauvaises surprises!
+  **Notez que les hébergements du Domaine Sayam et les hôtels des environs seront très en demande pendant cette fin de semaine dû à plusieurs événements**. Réservez dès que possible pour éviter les mauvaises surprises!
 
 
 ### Politique de remboursement
@@ -84,7 +84,7 @@ Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1e
 #La liste de matériel est disponible ici: https://drive.google.com/file/d/1tyDCnDCLJE4H_vXlhGlhZtjD81_nc2u6/view?usp=sharing
 
 
-  image : "images/jackalope/st_laurent_2026.png"
+  image : "images/jackalope/st_laurent_2027.png"
 # mettre les partenaires sous le logo dans la même image!
 
 ########################## featured service ############################

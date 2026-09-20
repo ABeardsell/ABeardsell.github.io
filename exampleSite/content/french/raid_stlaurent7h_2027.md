@@ -62,7 +62,7 @@ L'âge minimum pour participer est de 12 ans en faisant équipe avec une personn
 
 ### Camping et hébergement  🏕️
 
-
+sss
 L’enregistrement des équipes et la logistique de course se déroulera à Amqui. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité de Amqui durant la fin de semaine de la course.  
 
 
@@ -84,7 +84,7 @@ Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1e
 #https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-7h--2026
 
 #**Politique de remboursement**: 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2024. Entre le 2 février et le 1 avril 2024, 50 % des frais d’inscription seront remboursés. Entre le 2 avril et le 1 mai 2024, 25% des frais d’inscription seront remboursés. Entre le 2 mai 2024 et le jour de la course, aucun remboursement sera émis. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas, des frais de transaction seront à la charge des équipes.
-  image : "images/jackalope/st_laurent_582026.png"
+  image : "images/jackalope/st_laurent_582027.png"
 
   # mettre les partenaires sous le logo dans la même image!
 
@@ -107,12 +107,7 @@ featured_service:
       content : "25-30 km - Un vélo de montagne est requis. Chemins de terre – Single track - Chemins forestiers – Sentiers de VTT.
 "
 
-    # featured service item loop
-    - name : "Kayak"
-      icon : "fas fa-water"
-      color : "primary-darker"
-      content : "5-10 km - lac. Le kayak est fournit avec l'inscription.
-"
+    # featured servs
 
 ############################# Service ###############################
 

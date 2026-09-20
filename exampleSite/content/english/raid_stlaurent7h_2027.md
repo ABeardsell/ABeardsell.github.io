@@ -75,7 +75,7 @@ Refunds will be issued according to the following scale: 85% until February 1, 2
 #- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
 #[label-here](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
 
-  image: "images/jackalope/st_laurent_58.png"
+image : "images/jackalope/st_laurent_582027.png"
 
   # place the partners below the logo in the same image!
 
