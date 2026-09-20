@@ -20,6 +20,15 @@
 <!-- plugins + stylesheet -->
 {{ $styles := slice }}
 {{ range site.Params.plugins.css }}
+  {{ if not (findRE "^http" .link) }}
+    {{ $r := resources.Get .link }}
+    {{ warnf "CSS PLUGIN: %s --> %s" .link $r.MediaType.Type }}
+  {{ end }}
+{{ end }}
+
+{{ $testscss := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS }}
+{{ warnf "COMPILED STYLE --> %s" $testscss.MediaType.Type }}
+{{ range site.Params.plugins.css }}
 {{ if findRE "^http" .link }}
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="{{ .link | relURL }}" {{.attributes | safeHTMLAttr}} >
 {{ else }}

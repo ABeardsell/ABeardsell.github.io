@@ -1,0 +1,253 @@
+{{ define "main" }}
+
+<!-- HERO -->
+{{ with .Params.hero }}
+<section class="sl-hero">
+
+  <img
+    class="sl-hero-image"
+    src="{{ .image | relURL }}"
+    alt="Course d'aventure St-Laurent">
+
+  <div class="sl-hero-overlay"></div>
+
+  <div class="container sl-hero-content">
+
+    {{ with .logo }}
+    <img
+      class="sl-event-logo"
+      src="{{ . | relURL }}"
+      alt="Course d'aventure St-Laurent">
+    {{ end }}
+
+    <div class="sl-hero-date">
+      {{ .date }}
+    </div>
+
+    <div class="sl-hero-location">
+      {{ .location }}
+    </div>
+
+    <p class="sl-tagline">
+      {{ .tagline }}
+    </p>
+
+    {{ with .button }}
+    <a href="{{ .link }}" class="btn btn-main">
+      {{ .label }}
+    </a>
+    {{ end }}
+
+  </div>
+
+</section>
+{{ end }}
+
+
+<!-- DISCIPLINES -->
+<section class="sl-disciplines">
+  <div class="container">
+
+    <div class="sl-discipline-grid">
+
+      {{ range .Params.disciplines }}
+
+      <div class="sl-discipline">
+
+        <i class="{{ .icon }}"></i>
+
+        <h3>{{ .name }}</h3>
+
+        <p>{{ .text }}</p>
+
+      </div>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+</section>
+
+<!-- INTRO + COURSE -->
+<section id="aventure" class="sl-race-section">
+
+  <div class="container">
+
+    <div class="sl-race-grid">
+
+      <!-- Introduction -->
+      {{ with .Params.intro }}
+      <div class="sl-intro">
+
+        <span class="sl-eyebrow">
+          {{ .eyebrow }}
+        </span>
+
+        <h2>
+          {{ .title }}
+        </h2>
+
+        <div class="sl-intro-text">
+          {{ .text | $.Page.RenderString (dict "display" "block") }}
+        </div>
+
+        {{ with $.Params.race }}
+        <div class="sl-keyfacts">
+
+          <div class="sl-keyfact">
+            <i class="fas fa-calendar-alt"></i>
+            <div>
+              <strong>{{ .duration }}</strong>
+              <span>Course par étapes</span>
+            </div>
+          </div>
+
+          <div class="sl-keyfact">
+            <i class="fas fa-route"></i>
+            <div>
+              <strong>{{ .distance }}</strong>
+              <span>Parcours non balisé</span>
+            </div>
+          </div>
+
+          <div class="sl-keyfact">
+            <i class="fas fa-users"></i>
+            <div>
+              <strong>{{ .teams }}</strong>
+              <span>Hommes, femmes, mixtes ou junior</span>
+            </div>
+          </div>
+
+        </div>
+        {{ end }}
+
+      </div>
+      {{ end }}
+
+      <!-- Course schematic -->
+      {{ with .Params.race }}
+      <article class="sl-race-card">
+
+        <header class="sl-race-card-header">
+          <div>
+            <span class="sl-race-duration">
+              {{ .duration }}
+            </span>
+            <h3>{{ .title }}</h3>
+          </div>
+
+          <span class="sl-preliminary">
+            Schéma préliminaire
+          </span>
+        </header>
+
+        <div class="sl-race-map">
+          <img
+            src="{{ .image | relURL }}"
+            alt="Schéma du parcours de la Course d'aventure St-Laurent">
+        </div>
+
+      </article>
+      {{ end }}
+
+    </div>
+
+  </div>
+
+</section>
+<!-- /INTRO + COURSE -->
+
+
+<!-- GALLERY -->
+{{ with .Params.gallery }}
+<section class="sl-gallery">
+
+  <div class="container">
+
+    <div class="sl-gallery-grid">
+
+      {{ range $i, $image := . }}
+
+      <div class="sl-gallery-item sl-gallery-item-{{ $i }}">
+        <img
+          src="{{ $image | relURL }}"
+          loading="lazy"
+          alt="Course d'aventure St-Laurent">
+      </div>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+
+</section>
+{{ end }}
+<!-- /GALLERY -->
+
+
+<!-- INFORMATION -->
+{{ with .Params.about }}
+{{ if .enable }}
+
+<section class="sl-details">
+
+  <div class="container">
+
+    <div class="sl-details-title">
+
+      {{ with .eyebrow }}
+      <span class="sl-eyebrow">
+        {{ . }}
+      </span>
+      {{ end }}
+
+      {{ with .title }}
+      <h2>{{ . }}</h2>
+      {{ end }}
+
+    </div>
+
+
+    <div class="sl-info-grid">
+
+      {{ range .items }}
+
+      <article class="sl-info-card{{ if .wide }} sl-info-card-wide{{ end }}">
+
+        <div class="sl-info-card-heading">
+
+          {{ with .icon }}
+          <div class="sl-info-icon">
+            <i class="{{ . }}"></i>
+          </div>
+          {{ end }}
+
+          <h3>
+            {{ .title }}
+          </h3>
+
+        </div>
+
+        <div class="sl-info-card-content">
+          {{ .content | $.Page.RenderString (dict "display" "block") }}
+        </div>
+
+      </article>
+
+      {{ end }}
+
+    </div>
+
+  </div>
+
+</section>
+
+{{ end }}
+
+{{ end }}
+
+<!-- /INFORMATION -->
+
+{{ end }}

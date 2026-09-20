@@ -2249,7 +2249,7 @@ header .navbar-default .navbar-nav li a:hover {
 .rikico-hero-content h1 {
   margin: 0 0 22px;
   color: #fff;
-  font-size: clamp(34px, 4vw, 60px);
+  font-size: 52px;
   font-weight: 300;
   line-height: 1.1;
   letter-spacing: 4px;
@@ -2306,3 +2306,368 @@ header .navbar-default .navbar-nav li a:hover {
     height: 36px;
     padding: 0 10px;
     font-size: 11px; } }
+
+/* ==================================================
+   ST-LAURENT
+================================================== */
+.sl-hero {
+  position: relative;
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background: #111; }
+
+.sl-hero-content {
+  position: relative;
+  z-index: 2;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px; }
+
+.sl-hero {
+  position: relative;
+  min-height: 76vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background: #111; }
+
+.sl-hero-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; }
+
+.sl-hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(10, 18, 22, 0.78) 0%, rgba(10, 18, 22, 0.48) 42%, rgba(10, 18, 22, 0.1) 75%); }
+
+.sl-hero-content {
+  position: relative;
+  z-index: 2;
+  color: white; }
+
+.sl-event-logo {
+  display: block;
+  width: 80%;
+  max-width: 480px;
+  max-height: 260px;
+  object-fit: contain;
+  object-position: left center;
+  margin-bottom: 20px; }
+
+.sl-hero-date {
+  color: #e97a25;
+  font-size: 27px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+.sl-hero-location {
+  margin-top: 7px;
+  font-size: 17px;
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+
+.sl-tagline {
+  margin: 18px 0 28px;
+  color: white;
+  font-size: 15px;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+/* Disciplines */
+.sl-disciplines {
+  padding: 35px 0;
+  background: #f7f7f4; }
+
+.sl-discipline-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 25px; }
+
+.sl-discipline {
+  text-align: center; }
+
+.sl-discipline i {
+  color: #245e7a;
+  font-size: 34px;
+  margin-bottom: 12px; }
+
+.sl-discipline h3 {
+  color: #173f56;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1.4px; }
+
+.sl-discipline p {
+  color: #6f7e84; }
+
+/* =====================================
+   Race introduction + schematic
+===================================== */
+.sl-race-section {
+  padding: 90px 0 100px;
+  background: #f8f8f5; }
+
+.sl-race-grid {
+  display: grid;
+  grid-template-columns: 42% 58%;
+  align-items: center;
+  column-gap: 70px; }
+
+/* Intro */
+.sl-intro {
+  max-width: 520px; }
+
+.sl-eyebrow {
+  display: block;
+  margin-bottom: 18px;
+  color: #e97a25;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+
+.sl-intro h2 {
+  margin: 0 0 25px;
+  color: #173f56;
+  font-family: "Volkhov", serif;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 1.16; }
+
+.sl-intro-text {
+  color: #666;
+  font-size: 16px;
+  line-height: 1.8; }
+
+.sl-intro-text p {
+  margin-bottom: 18px; }
+
+/* Key facts */
+.sl-keyfacts {
+  margin-top: 35px;
+  border-top: 1px solid #d8dedf; }
+
+.sl-keyfact {
+  display: flex;
+  align-items: center;
+  padding: 18px 0;
+  border-bottom: 1px solid #d8dedf; }
+
+.sl-keyfact i {
+  width: 42px;
+  color: #245e7a;
+  font-size: 22px; }
+
+.sl-keyfact div {
+  display: flex;
+  flex-direction: column; }
+
+.sl-keyfact strong {
+  color: #173f56;
+  font-size: 15px;
+  font-weight: 500; }
+
+.sl-keyfact span {
+  margin-top: 2px;
+  color: #828b8e;
+  font-size: 12px; }
+
+/* Schematic card */
+.sl-race-card {
+  width: 100%;
+  max-width: 590px;
+  margin-left: auto; }
+
+.sl-race-card-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 14px 22px;
+  background: #286984;
+  color: #fff; }
+
+.sl-race-duration {
+  display: block;
+  margin-bottom: 3px;
+  color: #fff;
+  font-size: 25px;
+  font-weight: 300;
+  letter-spacing: 4px;
+  text-transform: uppercase; }
+
+.sl-race-card-header h3 {
+  margin: 0;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+
+.sl-preliminary {
+  padding-bottom: 2px;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 10px;
+  letter-spacing: 1px;
+  text-transform: uppercase; }
+
+.sl-race-map {
+  padding: 14px;
+  background: #fff; }
+
+.sl-race-map img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #d2d5d5; }
+
+/* =====================================
+   Gallery
+===================================== */
+.sl-gallery {
+  padding: 20px 0 80px;
+  background: #fff; }
+
+.sl-gallery-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: 230px 230px;
+  gap: 8px; }
+
+.sl-gallery-item {
+  overflow: hidden;
+  background: #eee; }
+
+.sl-gallery-item:first-child {
+  grid-row: 1 / 3; }
+
+.sl-gallery-item img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease; }
+
+.sl-gallery-item:hover img {
+  transform: scale(1.025); }
+
+/* =====================================
+   Practical information
+===================================== */
+.sl-details {
+  padding: 85px 0 100px;
+  background: #f5f5f2; }
+
+.sl-details-title {
+  max-width: 700px;
+  margin: 0 auto 50px;
+  text-align: center; }
+
+.sl-details-title h2 {
+  margin: 0;
+  color: #173f56;
+  font-family: "Volkhov", serif;
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 1.2; }
+
+/* Two-column grid */
+.sl-info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto; }
+
+/* Individual information card */
+.sl-info-card {
+  padding: 32px 34px;
+  background: #fff;
+  border: 1px solid #e1e5e5;
+  border-radius: 6px;
+  box-shadow: 0 8px 28px rgba(23, 63, 86, 0.06); }
+
+/* Full-width card */
+.sl-info-card-wide {
+  grid-column: 1 / -1; }
+
+/* Heading */
+.sl-info-card-heading {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 22px; }
+
+.sl-info-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 42px;
+  border-radius: 50%;
+  background: #edf3f4;
+  color: #245e7a;
+  font-size: 17px; }
+
+.sl-info-card h3 {
+  margin: 0;
+  color: #173f56;
+  font-size: 21px;
+  font-weight: 500; }
+
+/* Text */
+.sl-info-card-content {
+  color: #626b6e;
+  font-size: 15px;
+  line-height: 1.75; }
+
+.sl-info-card-content p {
+  margin: 0 0 15px; }
+
+.sl-info-card-content p:last-child {
+  margin-bottom: 0; }
+
+.sl-info-card-content ul {
+  margin: 10px 0 18px;
+  padding-left: 20px; }
+
+.sl-info-card-content li {
+  margin-bottom: 6px; }
+
+/* Links */
+.sl-info-card-content a {
+  color: #245e7a;
+  font-weight: 500;
+  text-decoration: underline; }
+
+.sl-info-card-content a:hover {
+  color: #e97a25; }
+
+/* =====================================
+   Mobile
+===================================== */
+@media (max-width: 768px) {
+  .sl-details {
+    padding: 55px 0 65px; }
+  .sl-details-title {
+    margin-bottom: 35px;
+    text-align: left; }
+  .sl-details-title h2 {
+    font-size: 34px; }
+  .sl-info-grid {
+    grid-template-columns: 1fr;
+    gap: 16px; }
+  .sl-info-card-wide {
+    grid-column: auto; }
+  .sl-info-card {
+    padding: 25px 22px; }
+  .sl-info-card h3 {
+    font-size: 19px; }
+  .sl-info-card-content {
+    font-size: 14px; } }
