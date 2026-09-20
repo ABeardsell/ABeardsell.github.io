@@ -1,28 +1,54 @@
 {{ define "main" }}
-
-<!-- banner -->
+<!-- banner video -->
 {{ with .Params.banner }}
 {{ if .enable }}
-<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background-image: url('{{ .bg_image | relURL }}');">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          {{ with .title }}<h1>{{ . | markdownify }}</h1>{{ end }}
-          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-          {{ with .button }}
-          {{ if .enable }}
-          <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
-          {{ end }}
-          {{ end }}
-        </div>
+
+<section class="rikico-hero">
+
+  {{ if $.Params.video.enable }}
+  <video
+    class="rikico-hero-video"
+    autoplay
+    muted
+    loop
+    playsinline
+    preload="metadata"
+    {{ with $.Params.video.poster }}poster="{{ . | relURL }}"{{ end }}>
+    <source src="{{ $.Params.video.src | relURL }}" type="video/mp4">
+  </video>
+  {{ end }}
+
+  <div class="rikico-hero-overlay"></div>
+
+  <div class="rikico-hero-content">
+    <div class="container">
+
+      {{ with .title }}
+      <h1>{{ . | markdownify }}</h1>
+      {{ end }}
+
+      {{ with .content }}
+      <div class="rikico-hero-text">
+        {{ . | $.Page.RenderString (dict "display" "block") }}
       </div>
+      {{ end }}
+
+      {{ with .button }}
+      {{ if .enable }}
+      <a href="{{ .link | relLangURL }}" class="btn btn-main">
+        {{ .label }}
+      </a>
+      {{ end }}
+      {{ end }}
+
     </div>
   </div>
+
 </section>
+
 {{ end }}
 {{ end }}
-<!-- /banner -->
+<!-- /banner video -->
 
 <!-- about -->
 {{ with .Params.about }}

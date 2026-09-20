@@ -11,6 +11,12 @@ banner:
     label: "Découvrez nos événements"
     link: "raid_stlaurent_2026"
 
+  ############################### Video ##############################
+video:
+  enable: true
+  title: "Vivez l'aventure"
+  src: "videos/rikico.mp4"
+  poster: "images/Rikico.png"
 
 ############################# About #################################
 about:
