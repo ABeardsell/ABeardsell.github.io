@@ -9,7 +9,7 @@ hero:
   logo: "images/t-shirt.png"
   date: "15 mai 2027"
   location: "Sayabec · Matapédia"
-  tagline: "Terrain sauvage. Esprit d'équipe. Aventure."
+  tagline: "Terrain sauvage. Navigation. Aventure."
   button:
     label: "Découvrir le format 8h"
     link: "#aventure"

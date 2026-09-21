@@ -9,7 +9,7 @@ hero:
   logo: "images/t-shirt.png"
   date: "14–16 mai 2027"
   location: "Amqui · Matapédia"
-  tagline: "Terrain sauvage. Esprit d'équipe. Aventure."
+  tagline: "Terrain sauvage. Endurance. Navigation. Aventure."
   button:
     label: "Découvrir l'événement"
     link: "#aventure"
