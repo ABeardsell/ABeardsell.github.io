@@ -5,7 +5,7 @@ layout: "stlaurent"
 draft: false
 
 hero:
-  image: "images/Trek.png"
+  image: "images/Rikico8h.png"
   logo: "images/t-shirt.png"
   date: "15 mai 2027"
   location: "Sayabec · Matapédia"
