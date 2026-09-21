@@ -29,7 +29,7 @@ disciplines:
 
   - name: "Kayak"
     icon: "fas fa-water"
-    text: "25-40 km"
+    text: "Lac 25-40 km"
 
 intro:
   eyebrow: "Votre aventure"
@@ -50,10 +50,10 @@ race:
 
 gallery:
   - "images/wwtrek.png"
-  - "images/medailles.png"
   - "images/hug.png"
+  - "images/medailles.png"
   - "images/bike2j.png"
-  - "images/kayak.png"
+  - "images/kayak2j.png"
   - "images/trek2j.png"
 
 about:
