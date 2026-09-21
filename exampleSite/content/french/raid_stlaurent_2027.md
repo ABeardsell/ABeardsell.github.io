@@ -33,7 +33,7 @@ disciplines:
 
 intro:
   eyebrow: "Votre aventure"
-  title: "Une course d'aventure par étapes sur 2 jours"
+  title: "Course d’Aventure St-Laurent"
   text: |
     La Course d’Aventure St-Laurent se tiendra du 14 au 16 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure. Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
 
@@ -76,7 +76,7 @@ about:
     - title: "Inscriptions"
       icon: "fas fa-ticket-alt"
       content: |
-        **Ouverture des inscriptions : 19 octobre à 20 h** (heure de l’Est).
+        **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
 
         **Frais d’inscription : 800 $ + taxes par équipe.**
 
@@ -88,7 +88,7 @@ about:
       icon: "fas fa-water"
       content: |
         Liste de matériel à venir.
-        
+
         L’eau sera froide au mois de mai.
 
         Une combinaison isothermique ou un **drysuit** pourrait être obligatoire selon les conditions météo.

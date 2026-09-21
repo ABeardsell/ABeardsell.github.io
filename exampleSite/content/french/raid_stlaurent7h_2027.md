@@ -1,119 +1,134 @@
 ---
-title: "COURSE d'AVENTURE ST-LAURENT 7h 2026"
+title: "Course d'aventure St-Laurent 2027 - Format 8h"
 description: "Course d’aventure multisports"
-bg_image: "images/slider-bg2.png"
-layout: "service"
+layout: "stlaurent"
 draft: false
 
-########################### about service #############################
+hero:
+  image: "images/Trek.png"
+  logo: "images/t-shirt.png"
+  date: "15 mai 2027"
+  location: "Sayabec · Matapédia"
+  tagline: "Terrain sauvage. Esprit d'équipe. Aventure."
+  button:
+    label: "Découvrir le format 8h"
+    link: "#aventure"
+
+disciplines:
+  - name: "Navigation"
+    icon: "fas fa-compass"
+    text: "Cartes & boussole"
+
+  - name: "Trek / Course"
+    icon: "fas fa-running"
+    text: "6-12 km"
+
+  - name: "Vélo de montagne"
+    icon: "fas fa-biking"
+    text: "25-30 km"
+
+  - name: "Kayak"
+    icon: "fas fa-water"
+    text: "7-12 km"
+
+intro:
+  eyebrow: "Votre aventure"
+  title: "Course d’Aventure St-Laurent - 8h"
+  text: |
+    Le 15 mai 2027, partez à l’aventure dans les environs de **Sayabec, au cœur de la Matapédia**. En équipe de deux, vous devrez parcourir environ **50 km de terrain non balisé**, en choisissant vos itinéraires et en vous orientant uniquement à l’aide de cartes et d’une boussole.
+
+    La durée de la course variera entre 6-8 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Des barrières horaires seront établies à certaines étapes afin de permettre à toutes les équipes de terminer le parcours dans les délais prévus.
+
+    Au programme : **vélo de montagne, course à pied/trekking, kayak et navigation**.
+
+race:
+  title: ""
+  duration: "6-8 h"
+  distance: "Environ 50 km"
+  teams: "Équipes de 2 —  Places limitées à 70 équipes."
+  image: "images/schema_7h_2026.png"
+
+gallery:
+  - "images/7hfinish.png"
+  - "images/medailles.png"
+  - "images/finish7h2.png"
+  - "images/7hbike.png"
+  - "images/7h_kayak.png"
+  - "images/7htrek2.png"
+
 about:
-  enable : true
-  title : "St-Laurent 7h"
-  content : "
+  enable: true
+  eyebrow: "Informations"
+  title: "Tout ce qu'il faut savoir"
 
-La course d'aventure St-Laurent  est une course multisports qui se déroulera le 15 mai 2027 dans les environs de Val-Brillant (QC). Cet événement souhaite offrir une aventure sportive et humaine mémorable aux équipes, tout en leur faisant découvrir la beauté et les attraits du Bas-Saint-Laurent.
+  items:
+    - title: "Logistique"
+      icon: "fas fa-box-open"
+      content: |
+        L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis.
 
-### Disciplines sportives
+        Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves.
 
-**Vélo de montagne, course à pied/trekking et kayak**. Chacune d'elle nécessite de la navigation à la carte et à la boussole. Les distances indiquées ci-bas sont susceptibles de varier légèrement du parcours final. Vous devez avoir de l'expérience dans toutes les disciplines touchées par la course.
+        **Le kayak est fourni avec votre inscription.**
 
+        [Voir le modèle de kayak](https://www.rtmkayaks.com/optimo-evo-confort/)
 
-### Parcours 🗺️
+    - title: "Inscriptions"
+      icon: "fas fa-ticket-alt"
+      content: |
+        **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
 
-Les équipes traverseront jusqu'à environ **50 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole. Cette épreuve s'adresse aux personnes qui souhaitent découvrir le sport ou aux athlètes désirant un défi d'une durée plus courte. Ainsi, plusieurs points de contrôle seront optionnels afin que chaque équipe puisse choisir un niveau de difficulté correspondant à ses objectifs. Le parcours demeurera secret jusqu’à la journée avant la course.
+        **Frais d’inscription : 400 $ + taxes par équipe.**
 
+        L’inscription comprend notamment :
+        - le kayak;
+        - le transport des bacs, vélos et kayaks lorsque requis;
+        - le matériel de course : cartes, dossards et dispositif permettant le suivi de votre équipe en temps réel;
+        - la conception et l’organisation du parcours;
+        - Médaille de participation;
+        - le repas d’après-course.
 
-### Durée
+        L'âge minimum pour participer est de 12 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
 
-La durée de la course variera entre 6-8 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Il y aura des barrières horaires à différentes étapes du parcours.
+    - title: "Liste de matériel et conditions sur l'eau"
+      icon: "fas fa-water"
+      content: |
+        Liste de matériel à venir.
 
+        L’eau sera froide au mois de mai.
 
-### Équipes
+        Une combinaison isothermique ou un **drysuit** pourrait être obligatoire selon les conditions météo.
 
-Équipe de 2 - hommes, femmes, junior ou mixte.
+        Il sera possible d’en louer un lors de l’inscription.
 
-### Logistique
+    - title: "Niveau et expérience"
+      icon: "fas fa-mountain"
+      content: |
+        Le format 8 h s’adresse autant aux équipes qui souhaitent découvrir la course d’aventure qu’aux équipes expérimentées à la recherche d’un défi soutenu.
 
-L’organisation s’occupe de transporter les bacs, les vélos et les kayaks si requis. Il n’y aura pas de ravitaillement sur le parcours, mais les équipes auront accès à des bacs lors de certaines transitions entre les épreuves. Les équipes devront transporter leurs bacs et leurs vélos vers le point de départ après l’enregistrement.
+        Une bonne condition physique est recommandée. Aucune connaissance avancée en navigation n’est nécessaire, mais les équipes doivent être capables de s’orienter avec une carte et une boussole.
 
+    - title: "Camping et hébergement"
+      icon: "fas fa-campground"
+      content: |
+        **Les détails concernant le quartier général de course et les options d’hébergement seront annoncés prochainement.**
 
-Notez qu'un **vélo de montagne** est requis. Les pneus doivent avoir un minimum de 2 po de largeur. Les vélos munis de pneus inférieurs à 3 po de largeur devront être munis d’une suspension d’un minimum de 100mm de débattement. Aucun vélo hybride, de cyclocross, gravel ou électrique ne sera permis sur le parcours.
+        À proximité, le **Domaine Sayam** offre plusieurs chalets et condos, et le **Camping de Val-Brillant** constitue également une option pour les équipes souhaitant camper.
 
+        [Domaine Sayam](https://www.domainesayam.com)
 
-**Le kayak est fournit avec votre inscription** et le modèle sera le suivant: https://www.rtmkayaks.com/optimo-evo-confort/
+        [Camping de Val-Brillant](https://campingvalbrillant.com/)
 
+    - title: "Politique de remboursement"
+      icon: "fas fa-undo-alt"
+      wide: true
+      content: |
+        Les remboursements seront émis selon l’échelle suivante :
 
-L'eau sera froide au mois de mai! Une combinaison isthermique (ou drysuit) est recommandée.
+        - **85 %** jusqu’au 1er février 2027
+        - **50 %** entre le 2 février et le 1er avril 2027
+        - **25 %** entre le 2 avril et le 1er mai 2027
+        - Aucun remboursement après le 2 mai 2027
 
-
-### Inscriptions
-
-
-**Les inscriptions ouvrent le 26 octobre à 20h (EDT).**
-
-
-**Le nombre d'équipes sera limité à 70 et les inscriptions ferment le 1 Avril 2027.**
-
-
-Le coût par équipe est de 400$ (+ taxes). Ce coût inclut notamment: le transport de vos bacs, des vélos et du kayak (si requis), la location d'un kayak, la conception du parcours et des cartes et le repas d'après-course.
-
-
-L'âge minimum pour participer est de 12 ans en faisant équipe avec une personne adulte. Cela nécessite l'approbation par la direction de course. Communiquez avec nous au préalable afin d'en discuter.
-
-### Camping et hébergement  🏕️
-
-sss
-L’enregistrement des équipes et la logistique de course se déroulera à Amqui. Afin de simplifier vos déplacements et de profiter pleinement de l’événement, nous vous recommandons de séjourner à proximité de Amqui durant la fin de semaine de la course.  
-
-
-Option camping à Val-Brillant (disponibles avec ou sans service) : Le camping municipal de Val-Brillant, propose un tarif spécial aux participants :
-2 nuits : 60$ ; 3 nuits : 80$. Les réservations seront possibles à partir de janvier sur leur site : https://campingvalbrillant.com/  
-
-
-Notez que les hébergements du Domaine Sayam et les hôtels des environs seront très en demande pendant cette fin de semaine dû à plusieurs événements. Réservez dès que possible pour éviter les mauvaises surprises!
-
-
-### Politique de remboursement
-
-Les remboursements seront émis selon l’échelle suivante : 85 % jusqu’au 1er février 2027, 50 % entre le 2 février et le 1er avril 2027, 25 % entre le 2 avril et le 1er mai 2027. Aucun remboursement après le 2 mai 2027. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Aucun remboursement ne sera effectué dans l’éventualité où une section du parcours devrait être modifiée, raccourcie ou annulée en raison de conditions météorologiques défavorables ou de tout autre facteur externe échappant au contrôle de l’organisation.
-
-"
-#permettant ainsi d’offrir une épreuve d'une durée similaire pour toutes les équipes.
-#- Cliquez-[ici](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
-#[label-ici](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
-#https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-7h--2026
-
-#**Politique de remboursement**: 85 % des frais d’inscription seront remboursés jusqu’au 1 février 2024. Entre le 2 février et le 1 avril 2024, 50 % des frais d’inscription seront remboursés. Entre le 2 avril et le 1 mai 2024, 25% des frais d’inscription seront remboursés. Entre le 2 mai 2024 et le jour de la course, aucun remboursement sera émis. Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur. Dans tous les cas, des frais de transaction seront à la charge des équipes.
-  image : "images/jackalope/st_laurent_582027.png"
-
-  # mettre les partenaires sous le logo dans la même image!
-
-########################## featured service ############################
-
-featured_service:
-  enable : true
-  service_item:
-    # featured service item loop
-    - name : "Course/Trekking"
-      icon : "fas fa-running"
-      color : "primary"
-      content : "6-12 km - sentiers et hors sentiers, traverse possible de cours d'eau et de marais.
-"
-
-    # featured service item loop
-    - name : "Vélo de montagne"
-      icon : "fas fa-biking"
-      color : "primary-dark"
-      content : "25-30 km - Un vélo de montagne est requis. Chemins de terre – Single track - Chemins forestiers – Sentiers de VTT.
-"
-
-    # featured servs
-
-############################# Service ###############################
-
-
-############################# call to action #################################
-cta:
-  enable : false
-  # call to action content comes from "_index.md"
+        Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
 ---

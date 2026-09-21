@@ -135,13 +135,13 @@ weight = 1
 
 [[footer]]
 name = "St-Laurent (2 jours)"
-url = "raid_stlaurent_2026/"
+url = "raid_stlaurent_2027/"
 weight = 2
 
 
 [[footer]]
-name = "St-Laurent (7h)"
-url = "raid_stlaurent7h_2026/"
+name = "St-Laurent (1 jour)"
+url = "raid_stlaurent7h_2027/"
 weight = 3
 
 
