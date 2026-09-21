@@ -43,7 +43,7 @@ intro:
 
 race:
   title: ""
-  duration: "2 jours"
+  duration: "2 jours, par étapes"
   distance: "Environ 150 km"
   teams: "Équipes de 2 —  Places limitées à 70 équipes."
   image: "images/schema_j2_2026.png"
