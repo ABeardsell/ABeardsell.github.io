@@ -9,7 +9,7 @@ hero:
   logo: "images/t-shirt.png"
   date: "14–16 mai 2027"
   location: "Amqui · Matapédia"
-  tagline: "Terrain sauvage. Endurance. Navigation. Aventure."
+  tagline: "Aventure. Endurance. Navigation. "
   button:
     label: "Découvrir l'événement"
     link: "#aventure"
@@ -35,7 +35,7 @@ intro:
   eyebrow: "Votre aventure"
   title: "Course d’Aventure St-Laurent"
   text: |
-    La Course d’Aventure St-Laurent se tiendra du 14 au 16 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure. Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
+    L'événement se tiendra du 14 au 16 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure [ARWS] (https://arworldseries.com/). Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
 
     Durée de la course : entre **8 et 12 heures par jour** selon les choix de routes, les points de contrôle et la vitesse.
 
