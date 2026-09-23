@@ -122,7 +122,7 @@ about:
 
     - title: "Politique de remboursement"
       icon: "fas fa-undo-alt"
-      wide: true
+      wide: false
       content: |
         Les remboursements seront émis selon l’échelle suivante :
 
