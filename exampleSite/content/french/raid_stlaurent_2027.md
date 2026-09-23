@@ -35,7 +35,7 @@ intro:
   eyebrow: "Votre aventure"
   title: "Course d’Aventure St-Laurent"
   text: |
-    L'événement se tiendra du 14 au 16 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure [ARWS] (https://arworldseries.com/). Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
+    L'événement se tiendra du 14 au 16 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure [ARWS](https://arworldseries.com/). Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
 
     Durée de la course : entre **8 et 12 heures par jour** selon les choix de routes, les points de contrôle et la vitesse.
 
@@ -71,16 +71,23 @@ about:
 
         **Le kayak est fourni avec votre inscription.**
 
-        [Voir le modèle de kayak](https://www.rtmkayaks.com/optimo-evo-confort/)
+        [Voir le modèle de kayak](https://www.rtmkayaks.com/produit/optimo-evo-renforce/)
 
     - title: "Inscriptions"
       icon: "fas fa-ticket-alt"
       content: |
         **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
+        Lien pour l'inscription à venir.
 
         **Frais d’inscription : 800 $ + taxes par équipe.**
 
-        Les frais comprennent le transport des bacs, vélos et kayaks, la location du kayak, le prêt d’un dispositif de suivi satellitaire, les cartes ainsi que le repas d’après-course du dimanche.
+        L’inscription comprend notamment :
+        - la location d'un kayak;
+        - le transport des bacs, vélos et kayaks lorsque requis;
+        - le matériel de course : cartes, dossards et dispositif permettant le suivi de votre équipe en temps réel;
+        - la conception et l’organisation du parcours;
+        - Médaille de participation;
+        - le repas d’après-course (dimanche).
 
         L’âge minimum pour participer est de 14 ans en faisant équipe avec une personne adulte.
 
@@ -89,11 +96,19 @@ about:
       content: |
         Liste de matériel à venir.
 
-        L’eau sera froide au mois de mai.
+        Vélo: Un vélo de montagne est requis. Les pneus doivent avoir un minimum de 2 po de largeur. Les vélos munis de pneus inférieurs à 3 po de largeur devront être munis d’une suspension d’un minimum de 100mm de débattement. Aucun vélo hybride, de cyclocross, gravel ou électrique ne sera permis sur le parcours.
 
-        Une combinaison isothermique ou un **drysuit** pourrait être obligatoire selon les conditions météo.
+        Kayak: Fourni avec votre inscription (inclut VFI et pagaies).
 
-        Il sera possible d’en louer un lors de l’inscription.
+        Comme l'eau sera froide au mois de mai, une combinaison (isothermique (wetsuit) ou étanche (drysuit)) pourrait être obligatoire selon les conditions météo. Il sera possible de louer une combinaison isothermique lors de l’inscription.
+
+    - title: "Niveau et expérience"
+      icon: "fas fa-mountain"
+      content: |
+
+        Une bonne condition physique est recommandée et de l'expérience dans toutes les disciplines sportives. Aucune connaissance avancée en navigation n’est nécessaire, mais les équipes doivent être capables de s’orienter avec une carte et une boussole.
+
+        Des barrières horaires seront établies à certaines étapes afin de permettre à toutes les équipes de terminer le parcours dans les délais prévus.
 
     - title: "Camping et hébergement"
       icon: "fas fa-campground"
@@ -118,5 +133,5 @@ about:
         - **25 %** entre le 2 avril et le 1er mai 2027
         - Aucun remboursement après le 2 mai 2027
 
-        Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+        Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription à une autre équipe après en avoir informé le comité organisateur.
 ---

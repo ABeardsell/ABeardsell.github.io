@@ -71,7 +71,7 @@ about:
 
         **Le kayak est fourni avec votre inscription.**
 
-        [Voir le modèle de kayak](https://www.rtmkayaks.com/optimo-evo-confort/)
+        [Voir le modèle de kayak](https://www.rtmkayaks.com/produit/optimo-evo-renforce/)
 
     - title: "Inscriptions"
       icon: "fas fa-ticket-alt"
@@ -79,6 +79,7 @@ about:
         **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
 
         **Frais d’inscription : 400 $ + taxes par équipe.**
+        Lien pour l'inscription à venir.
 
         L’inscription comprend notamment :
         - le kayak;
@@ -95,11 +96,11 @@ about:
       content: |
         Liste de matériel à venir.
 
-        L’eau sera froide au mois de mai.
+        Vélo: Un vélo de montagne est fortement recommandé. Les pneus doivent avoir un minimum de 40mm de largeur. Aucun vélo électrique ne sera permis sur le parcours.
 
-        Une combinaison isothermique ou un **drysuit** pourrait être obligatoire selon les conditions météo.
+        Kayak: Fourni avec votre inscription (inclut VFI et pagaies).
 
-        Il sera possible d’en louer un lors de l’inscription.
+        Comme l'eau sera froide au mois de mai, une combinaison (isothermique (wetsuit) ou étanche (drysuit)) pourrait être obligatoire selon les conditions météo.
 
     - title: "Niveau et expérience"
       icon: "fas fa-mountain"
@@ -130,5 +131,5 @@ about:
         - **25 %** entre le 2 avril et le 1er mai 2027
         - Aucun remboursement après le 2 mai 2027
 
-        Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription après en avoir informé le comité organisateur.
+        Jusqu’au 2 mai, les équipes ont la possibilité de transférer leur inscription à une autre équipe après en avoir informé le comité organisateur.
 ---
