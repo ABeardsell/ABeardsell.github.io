@@ -35,7 +35,7 @@ intro:
   eyebrow: "Your adventure"
   title: "St. Lawrence Adventure Race"
   text: |
-    The event will take place on May 22–23, 2027, near Amqui in the Matapédia region. This two-day, multi-stage race is part of the [Adventure Racing World Series (ARWS)](https://arworldseries.com/). Teams will cover approximately **150 km** on an unmarked course, navigating with maps and a compass.
+    The event will take place on May 22–23, 2027, near Amqui in the Matapédia region. This two-day stage race is part of the [Adventure Racing World Series (ARWS)](https://arworldseries.com/). Teams will cover approximately **150 km** on an unmarked course, navigating with maps and a compass.
 
     Race duration: **8 to 12 hours per day** on May 22 and 23. Your time will depend on your route choices and speed.
 
