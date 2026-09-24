@@ -7,7 +7,7 @@ draft: false
 hero:
   image: "images/Rikico8h.png"
   logo: "images/t-shirt.png"
-  date: "15 mai 2027"
+  date: "22 mai 2027"
   location: "Sayabec · Matapédia"
   tagline: "Aventure. Endurance. Navigation."
   button:
@@ -35,7 +35,7 @@ intro:
   eyebrow: "Votre aventure"
   title: "Course d’Aventure St-Laurent - 8h"
   text: |
-    Le 15 mai 2027, partez à l’aventure dans les environs de **Sayabec, au cœur de la Matapédia**. En équipe de deux, vous devrez parcourir environ **50 km de terrain non balisé**, en choisissant vos itinéraires et en vous orientant uniquement à l’aide de cartes et d’une boussole.
+    Le 22 mai 2027, partez à l’aventure dans les environs de **Sayabec, au cœur de la Matapédia**. En équipe de deux, vous devrez parcourir environ **50 km de terrain non balisé**, en choisissant vos itinéraires et en vous orientant uniquement à l’aide de cartes et d’une boussole.
 
     La durée de la course variera entre 6-8 heures selon vos choix de routes, vos choix de points de contrôle et votre vitesse. Des barrières horaires seront établies à certaines étapes afin de permettre à toutes les équipes de terminer le parcours dans les délais prévus.
 
