@@ -1,115 +1,135 @@
 ---
-
-title: "ST-LAWRENCE ADVENTURE RACE 7h 2026"
+title: "St. Lawrence Adventure Race 2027 - 8-hour format"
 description: "Multisport adventure race"
-bg_image: "images/slider-bg2.png"
-layout: "service"
+layout: "stlaurent"
 draft: false
 
-########################### about service #############################
+hero:
+  image: "images/Rikico8h.png"
+  logo: "images/t-shirt.png"
+  date: "May 22, 2027"
+  location: "Sayabec · Matapédia"
+  tagline: "Adventure. Endurance. Navigation."
+  button:
+    label: "Discover the 8-hour format"
+    link: "#aventure"
+
+disciplines:
+  - name: "Navigation"
+    icon: "fas fa-compass"
+    text: "Map & compass"
+
+  - name: "Trekking / Running"
+    icon: "fas fa-running"
+    text: "6–12 km"
+
+  - name: "Mountain biking"
+    icon: "fas fa-biking"
+    text: "25–30 km"
+
+  - name: "Kayaking"
+    icon: "fas fa-water"
+    text: "7–12 km"
+
+intro:
+  eyebrow: "Your adventure"
+  title: "St. Lawrence Adventure Race - 8-hour format"
+  text: |
+    On May 22, 2027, head out on an adventure near **Sayabec, in the heart of the Matapédia region**. In teams of two, you'll cover approximately **50 km of unmarked terrain**, choosing your own routes and navigating with only maps and a compass.
+
+    The race will take 6 to 8 hours depending on your route choices, checkpoint choices and speed. Time cutoffs will be set at certain stages so that all teams can finish the course within the allotted time.
+
+    Disciplines: **mountain biking, running/trekking, kayaking and navigation**.
+
+race:
+  title: ""
+  duration: "6–8 hours"
+  distance: "Approximately 50 km"
+  teams: "Teams of 2 — limited to 70 teams."
+  image: "images/schema_7h_2026.png"
+
+gallery:
+  - "images/7hfinish.png"
+  - "images/medailles.png"
+  - "images/finish7h2.png"
+  - "images/7hbike.png"
+  - "images/7h_kayak.png"
+  - "images/7htrek2.png"
+
 about:
   enable: true
-  title: "St-Lawrence 7h"
-  content: "
+  eyebrow: "Information"
+  title: "Everything you need to know"
 
-The St-Lawrence Adventure Race is a multisport event that will take place on May 15, 2027, in the Val-Brillant area (QC). This event aims to provide a memorable sporting and human adventure for teams while showcasing the beauty and attractions of Bas-Saint-Laurent.
+  items:
+    - title: "Logistics"
+      icon: "fas fa-box-open"
+      content: |
+        The organizers will transport gear bins, bikes and kayaks when needed.
 
-### Disciplines
+        There will be no aid stations on the course, but teams will have access to their gear bins at certain transitions between stages.
 
-**Mountain biking, running/trekking, and kayaking**. Each of these requires map and compass navigation. The distances listed below are subject to slight variations from the final course. You must have experience in all disciplines involved in the race.
+        **A kayak is provided with your registration.**
 
-### Course 🗺️
+        [See the kayak model](https://www.rtmkayaks.com/produit/optimo-evo-renforce/)
 
-Teams will traverse approximately **50 km** on an unmarked course, orienting themselves with maps and a compass. This event is aimed at those who wish to discover the sport or athletes looking for a shorter challenge. Thus, several checkpoints will be optional, allowing each team to choose a level of difficulty that suits their goals. The course will remain secret until the day before the race.
+    - title: "Registration"
+      icon: "fas fa-ticket-alt"
+      content: |
+        **Registration opens October 23 at 8 a.m.** (Eastern Time).
 
-### Duration
+        **Registration fee: $400 + tax per team.**
+        Registration link coming soon.
 
-The duration of the race will vary between 6-8 hours depending on your route choices, checkpoint selections, and speed. There will be time limits at different stages of the course.
+        Registration includes:
+        - a kayak;
+        - transportation of gear bins, bikes and kayaks when needed;
+        - race materials: maps, race bibs and a device for tracking your team in real time;
+        - course design and organization;
+        - a participation medal;
+        - a post-race meal.
 
-### Teams
+        Participants must be at least 12 years old and team up with an adult. This requires approval from the race directors. Please contact us beforehand to discuss it.
 
-Teams of 2 - male, female, or mixed.
-
-### Logistics
-
-The organization will handle the transportation of bins, bikes, and kayaks if needed. Teams will have access to their bins at certain transitions between disciplines.Teams will be responsible for transporting their bins and bikes to the start line after check-in.
-
-Note that a **mountain bike** is required. Tires must be at least 2 inches wide. Bikes with tires less than 3 inches wide must have a suspension with a minimum travel of 100mm. No hybrid, cyclocross, gravel, or electric bikes will be allowed on the course.
-
-
-**The kayak is provided with your registration**, and the model will be as follows: https://www.rtmkayaks.com/optimo-evo-confort/
-
-
-The water will be cold in May! A wetsuit (or drysuit) is recommended.
-
-### Registrations
-
-**Registrations open on October 26.**
-
-
-**The number of teams will be limited to 70, and registrations close on April 1, 2027.**  
-
-
-The cost per team is 400$ (+ taxes). This cost includes, among other things: the transport of your bins, bikes, and kayak (if required), kayak rental, course design and maps, and post-race meal.
-
-The minimum age to participate is 12 years, accompanied by an adult. This requires approval from the race management. Please contact us in advance to discuss.
-
-
-### Camping and accommodations 🏕️
-
-The race headquarters will be located at the beautiful Domaine Sayam, where team check-in, logistics, and the awards ceremony will all take place. To simplify your travel and make the most of the event, we strongly recommend staying near Domaine Sayam for the race weekend.  
-
-
-Camping option in Val-Brillant (https://campingvalbrillant.com/):
-Located right next to Domaine Sayam, the Val-Brillant municipal campground offers a special rate for participants: 2 nights: $60; 3 nights: $80.
-Sites with or without services are available. Reservations will open in January on their website.  
-
-
-Please note that accommodations at Domaine Sayam and nearby hotels will be in high demand that weekend due to multiple events in the area—book early to avoid last-minute surprises!
-
-### Refund Policy
-
-Refunds will be issued according to the following scale: 85% until February 1, 2027; 50% between February 2 and April 1, 2027; 25% between April 2 and May 1, 2027. No refunds after May 2, 2027. Until May 2, teams may transfer their registration after notifying the organizing committee. No refunds will be issued in the event that a section of the course must be modified, shortened, or canceled due to adverse weather conditions or any other external factors beyond the organization’s control.
-"
-# thereby allowing for a similar duration event for all teams.
-#- Click-[here](https://www.eventbrite.com/e/billets-defi-jackalope-12h-2022-245827264967)!
-#[label-here](https://docs.google.com/document/d/1vXWVdvJOHoztBPpIwW6gKmgLnIvYCMgz/edit?usp=sharing&ouid=101057629570461989254&rtpof=true&sd=true)
-
-image : "images/jackalope/st_laurent_582027.png"
-
-  # place the partners below the logo in the same image!
-
-########################## featured service ############################
-
-featured_service:
-  enable: true
-  service_item:
-    # featured service item loop
-    - name: "Running/Trekking"
-      icon: "fas fa-running"
-      color: "primary"
-      content: "6-12 km - on trails and off-trail, with possible crossings of streams or marshes.
-"
-
-    # featured service item loop
-    - name: "Mountain Biking"
-      icon: "fas fa-biking"
-      color: "primary-dark"
-      content: "25-30 km - A mountain bike is required. Gravel roads - Singletrack - Forest roads - MTB trails.
-"
-
-    # featured service item loop
-    - name: "Kayaking"
+    - title: "Gear list and water conditions"
       icon: "fas fa-water"
-      color: "primary-darker"
-      content: "6-10 km - lake. The kayak is provided with registration.
-"
+      content: |
+        Gear list coming soon.
 
-############################# Service ###############################
+        Bike: A mountain bike is strongly recommended. Tires must be at least 40 mm wide. Electric bikes are not allowed on the course.
 
+        Kayak: Provided with your registration (includes a personal flotation device and paddles).
 
-############################# call to action #################################
-cta:
-  enable: false
-  # call to action content comes from "_index.md"
+        Because the water will be cold in May, a wetsuit or drysuit may be mandatory depending on weather conditions.
+
+    - title: "Fitness and experience"
+      icon: "fas fa-mountain"
+      content: |
+        The 8-hour format is suited both to teams discovering adventure racing and to experienced teams looking for a sustained challenge.
+
+        Good physical fitness is recommended. Advanced navigation skills are not required, but teams must be able to navigate with a map and compass.
+
+    - title: "Camping and accommodations"
+      icon: "fas fa-campground"
+      content: |
+        **Details about race headquarters and accommodation options will be announced soon.**
+
+        Nearby, **Domaine Sayam** offers several cabins and condos, while **Camping de Val-Brillant** is also an option for teams wishing to camp.
+
+        [Domaine Sayam](https://www.domainesayam.com)
+
+        [Camping de Val-Brillant](https://campingvalbrillant.com/)
+
+    - title: "Refund policy"
+      icon: "fas fa-undo-alt"
+      wide: false
+      content: |
+        Refunds will be issued according to the following schedule:
+
+        - **85%** through February 1, 2027
+        - **50%** from February 2 through April 1, 2027
+        - **25%** from April 2 through May 1, 2027
+        - No refunds after May 2, 2027
+
+        Through May 2, teams may transfer their registration to another team after notifying the organizing committee.
 ---

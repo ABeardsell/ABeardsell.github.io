@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Discover our events"
-    link: "raid_stlaurent_2026"
+    link: "raid_stlaurent_2027"
 
 
 ############################### Video ##############################
