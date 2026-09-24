@@ -7,7 +7,7 @@ draft: false
 hero:
   image: "images/Trek.png"
   logo: "images/t-shirt.png"
-  date: "21-23 mai 2027"
+  date: "22-23 mai 2027"
   location: "Amqui · Matapédia"
   tagline: "Aventure. Endurance. Navigation. "
   button:
@@ -35,9 +35,9 @@ intro:
   eyebrow: "Votre aventure"
   title: "Course d’Aventure St-Laurent"
   text: |
-    L'événement se tiendra du 21 au 23 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure [ARWS](https://arworldseries.com/). Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
+    L'événement se tiendra du 22 au 23 mai 2027 dans les environs d’Amqui, dans la Matapédia. Cette épreuve à étapes sur deux jours s’inscrit dans la série mondiale des courses d’aventure [ARWS](https://arworldseries.com/). Les équipes traverseront environ **150 km**, sur un parcours non balisé, en s’orientant avec cartes et boussole.
 
-    Durée de la course : entre **8 et 12 heures par jour** selon les choix de routes, les points de contrôle et la vitesse.
+    Durée de la course : entre **8 et 12 heures par jour** le 22 et 23 mai. La durée variera selon vos choix de routes et votre vitesse.
 
     Disciplines sportives : **vélo de montagne, course à pied/trekking, kayak et navigation**.
 

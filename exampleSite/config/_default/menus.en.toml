@@ -19,13 +19,13 @@ hasChildren = true
   [[main]]
   parent = "2027 Events"
   name = "St-Lawrence 2-day"
-  url = "raid_stlaurent_2027/"
+  url = "raid_stlaurent_2027_EN/"
   weight = 1
 
   [[main]]
   parent = "2027 Events"
   name = "St-Lawrence 1-day"
-  url = "raid_stlaurent7h_2027/"
+  url = "raid_stlaurent7h_2027_EN/"
   weight = 2
 
 
@@ -135,12 +135,12 @@ weight = 1
 
 [[footer]]
 name = "St-Lawrence AR"
-url = "raid_stlaurent_2026/"
+url = "raid_stlaurent_2027_EN/"
 weight = 2
 
 [[footer]]
 name = "St-Lawrence AR 7h"
-url = "raid_stlaurent7h_2026/"
+url = "raid_stlaurent7h_2027_EN/"
 weight = 3
 
 [[footer]]
