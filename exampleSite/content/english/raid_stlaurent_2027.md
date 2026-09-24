@@ -29,7 +29,7 @@ disciplines:
 
   - name: "Kayaking"
     icon: "fas fa-water"
-    text: "Lake: 25–40 km"
+    text: "Lake: 20–30 km"
 
 intro:
   eyebrow: "Your adventure"

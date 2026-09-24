@@ -29,7 +29,7 @@ disciplines:
 
   - name: "Kayak"
     icon: "fas fa-water"
-    text: "Lac 25-40 km"
+    text: "Lac 20-30 km"
 
 intro:
   eyebrow: "Votre aventure"
