@@ -79,12 +79,12 @@ about:
         **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
 
         **Frais d’inscription : 400 $ + taxes par équipe.**
-        Lien pour l'inscription à venir.
+        Lien: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-8h--2027
 
         L’inscription comprend notamment :
         - le kayak;
         - le transport des bacs, vélos et kayaks lorsque requis;
-        - le matériel de course : cartes, dossards et dispositif permettant le suivi de votre équipe en temps réel;
+        - le matériel de course : cartes, dossards et suivi de votre équipe en temps réel;
         - la conception et l’organisation du parcours;
         - Médaille de participation;
         - le repas d’après-course.

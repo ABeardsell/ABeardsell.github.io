@@ -77,14 +77,14 @@ about:
       icon: "fas fa-ticket-alt"
       content: |
         **Registration opens October 23 at 8 a.m.** (Eastern Time).
-        Registration link coming soon.
+        Registration link: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2027
 
         **Registration fee: $800 + tax per team.**
 
         Registration includes:
         - kayak rental;
         - transportation of gear bins, bikes and kayaks when needed;
-        - race materials: maps, race bibs and a device for tracking your team in real time;
+        - race materials: maps, race bibs and live-tracking of your team;
         - course design and organization;
         - a participation medal;
         - a post-race meal (Sunday).
