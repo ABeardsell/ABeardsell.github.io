@@ -77,7 +77,8 @@ about:
       icon: "fas fa-ticket-alt"
       content: |
         **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
-        Lien: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2027
+        
+        [Cliquez ici pour vous inscrire](https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2027)
 
         **Frais d’inscription : 800 $ + taxes par équipe.**
 
