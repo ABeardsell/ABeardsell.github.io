@@ -81,6 +81,10 @@ about:
         **Registration fee: $400 + tax per team.**
         Registration link: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-8h--2027
 
+        Discounts are available for teams with junior members (under 25 years old):
+        - 1 junior member: 15% off with code JUNIOR15
+        - 2 junior members: 30% off with code JUNIOR30
+
         Registration includes:
         - a kayak;
         - transportation of gear bins, bikes and kayaks when needed;

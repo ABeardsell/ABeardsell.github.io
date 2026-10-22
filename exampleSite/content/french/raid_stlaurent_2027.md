@@ -77,8 +77,12 @@ about:
       icon: "fas fa-ticket-alt"
       content: |
         **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
-        
+
         [Cliquez ici pour vous inscrire](https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2027)
+
+        Des rabais sont offerts aux équipes comptant des membres juniors (moins de 25 ans):
+        1 membre junior : 15 % de rabais avec le code JUNIOR15
+        2 membres juniors : 30 % de rabais avec le code JUNIOR30
 
         **Frais d’inscription : 800 $ + taxes par équipe.**
 

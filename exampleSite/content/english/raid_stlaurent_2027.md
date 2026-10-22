@@ -79,6 +79,10 @@ about:
         **Registration opens October 23 at 8 a.m.** (Eastern Time).
         Registration link: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent--2027
 
+        Discounts are available for teams with junior members (under 25 years old):
+        - 1 junior member: 15% off with code JUNIOR15
+        - 2 junior members: 30% off with code JUNIOR30
+
         **Registration fee: $800 + tax per team.**
 
         Registration includes:

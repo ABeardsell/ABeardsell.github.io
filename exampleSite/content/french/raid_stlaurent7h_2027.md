@@ -79,7 +79,11 @@ about:
         **Ouverture des inscriptions : 23 octobre à 8h** (heure de l’Est).
 
         **Frais d’inscription : 400 $ + taxes par équipe.**
-        Lien: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-8h--2027
+        Lien: https://www.zeffy.com/fr-CA/ticketing/inscription-course-daventure-st-laurent-8h--2027  
+
+        Des rabais sont offerts aux équipes comptant des membres juniors (moins de 25 ans) :
+        1 membre junior : 15 % de rabais avec le code JUNIOR15
+        2 membres juniors : 30 % de rabais avec le code JUNIOR30
 
         L’inscription comprend notamment :
         - le kayak;
